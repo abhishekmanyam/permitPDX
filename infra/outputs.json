@@ -9,5 +9,10 @@
   "agent_runtime_arn": "arn:aws:bedrock-agentcore:us-west-2:890992969813:runtime/permitpdx_agent-FRqyV95VJQ",
   "agent_execution_role": "AmazonBedrockAgentCoreSDKRuntime-us-west-2-2d7a29bb4b",
   "guardrail_id": "1hhciwdq9v9c",
-  "guardrail_version": "DRAFT"
+  "guardrail_version": "DRAFT",
+  "ecr_repository_url": "890992969813.dkr.ecr.us-west-2.amazonaws.com/permitpdx-backend",
+  "alb_url": "http://permitpdx-alb-1532714786.us-west-2.elb.amazonaws.com",
+  "cloudfront_url": "https://d3a2n0ysjnhhav.cloudfront.net",
+  "ecs_cluster": "permitpdx-cluster",
+  "ecs_service": "permitpdx-backend"
 }

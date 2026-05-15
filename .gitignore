@@ -18,3 +18,9 @@ __pycache__/
 # Env
 .env
 .env.local
+
+# Terraform
+**/.terraform/*
+*.tfstate
+*.tfstate.*
+**/terraform.tfvars
