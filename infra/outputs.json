@@ -7,5 +7,7 @@
   "knowledge_base_id": "61POYN2UXQ",
   "data_source_id": "R5QDHA16ZZ",
   "agent_runtime_arn": "arn:aws:bedrock-agentcore:us-west-2:890992969813:runtime/permitpdx_agent-FRqyV95VJQ",
-  "agent_execution_role": "AmazonBedrockAgentCoreSDKRuntime-us-west-2-2d7a29bb4b"
+  "agent_execution_role": "AmazonBedrockAgentCoreSDKRuntime-us-west-2-2d7a29bb4b",
+  "guardrail_id": "1hhciwdq9v9c",
+  "guardrail_version": "DRAFT"
 }

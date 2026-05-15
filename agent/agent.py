@@ -97,10 +97,12 @@ async def invoke(payload: dict):
     user_message = _build_user_message(query, chunks, prop)
 
     buffer = ""
+    emitted = False
     async for event in agent.stream_async(user_message):
         delta = event.get("data")
         if not delta:
             continue
+        emitted = True
         if voice:
             # Emit phrase-by-phrase for natural TTS pacing.
             buffer += delta
@@ -116,6 +118,16 @@ async def invoke(payload: dict):
 
     if voice and buffer.strip():
         yield {"type": "phrase", "text": buffer.strip()}
+
+    # A guardrail block produces an empty stream — give the user a clear reply.
+    if not emitted:
+        fallback = (
+            "I can only help with Portland city code, permits, and zoning. "
+            "For this topic, please contact the relevant City of Portland "
+            "bureau directly."
+        )
+        yield {"type": "phrase" if voice else "token", "text": fallback}
+        yield {"type": "blocked", "by": "guardrail"}
 
     yield {"type": "done"}
 

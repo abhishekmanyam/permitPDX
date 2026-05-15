@@ -12,8 +12,8 @@ KNOWLEDGE_BASE_ID = os.environ.get("KNOWLEDGE_BASE_ID", "61POYN2UXQ")
 ANSWER_MODEL = os.environ.get("ANSWER_MODEL", "us.anthropic.claude-sonnet-4-5-20250929-v1:0")
 CLASSIFIER_MODEL = os.environ.get("CLASSIFIER_MODEL", "us.anthropic.claude-haiku-4-5-20251001-v1:0")
 
-# Bedrock Guardrail (set in Phase 4)
-GUARDRAIL_ID = os.environ.get("GUARDRAIL_ID", "")
+# Bedrock Guardrail (see infra/outputs.json)
+GUARDRAIL_ID = os.environ.get("GUARDRAIL_ID", "1hhciwdq9v9c")
 GUARDRAIL_VERSION = os.environ.get("GUARDRAIL_VERSION", "DRAFT")
 
 # Retrieval
