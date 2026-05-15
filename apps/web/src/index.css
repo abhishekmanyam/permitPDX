@@ -39,3 +39,14 @@ body { margin: 0; background: var(--color-cream); }
   background: var(--color-civic);
   animation: caretBlink 1s steps(1) infinite;
 }
+
+/* Claude-style reveal — each newly streamed word fades in from a soft blur. */
+@keyframes blurIn {
+  from { opacity: 0; filter: blur(6px); }
+  to   { opacity: 1; filter: blur(0); }
+}
+.blur-word {
+  display: inline-block;
+  white-space: pre-wrap;
+  animation: blurIn 0.4s cubic-bezier(0.22, 1, 0.36, 1) both;
+}

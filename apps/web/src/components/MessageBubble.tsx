@@ -1,19 +1,59 @@
-import { useState } from "react";
-import ReactMarkdown from "react-markdown";
+import {
+  Children,
+  createElement,
+  isValidElement,
+  useState,
+  type ReactNode,
+} from "react";
+import ReactMarkdown, { type Components } from "react-markdown";
 import type { ChatMessage } from "../lib/types";
 import RiskBadge from "./RiskBadge";
 
 /**
  * While streaming, the text may end mid-markup (e.g. an unclosed `**`).
- * Trim a dangling marker so it doesn't flash as a literal `**`/`*`/`` ` ``
+ * Drop the dangling marker so it doesn't flash as a literal `**`/`` ` ``
  * until its closing pair arrives.
  */
 function tidyPartial(text: string): string {
   let t = text;
-  if ((t.match(/\*\*/g)?.length ?? 0) % 2) t = t.replace(/\*\*(?!.*\*\*)/, "");
-  if ((t.match(/`/g)?.length ?? 0) % 2) t = t.replace(/`(?!.*`)/, "");
+  for (const mark of ["**", "`"]) {
+    const count = t.split(mark).length - 1;
+    if (count % 2) {
+      const i = t.lastIndexOf(mark);
+      t = t.slice(0, i) + t.slice(i + mark.length);
+    }
+  }
   return t;
 }
+
+/**
+ * Wrap every word of a markdown node's text in a blur-in span. Words are
+ * keyed by index, so words already on screen keep their identity and never
+ * re-animate — only newly streamed words fade in.
+ */
+function blurWords(children: ReactNode): ReactNode {
+  return Children.map(children, (child) => {
+    if (typeof child === "string") {
+      return (child.match(/\S+\s*|\s+/g) ?? []).map((w, i) => (
+        <span key={i} className="blur-word">
+          {w}
+        </span>
+      ));
+    }
+    if (isValidElement(child)) return child; // nested element handles itself
+    return child;
+  });
+}
+
+// Markdown elements whose text should animate in, word by word.
+const ANIMATED_TAGS = ["p", "li", "h1", "h2", "h3", "strong", "em", "blockquote"];
+const animatedComponents: Components = Object.fromEntries(
+  ANIMATED_TAGS.map((tag) => [
+    tag,
+    ({ children, node: _node, ...props }: { children?: ReactNode; node?: unknown }) =>
+      createElement(tag, props, blurWords(children)),
+  ]),
+);
 
 export default function MessageBubble({ msg }: { msg: ChatMessage }) {
   const [showSources, setShowSources] = useState(false);
@@ -48,7 +88,9 @@ export default function MessageBubble({ msg }: { msg: ChatMessage }) {
               streaming ? "is-streaming" : ""
             }`}
           >
-            <ReactMarkdown>{body}</ReactMarkdown>
+            <ReactMarkdown components={streaming ? animatedComponents : undefined}>
+              {body}
+            </ReactMarkdown>
           </div>
         )}
 
