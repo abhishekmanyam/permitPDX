@@ -79,14 +79,18 @@ def retrieve_multi_corpus(query: str, classification: dict) -> list[dict]:
     for text, title_n in queries:
         for r in _retrieve_one(text, config.RESULTS_PER_TITLE):
             uri = r.get("location", {}).get("s3Location", {}).get("uri", "")
+            chunk_text = r.get("content", {}).get("text", "")
             score = r.get("score", 0.0)
             # +boost when the chunk's source file matches the queried title.
             if title_n and f"title_{title_n}." in uri:
                 score *= config.ON_CORPUS_BOOST
-            prev = merged.get(uri)
+            # Dedupe by chunk content — every chunk of a title shares one
+            # source-file URI, so the URI cannot identify a chunk.
+            key = chunk_text[:200]
+            prev = merged.get(key)
             if prev is None or score > prev["score"]:
-                merged[uri] = {
-                    "text": r.get("content", {}).get("text", ""),
+                merged[key] = {
+                    "text": chunk_text,
                     "uri": uri,
                     "title": _title_from_uri(uri),
                     "score": score,
