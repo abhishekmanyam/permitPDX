@@ -52,7 +52,16 @@ async def chat(req: Request) -> StreamingResponse:
         except Exception as exc:  # noqa: BLE001 — surface failures to the client
             yield f"data: {json.dumps({'type': 'error', 'message': str(exc)})}\n\n"
 
-    return StreamingResponse(event_stream(), media_type="text/event-stream")
+    return StreamingResponse(
+        event_stream(),
+        media_type="text/event-stream",
+        # Defeat proxy/CDN buffering so tokens reach the browser as they stream.
+        headers={
+            "Cache-Control": "no-cache, no-transform",
+            "X-Accel-Buffering": "no",
+            "Connection": "keep-alive",
+        },
+    )
 
 
 # ------------------------------------------------------------- property
@@ -74,38 +83,78 @@ async def reverse(req: Request) -> JSONResponse:
 
 
 @app.post("/api/avatar/session")
-def avatar_session() -> JSONResponse:
-    return JSONResponse(avatar.create_session_token())
+async def avatar_session(req: Request) -> JSONResponse:
+    body = await req.json() if await req.body() else {}
+    return JSONResponse(avatar.create_session_token(body.get("sandbox", True)))
+
+
+@app.post("/api/avatar/stop")
+async def avatar_stop(req: Request) -> JSONResponse:
+    body = await req.json()
+    token = body.get("session_token", "")
+    if not token:
+        return JSONResponse({"error": "session_token required"}, status_code=400)
+    return JSONResponse(avatar.stop_session(token))
 
 
 # ---------------------- OpenAI-compatible endpoint (HeyGen Custom LLM) ------
 
 
-def _run_voice_agent(message: str, session_id: str) -> str:
-    """Collect the full voice answer from the agent (non-streamed)."""
-    parts: list[str] = []
+def _voice_phrases(message: str, session_id: str):
+    """Yield the agent's spoken phrases for a voice/avatar turn."""
     for event in invoke_agent(message, session_id, "avatar"):
         if event.get("type") in ("phrase", "token"):
-            parts.append(event.get("text", ""))
-    return " ".join(p.strip() for p in parts if p.strip()).strip()
+            text = event.get("text", "").strip()
+            if text:
+                yield text
+
+
+def _run_voice_agent(message: str, session_id: str) -> str:
+    """Collect the full voice answer from the agent (non-streamed)."""
+    return " ".join(_voice_phrases(message, session_id)).strip()
 
 
 @app.post("/v1/chat/completions")
 @app.post("/chat/completions")
-async def chat_completions(req: Request) -> JSONResponse:
-    """OpenAI-shaped endpoint. HeyGen's Custom LLM posts here."""
+async def chat_completions(req: Request):
+    """OpenAI-shaped endpoint. The LiveAvatar Custom LLM posts here."""
     body = await req.json()
     messages = body.get("messages", [])
+    stream = bool(body.get("stream", False))
     user_msg = next(
         (m.get("content", "") for m in reversed(messages) if m.get("role") == "user"),
         "",
     )
     session_id = body.get("user") or str(uuid.uuid4())
+    chunk_id = f"chatcmpl-{uuid.uuid4().hex[:12]}"
+
+    if stream:
+        def sse():
+            for phrase in _voice_phrases(user_msg, session_id):
+                delta = {"role": "assistant", "content": phrase + " "}
+                yield "data: " + json.dumps({
+                    "id": chunk_id, "object": "chat.completion.chunk",
+                    "created": int(time.time()), "model": "portland-permit-assistant",
+                    "choices": [{"index": 0, "delta": delta, "finish_reason": None}],
+                }) + "\n\n"
+            yield "data: " + json.dumps({
+                "id": chunk_id, "object": "chat.completion.chunk",
+                "created": int(time.time()), "model": "portland-permit-assistant",
+                "choices": [{"index": 0, "delta": {}, "finish_reason": "stop"}],
+            }) + "\n\n"
+            yield "data: [DONE]\n\n"
+
+        return StreamingResponse(
+            sse(), media_type="text/event-stream",
+            headers={"Cache-Control": "no-cache, no-transform",
+                     "X-Accel-Buffering": "no"},
+        )
+
     answer = _run_voice_agent(user_msg, session_id) or (
         "I'm sorry, I didn't catch that. Could you ask again?"
     )
     return JSONResponse({
-        "id": f"chatcmpl-{uuid.uuid4().hex[:12]}",
+        "id": chunk_id,
         "object": "chat.completion",
         "created": int(time.time()),
         "model": "portland-permit-assistant",

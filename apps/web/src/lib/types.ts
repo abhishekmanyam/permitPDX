@@ -37,11 +37,13 @@ export interface ChatMessage {
   sources?: Source[];
   risk?: Risk;
   classification?: Classification;
+  status?: string;
   streaming?: boolean;
 }
 
 export type AgentEvent =
   | { type: "meta"; classification: Classification; risk: Risk; sources: Source[] }
+  | { type: "status"; stage: string; text: string }
   | { type: "token"; text: string }
   | { type: "phrase"; text: string }
   | { type: "blocked"; by: string }

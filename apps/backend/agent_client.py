@@ -34,7 +34,8 @@ def invoke_agent(prompt: str, session_id: str, channel: str = "web",
         agentRuntimeArn=AGENT_RUNTIME_ARN,
         runtimeSessionId=session_id,
         contentType="application/json",
-        accept="application/json",
+        # Ask the runtime to stream events as they are produced, not buffer.
+        accept="text/event-stream",
         payload=json.dumps(payload).encode(),
     )
 

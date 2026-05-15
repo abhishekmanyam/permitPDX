@@ -61,6 +61,10 @@ export async function reverseGeocode(lat: number, lon: number): Promise<Property
 }
 
 export async function avatarSession(): Promise<Record<string, string>> {
-  const res = await fetch(`${API_BASE}/api/avatar/session`, { method: "POST" });
+  const res = await fetch(`${API_BASE}/api/avatar/session`, {
+    method: "POST",
+    headers: { "Content-Type": "application/json" },
+    body: JSON.stringify({ sandbox: true }),
+  });
   return res.json();
 }

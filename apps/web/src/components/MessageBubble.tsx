@@ -23,7 +23,10 @@ export default function MessageBubble({ msg }: { msg: ChatMessage }) {
           {msg.text ? (
             <ReactMarkdown>{msg.text}</ReactMarkdown>
           ) : (
-            <span className="text-gray-400">Thinking…</span>
+            <span className="flex items-center gap-2 text-gray-400">
+              <span className="inline-block h-2 w-2 animate-pulse rounded-full bg-civic" />
+              {msg.status ?? "Thinking…"}
+            </span>
           )}
         </div>
 

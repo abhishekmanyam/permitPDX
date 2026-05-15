@@ -73,8 +73,14 @@ async def invoke(payload: dict):
         yield {"type": "error", "message": "Empty query."}
         return
 
-    # 1-3 — classify, retrieve, risk
+    # 1-3 — classify, retrieve, risk. Emit a status event before each blocking
+    # step so the client shows progress instead of a silent wait.
+    yield {"type": "status", "stage": "classifying",
+           "text": "Understanding your question…"}
     classification = classify_query(query)
+
+    yield {"type": "status", "stage": "retrieving",
+           "text": "Searching Portland city code…"}
     chunks = retrieve_multi_corpus(query, classification)
     risk = assess_risk(query, classification)
 

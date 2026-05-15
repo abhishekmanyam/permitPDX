@@ -1,63 +1,148 @@
-import { useRef, useState } from "react";
-import { avatarSession } from "../lib/api";
+import { useCallback, useEffect, useRef, useState } from "react";
+import { LiveAvatarSession } from "@heygen/liveavatar-web-sdk";
 
-type Status = "idle" | "connecting" | "ready" | "error";
+const API_BASE = import.meta.env.VITE_API_BASE ?? "";
+
+type State = "idle" | "connecting" | "listening" | "speaking" | "error";
 
 export default function AvatarPanel() {
-  const [status, setStatus] = useState<Status>("idle");
-  const [detail, setDetail] = useState("");
+  const [state, setState] = useState<State>("idle");
+  const [error, setError] = useState<string | null>(null);
+  const [userText, setUserText] = useState("");
+  const [avatarText, setAvatarText] = useState("");
   const videoRef = useRef<HTMLVideoElement>(null);
+  const sessionRef = useRef<LiveAvatarSession | null>(null);
+  const tokenRef = useRef<string | null>(null);
 
-  async function start() {
-    setStatus("connecting");
-    setDetail("Requesting a LiveAvatar session…");
+  const start = useCallback(async () => {
+    setState("connecting");
+    setError(null);
     try {
-      const session = await avatarSession();
-      if (session.error || !session.token) {
-        setStatus("error");
-        setDetail(session.error || "No session token returned.");
-        return;
-      }
-      // The HeyGen LiveAvatar SDK consumes session.token to open a WebRTC
-      // stream into the <video> element. The avatar's Custom LLM is wired
-      // to this backend's /v1/chat/completions endpoint.
-      setStatus("ready");
-      setDetail(`Session ready (avatar ${session.avatar_id?.slice(0, 8)}…).`);
-    } catch (e) {
-      setStatus("error");
-      setDetail(String(e));
+      const resp = await fetch(`${API_BASE}/api/avatar/session`, {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ sandbox: true }),
+      });
+      const data = await resp.json();
+      if (!data.session_token) throw new Error(data.error || "No session token");
+      tokenRef.current = data.session_token;
+
+      // The SDK handles /sessions/start, LiveKit transport, mic + VAD, and TTS.
+      const session = new LiveAvatarSession(data.session_token) as any;
+      sessionRef.current = session;
+
+      session.on("session.stream_ready", () => {
+        if (videoRef.current) session.attach(videoRef.current);
+        session.voiceChat.start();
+        setState("listening");
+      });
+      session.on("user.transcription", (e: any) => setUserText(e?.text || ""));
+      session.on("avatar.transcription", (e: any) => setAvatarText(e?.text || ""));
+      session.on("avatar.speak_started", () => setState("speaking"));
+      session.on("avatar.speak_ended", () => setState("listening"));
+      session.on("session.stopped", () => setState("idle"));
+
+      await session.start();
+    } catch (e: any) {
+      setError(e?.message || "Failed to connect");
+      setState("error");
     }
-  }
+  }, []);
+
+  const stop = useCallback(() => {
+    try {
+      sessionRef.current?.stop();
+    } catch {
+      /* ignore */
+    }
+    if (tokenRef.current) {
+      fetch(`${API_BASE}/api/avatar/stop`, {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ session_token: tokenRef.current }),
+      }).catch(() => {});
+    }
+    sessionRef.current = null;
+    tokenRef.current = null;
+    setState("idle");
+    setUserText("");
+    setAvatarText("");
+  }, []);
+
+  useEffect(() => () => stop(), [stop]);
+
+  const active = state !== "idle" && state !== "error";
 
   return (
-    <div className="flex h-full flex-col items-center justify-center gap-4 p-6 text-center">
-      <div className="text-xs font-semibold uppercase tracking-wide text-civic">
-        Talk to the avatar
-      </div>
-      <div className="relative aspect-video w-full max-w-md overflow-hidden rounded-xl bg-gray-900">
-        <video
-          ref={videoRef}
-          autoPlay
-          playsInline
-          className="h-full w-full object-cover"
-        />
-        {status !== "ready" && (
-          <div className="absolute inset-0 flex flex-col items-center justify-center gap-2 text-sm text-gray-300">
-            <span className="text-3xl">🧑‍💼</span>
-            <span>{status === "idle" ? "Avatar kiosk experience" : detail}</span>
+    <div className="relative flex h-full flex-col bg-gray-900">
+      <div className="flex flex-1 items-center justify-center overflow-hidden">
+        {active ? (
+          <video
+            ref={videoRef}
+            autoPlay
+            playsInline
+            className="h-full w-full object-cover"
+          />
+        ) : (
+          <div className="px-6 text-center">
+            <div className="mx-auto mb-3 text-4xl">🧑‍💼</div>
+            <p className="text-sm text-gray-300">Live Avatar</p>
+            <p className="mt-1 text-xs text-gray-500">
+              Talk face-to-face with the Portland Permit Assistant
+            </p>
           </div>
         )}
       </div>
-      <button
-        onClick={start}
-        disabled={status === "connecting" || status === "ready"}
-        className="rounded-lg bg-civic px-5 py-2 text-sm font-semibold text-white disabled:opacity-50"
-      >
-        {status === "ready" ? "Connected" : "Start avatar session"}
-      </button>
-      {detail && status !== "idle" && (
-        <p className="text-xs text-gray-500">{detail}</p>
+
+      {active && (
+        <div className="absolute left-3 top-3 flex items-center gap-2 rounded-lg bg-black/60 px-3 py-1.5 text-xs text-white">
+          <span
+            className={`h-2 w-2 rounded-full ${
+              state === "speaking"
+                ? "bg-green-400"
+                : state === "listening"
+                  ? "bg-blue-400"
+                  : "bg-yellow-400"
+            } animate-pulse`}
+          />
+          {state === "connecting" && "Connecting…"}
+          {state === "listening" && "Listening…"}
+          {state === "speaking" && "Speaking"}
+        </div>
       )}
+
+      {active && (avatarText || userText) && (
+        <div className="absolute bottom-20 left-3 right-3 space-y-2">
+          {avatarText && (
+            <div className="max-h-24 overflow-y-auto rounded-lg bg-black/70 px-3 py-2 text-sm text-white">
+              {avatarText}
+            </div>
+          )}
+          {userText && (
+            <div className="rounded-lg bg-white/10 px-3 py-2 text-sm italic text-gray-300">
+              You: {userText}
+            </div>
+          )}
+        </div>
+      )}
+
+      {error && (
+        <div className="absolute bottom-20 left-3 right-3 rounded-lg bg-red-500/90 px-3 py-2 text-sm text-white">
+          {error}
+        </div>
+      )}
+
+      <div className="flex justify-center p-3">
+        <button
+          onClick={active ? stop : start}
+          disabled={state === "connecting"}
+          className={`rounded-xl px-6 py-2.5 text-sm font-semibold text-white disabled:opacity-50 ${
+            active ? "bg-red-600" : "bg-civic"
+          }`}
+        >
+          {active ? "End session" : "Start avatar"}
+        </button>
+      </div>
     </div>
   );
 }

@@ -40,8 +40,12 @@ export default function ChatPanel({ property }: { property: Property | null }) {
             last.sources = ev.sources;
             last.risk = ev.risk;
             last.classification = ev.classification;
+            last.status = undefined;
+          } else if (ev.type === "status") {
+            last.status = ev.text;
           } else if (ev.type === "token") {
             last.text += ev.text;
+            last.status = undefined;
           } else if (ev.type === "error") {
             last.text = `Sorry — something went wrong: ${ev.message}`;
           } else if (ev.type === "done") {
