@@ -53,6 +53,9 @@ def step_vector_store() -> tuple[str, str]:
 
     bucket = s3v.get_vector_bucket(vectorBucketName=c.VECTOR_BUCKET)["vectorBucket"]
 
+    # Bedrock KB stores the chunk text and a metadata blob in the vector store;
+    # both exceed the S3 Vectors 2048-byte filterable-metadata cap, so they must
+    # be declared non-filterable.
     try:
         s3v.create_index(
             vectorBucketName=c.VECTOR_BUCKET,
@@ -60,7 +63,12 @@ def step_vector_store() -> tuple[str, str]:
             dataType="float32",
             dimension=c.EMBED_DIM,
             distanceMetric="cosine",
-            metadataConfiguration={"nonFilterableMetadataKeys": ["AMAZON_BEDROCK_TEXT"]},
+            metadataConfiguration={
+                "nonFilterableMetadataKeys": [
+                    "AMAZON_BEDROCK_TEXT",
+                    "AMAZON_BEDROCK_METADATA",
+                ]
+            },
         )
         print(f"  created index {c.VECTOR_INDEX}")
     except ClientError as e:
