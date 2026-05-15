@@ -14,6 +14,7 @@ import uuid
 from xml.sax.saxutils import escape
 
 from fastapi import FastAPI, Form, Request
+from fastapi.middleware.cors import CORSMiddleware
 from fastapi.responses import HTMLResponse, JSONResponse, Response, StreamingResponse
 from fastapi.staticfiles import StaticFiles
 
@@ -22,6 +23,15 @@ from agent_client import invoke_agent
 from property import resolve_address, reverse_geocode
 
 app = FastAPI(title="Portland Permit Assistant")
+
+# In production the backend serves the frontend (same origin); CORS only
+# matters for the local dev server on a different port.
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["*"],
+    allow_methods=["*"],
+    allow_headers=["*"],
+)
 
 WEB_DIR = os.environ.get("WEB_DIR", "web")
 

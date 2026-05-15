@@ -1,0 +1,10 @@
+.git
+.venv
+**/node_modules
+**/dist
+**/__pycache__
+**/.env
+**/.env.*
+infra/fargate/.terraform
+infra/fargate/*.tfstate*
+data
