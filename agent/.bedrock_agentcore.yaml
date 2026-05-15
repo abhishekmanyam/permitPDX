@@ -1,0 +1,62 @@
+default_agent: permitpdx_agent
+agents:
+  permitpdx_agent:
+    name: permitpdx_agent
+    language: python
+    node_version: '20'
+    entrypoint: /Users/abhishek/cityhackathon/permitPDX/agent/agent.py
+    deployment_type: direct_code_deploy
+    runtime_type: PYTHON_3_12
+    platform: linux/arm64
+    container_runtime: null
+    source_path: /Users/abhishek/cityhackathon/permitPDX/agent
+    aws:
+      execution_role: arn:aws:iam::890992969813:role/AmazonBedrockAgentCoreSDKRuntime-us-west-2-2d7a29bb4b
+      execution_role_auto_create: false
+      account: '890992969813'
+      region: us-west-2
+      ecr_repository: null
+      ecr_auto_create: false
+      s3_path: s3://bedrock-agentcore-codebuild-sources-890992969813-us-west-2
+      s3_auto_create: false
+      network_configuration:
+        network_mode: PUBLIC
+        network_mode_config: null
+      protocol_configuration:
+        server_protocol: HTTP
+      observability:
+        enabled: true
+      lifecycle_configuration:
+        idle_runtime_session_timeout: null
+        max_lifetime: null
+    bedrock_agentcore:
+      agent_id: permitpdx_agent-FRqyV95VJQ
+      agent_arn: arn:aws:bedrock-agentcore:us-west-2:890992969813:runtime/permitpdx_agent-FRqyV95VJQ
+      agent_session_id: 8457fa42-c149-4600-b626-8cb442d32b88
+    codebuild:
+      project_name: null
+      execution_role: null
+      source_bucket: null
+    memory:
+      mode: STM_ONLY
+      memory_id: permitpdx_agent_mem-0vbaOv2Mhs
+      memory_arn: arn:aws:bedrock-agentcore:us-west-2:890992969813:memory/permitpdx_agent_mem-0vbaOv2Mhs
+      memory_name: permitpdx_agent_mem
+      event_expiry_days: 30
+      first_invoke_memory_check_done: true
+      was_created_by_toolkit: true
+    identity:
+      credential_providers: []
+      workload: null
+    aws_jwt:
+      enabled: false
+      audiences: []
+      signing_algorithm: ES384
+      issuer_url: null
+      duration_seconds: 300
+    authorizer_configuration: null
+    request_header_configuration: null
+    oauth_configuration: null
+    api_key_env_var_name: null
+    api_key_credential_provider_name: null
+    is_generated_by_agentcore_create: false
