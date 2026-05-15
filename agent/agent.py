@@ -13,6 +13,7 @@ from __future__ import annotations
 import config
 from prompts import ANSWER_PROMPT, VOICE_ANSWER_PROMPT
 from pipeline import assess_risk, classify_query, retrieve_multi_corpus
+from tools import resolve_property
 
 from bedrock_agentcore.runtime import BedrockAgentCoreApp
 from strands import Agent
@@ -91,6 +92,7 @@ async def invoke(payload: dict):
     agent = Agent(
         model=_build_model(voice),
         system_prompt=VOICE_ANSWER_PROMPT if voice else ANSWER_PROMPT,
+        tools=[resolve_property],
     )
     user_message = _build_user_message(query, chunks, prop)
 

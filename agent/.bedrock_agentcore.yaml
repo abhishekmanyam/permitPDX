@@ -32,7 +32,7 @@ agents:
     bedrock_agentcore:
       agent_id: permitpdx_agent-FRqyV95VJQ
       agent_arn: arn:aws:bedrock-agentcore:us-west-2:890992969813:runtime/permitpdx_agent-FRqyV95VJQ
-      agent_session_id: 8457fa42-c149-4600-b626-8cb442d32b88
+      agent_session_id: 73d70d99-b673-4847-b727-92f30dc12846
     codebuild:
       project_name: null
       execution_role: null
