@@ -1,0 +1,9 @@
+{
+  "region": "us-west-2",
+  "source_bucket": "portland-permit-kb-source-dev-890992969813",
+  "vector_bucket_arn": "arn:aws:s3vectors:us-west-2:890992969813:bucket/portland-permit-kb-vectors-dev-890992969813",
+  "vector_index_arn": "arn:aws:s3vectors:us-west-2:890992969813:bucket/portland-permit-kb-vectors-dev-890992969813/index/portland-permit-index",
+  "kb_role_arn": "arn:aws:iam::890992969813:role/portland-permit-kb-role-dev",
+  "knowledge_base_id": "61POYN2UXQ",
+  "data_source_id": "R5QDHA16ZZ"
+}
