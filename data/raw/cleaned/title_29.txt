@@ -1,0 +1,6034 @@
+Portland City Code - Title 29
+
+# Title 29 Property Maintenance Regulations
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(Title replaced by Ordinance 192002, effective January 10, 2025.)
+
+
+
+
+
+
+
+
+
+
+
+
+
+Chapter 29.05 Title, Purpose and Scope
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+29.05.010 Title.
+
+
+
+
+This Title is known as the “Property Maintenance Regulations.”
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+29.05.020 Purpose.
+
+
+
+
+The purpose of this Title is to protect the health, safety and welfare of Portland’s citizens, to prevent deterioration of existing housing and the exterior of non-residential structures, and to contribute to vital neighborhoods by:
+
+A. Establishing and enforcing minimum standards for residential structures regarding basic equipment, facilities, sanitation, fire safety, and maintenance.
+
+B. Establishing and enforcing minimum standards of maintenance for outdoor areas and adjacent rights of way.
+
+C. Regulating and abating dangerous and derelict buildings.
+
+D. Establishing and enforcing minimum standards for the exterior maintenance of nonresidential structures.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+29.05.030 Scope.
+
+
+
+
+The provisions of this Title apply to all property in the City except as otherwise excluded by law.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+29.05.040 Application of Titles 24, 25, 26, 27, 28, and 33.
+
+
+
+
+Any alterations to buildings or properties or changes of their use that may be a result of the enforcement of this Title must be done in accordance with Portland City Code Titles 24, 25, 26, 27, 28, and 33 and other applicable regulations.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Chapter 29.10 Definitions
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+29.10.010 General.
+
+
+
+
+For the purpose of this Title, certain abbreviations, terms, phrases, words and their derivatives must be construed as specified in this Chapter. “And” indicates that all connected items or provisions apply. “Or” indicates that the connected items or provisions may apply singly or in combination. Terms, words, phrases and their derivatives used but not specifically defined in this Title either have the meanings defined in Portland City Code Title 24 or, if not defined there, have their commonly accepted meanings.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+29.10.020 Definitions.
+
+
+
+
+The definitions of words with specific meaning in this Title are as follows:
+
+A.Abatement of a nuisance. The act of removing, repairing, or taking other steps as may be necessary in order to remove a nuisance.
+
+B.Accessory structure. Any structure not intended for human occupancy that is located on residential or nonresidential property. Accessory structures may be attached to or detached from the residential or nonresidential structure. Examples of accessory structures include: garages, carports, sheds, and other non-dwelling buildings; decks, awnings, heat pumps, fences, trellises, flag poles, tanks, towers, exterior stairs, driveways and walkways, and other exterior structures on the property.
+
+C.Adjacent right-of-way. The sidewalks and planting strips that border a specific property as well as the near half of the streets, alleys, or other public rights of way that border a specific property.
+
+D.Apartment house. See dwelling classifications.
+
+E.Approved. Meets the standards set forth by applicable Portland City Code including any applicable regulations for electric, plumbing, building, or other sets of standards included by reference in this Title.
+
+F.Basement. The usable portion of a building that is below the main entrance story and is partly or completely below grade.
+
+G.Boarded. Secured against entry by apparatus that is visible off the premises and is not both lawful and customary to install on occupied structures.
+
+H.Building. Any structure used or intended to be used for supporting or sheltering any use or occupancy.
+
+I.Building, existing. Existing building is a building erected prior to the 1972 adoption of the building code by the City, or one for which a legal permit has been issued.
+
+J.Ceiling height. The clear distance between the floor and the ceiling directly above it.
+
+K.Court. A space, open and unobstructed to the sky, located at or above grade level on a lot and bounded on three or more sides by walls of a building.
+
+L.Dangerous building. See dangerous structure.
+
+M.Dangerous structure. Any structure that has any of the conditions or defects described in Section 29.40.020, to the extent that life, health, property, or safety of the public or its occupants are endangered.
+
+N.Demolition warrant. An order from the Circuit Court authorizing the demolition of a dangerous structure as authorized by this Title, including disposal of all debris in an approved manner, and returning the lot to a clean and level condition.
+
+O.Derelict building. Any structure that has any of the conditions or defects described in Subsection 29.40.010 A.
+
+P.Director. Is as defined in Portland City Code Section 24.15.070.
+
+Q.Disabled vehicle. Any vehicle that is or appears to be inoperative, wrecked or dismantled, or partially dismantled.
+
+R.Duplex. See dwelling classifications, “two-family dwelling.”
+
+S.Dwelling. Any structure containing dwelling units, including all dwelling classifications covered by the Title.
+
+T.Dwelling classifications. Types of dwellings covered by this Title include:
+1.Single-family dwelling. A structure containing one dwelling unit.
+
+2.Two-family dwelling. A structure containing two dwelling units, also known as a “duplex.”
+
+3.Apartment house. Any building or portion of a building containing three or more dwelling units that is designed, built, rented, leased, let, or hired out to be occupied for residential living purposes.
+
+4.Hotel. Any structure containing six or more dwelling units that are intended, designed, or used for renting or hiring out for sleeping purposes by residents on a daily, weekly, or monthly basis.
+
+5.Motel. For purposes of this Title, a motel is defined the same as a hotel.
+
+6.Single-room occupancy housing unit. A one-room dwelling unit in a hotel providing sleeping, cooking, and living facilities for one or two persons in which some or all sanitary or cooking facilities (toilet, lavatory, bathtub or shower, kitchen sink, or cooking equipment) may be shared with other dwelling units.
+
+7.Manufactured dwelling. The term “manufactured dwelling” includes the following types of single-family dwellings as noted below.  Manufactured dwelling does not include any unit identified as a recreational vehicle by the manufacturer:
+a.Residential trailer. A structure constructed for movement on the public highways that has sleeping, cooking, and plumbing facilities, that is intended for human occupancy, that is being used for, or is intended to be used for, residential purposes, and that was constructed before January 1, 1962.
+
+b.Mobile home. A structure constructed for movement on the public highways that has sleeping, cooking, and plumbing facilities, that is intended for human occupancy, that is being used for, or is intended to be used for, residential purposes, and that was constructed between January 1, 1962, and June 15, 1976, and met the construction requirements of Oregon mobile home law in effect at the time of construction.
+
+c.Manufactured home. A structure constructed for movement on the public highways that has sleeping, cooking, and plumbing facilities, that is intended for human occupancy, that is being used for, or is intended to be used for, residential purposes, and that was constructed in accordance with federal manufactured housing construction and safety standards and regulations.
+
+8.Floating home. A floating structure used primarily as a dwelling unit. Application of this Title will be modified for floating homes, when appropriate, by nautical application and tradition as defined in Portland City Code Section 28.01.020.
+
+U.Dwelling unit. A single unit providing complete, independent living facilities for one or more persons, including permanent provisions for living, sleeping, cooking, eating, and sanitation.
+
+V.Eradication. Eradication is the removal of the entire nuisance plant – including the above ground portion of the plant, and the roots, shoots and seeds of the plant. The eradication provisions apply to those plants on the Nuisance Plants List, Required Eradication List.
+
+W.Exit (means of egress.) A continuous, unobstructed means of escape to a public way, including intervening doors, doorways, exit balconies, ramps, stairways, smoke-proof enclosures, horizontal exits, passageways, exterior courts and yards.
+
+X.Exterior property area. The sections of residential property that are outside the exterior walls and roof of the dwelling.
+
+Y.Extermination. The control and elimination of insects, rodents, vermin or other pests by eliminating their harborage places; by removing or making inaccessible those materials that serve as a source of food or water; or by other approved pest elimination methods.
+
+Z.Floor area. The area of clear floor space in a room exclusive of fixed or built-in cabinets or appliances.
+
+AA.Guard or guardrail. A building component or a system of building components located at or near the open sides of elevated walking surfaces that minimizes the possibility of a fall from the walking surface to a lower level.
+
+BB.Habitable room (space). Habitable room or space is a structure for living, sleeping, eating or cooking. Bathrooms, toilet compartments, closets, halls, storage or utility space, and similar areas are not considered habitable space.
+
+CC.Handrail. A horizontal or sloping rail intended for grasping by the hand for guidance or support.
+
+DD.Hotel. See dwelling classifications.
+
+EE.Immediate danger. Any condition posing a direct immediate threat to human life, health, or safety.
+
+FF.Infestation. The presence within or around a structure of insects, rodents, vermin or other pests to a degree that is harmful to the dwelling or its occupants.
+
+GG.Inspection. The examination of a property by the City Administrator for the purpose of evaluating its condition as provided by this Title.
+
+HH.Inspection warrant. An order from the Circuit Court authorizing a safety or health inspection or investigation to be conducted at a designated property.
+
+II.Inspector. An authorized representative of the City Administrator whose primary function is the inspection of properties and the enforcement of this Title.
+
+JJ.Interested party. Any person or entity that possesses any legal or equitable interest of record in a property including but not limited to the holder of any lien or encumbrance of record on the property.
+
+KK.Kitchen. A room used or designed to be used for the preparation of food.
+
+LL.Lavatory. A fixed wash basin connected to hot and cold running water and the building drain and used primarily for personal hygiene.
+
+MM.Lawn area. Any area of a property, including vacant lots, where lawn grasses are used as ground cover, or where the ground covering vegetation does not permit passage to substantial portions of the property without walking directly on the vegetation.
+
+NN. Lawn grass. Varieties of grass that were planted, or are commonly sold, for the purpose of maintaining a mowed lawn.
+
+OO.Maintenance. The work of keeping property in proper condition to perpetuate its use.
+
+PP.Maintained compost area. A small portion of a property set aside for the purpose of encouraging the rapid decomposition of yard debris and other vegetable matter into a suitable fertilizer for the soil on the property. A maintained compost area shows clear indicators that the yard debris placed there is being actively managed to encourage its rapid decomposition. Possible signs of such active management may include evidence of regular turning, a mixture of yard debris types, any woody materials present having been chopped into small sizes, and the presence of internal heat in the composting mixture. A location where yard debris is placed primarily as a means to store it or dump it without reasonable expectation of rapid decomposition is not a maintained compost area.
+
+QQ. Manufactured dwelling. See dwelling classifications.
+
+RR.Motel. See dwelling classifications.
+
+SS.Naturescape. Landscaping and gardening approaches that use predominately native plants for the purpose of creating improved outdoor habitat for native insects, birds, and mammals and reducing the need for pesticides, chemical fertilizers, and summer watering.
+
+TT.Nuisance Abatement Warrant. An order from the Circuit Court authorizing the removal and abatement of any nuisance as authorized by this Title, including disposal of the nuisance items removed in an appropriate manner.
+
+UU.Occupancy. The lawful purpose for which a building or part of a building is used or intended to be used.
+
+VV.Occupant. Any person (including an owner or operator) using a building, or any part of a building, for its lawful, intended use.
+
+WW.Operator. Any person who has charge, care or control of a building or part of a building in which dwelling units are let or offered for occupancy.
+
+XX.Outdoor area. All parts of property that are exposed to the weather including the exterior of structures built for human occupancy. This includes, but is not limited to, vehicles parked on the property; open and accessible porches, carports, garages, and decks; accessory structures, and any outdoor storage structure.
+
+YY.Owner. The person whose name and address are listed as the owner of the property by the County Tax Assessor on the County Assessment and Taxation records.
+
+ZZ.Plumbing or plumbing fixtures. Plumbing or plumbing fixtures mean any water heating facilities, water pipes, vent pipes, garbage or disposal units, waste lavatories, bathtubs, shower baths, installed clothes-washing machines or other similar equipment, catch basins, drains, vents, or other similarly supplied fixtures, together with all connection to water, gas, sewer, or vent lines.
+
+AAA. Property. Any real property and all improvements, buildings or structures on real property, from property line to property line.
+
+BBB.Public right-of-way. Any sidewalk, planting strip, alley, street, or pathway, improved or unimproved, that is dedicated to public use.
+
+CCC.Repair. The reconstruction or renewal of any part of an existing structure for the purpose of its maintenance.
+
+DDD.Resident. Any person (including owner or operator) hiring or occupying a room or dwelling unit for living or sleeping purposes.
+
+EEE.Residential property. Real property and all improvements or structures on real property used or intended to be used for residential purposes including any residential structure, dwelling, or dwelling unit as defined in this chapter and any mixed-use structures that have one or more dwelling units. Hotels that are used exclusively for transient occupancy, as defined in this Title, are excluded from this definition of residential property.
+
+FFF.Residential rental property. Any property within the City on which exist one or more dwelling units that are not occupied as the principal residence of the owner.
+
+GGG.Residential structure. Any building or other improvement or structure containing one or more dwelling units as well as any accessory structure. This includes any dwelling as defined in this Title.
+
+HHH.Must, as used in this Title, is mandatory.
+
+III.Single-family dwelling. See dwelling classifications.
+
+JJJ.Single-room occupancy housing unit. See dwelling classifications.
+
+KKK. Sink. A fixed basin connected to hot and cold running water and a drainage system and primarily used for the preparation of food and the washing of cooking and eating utensils.
+
+LLL.Sleeping room. Any room designed, built, or intended to be used as a bedroom as well as any other room used for sleeping purposes.
+
+MMM. Stagnant water. Any impoundment of water in which there is no appreciable flow of water through the impoundment and the level of water does not vary during any 48-hour period.
+
+NNN. Street. Includes any street, avenue, boulevard, alley, lane, bridge, bicycle path, road, walk, public thoroughfare or public way, and any land over which a right of way has been obtained, or granted and accepted for any purpose of public travel, including all area between property lines, and area dedicated to street use.
+
+OOO.Structure. That which is built or constructed, an edifice or building of any kind, or any piece or work artificially built up or composed of parts joined together in some definite manner.
+
+PPP.Summary abatement. Abatement of a nuisance by the City, or by a contractor hired by the City, without obligation to give prior notice of the abatement action to the owner or occupant of the property.
+
+QQQ.Supplied. Installed, furnished or provided by the owner or operator.
+
+RRR. Swimming pool. Any structure intended for swimming or recreational bathing that contains water over 24 inches deep. This includes in-ground, above ground and on-ground swimming pools, hot-tubs and spas.
+
+SSS.Toilet. A flushable plumbing fixture connected to running water and a drainage system and used for the disposal of human waste.
+
+TTT.Toilet compartment. A room containing only a toilet or only a toilet and lavatory.
+
+UUU.Transient occupancy. Occupancy of a dwelling unit in a hotel where the following conditions are met:
+1. Occupancy is charged on a daily basis and is not collected more than six days in advance;
+
+2. The lodging operator provides maid and linen service daily or every two days as part of the regularly charged cost of occupancy;
+
+3. The period of occupancy does not exceed 30 days; and
+
+4. If the occupancy exceeds five days, the resident has a business address or a residence other than at the hotel.
+
+VVV.Two-family dwelling. See dwelling classifications.
+
+WWW.Unsecured. Any structure in which doors, windows, or apertures are open or broken so as to allow access by unauthorized persons.
+
+XXX. Vehicle. Any device in, on, upon, or by which any person or property is or may be transported or drawn upon a public highway, except a device moved by human power or used exclusively upon stationary rails or tracks, including but not limited to a body, an engine, a transmission, a frame, or other major part.
+
+YYY. Warehousing. Securing a structure against vandalism, deterioration, and unauthorized entry pending its return to active use or occupancy.
+
+ZZZ.Yard. An open, unoccupied space, other than a court, unobstructed from the ground to the sky, and located between a structure and the property line of the lot on which the structure is situated.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Chapter 29.20 Property Nuisances
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+29.20.010 Outdoor Maintenance Requirements.
+
+
+
+
+It is the responsibility of the owner of any property, improved or unimproved, to maintain the outdoor areas of the property and adjacent rights of way in a manner that complies with the following requirements:
+
+A. Holes, tanks, and child traps. Remove, or fill where filling will abate the nuisance, all holes, cisterns, open cesspools, open or unsanitary septic tanks, excavations, open foundations, refrigerators, freezers, or iceboxes with unlocked attached doors and any other similar substance, material or condition that may endanger neighboring property or the health or safety of the public or the occupants of the property.
+
+B. Unsecured structures. Board over or otherwise secure, and keep boarded over or otherwise secured, all open or broken exterior doors, windows, or apertures of any structure so as to prevent access by unauthorized persons through such openings.
+
+C. Rat harborage. Remove or repair, and keep removed or repaired, any condition that provides a place where rats gain shelter, feed, or breed.
+
+D. Emergency access routes. Remove and keep removed all brush, vines, overgrowth and other vegetation located within five feet of a structure or within five feet of a property line that is likely to obstruct or impede the necessary passage of fire or other emergency personnel.
+
+E. Thickets that conceal hazards. Cut and remove and keep cut and removed all blackberry vines and other thickets when such growth is found to be:
+1. Concealing trash and debris; or
+
+2. Creating rat harborage; or
+
+3. Creating harborage for people involved in criminal activity or for products used for criminal activity.
+
+F. Overgrown lawn areas. Cut and remove and keep cut and removed all weeds and grass that are located in lawn areas and have a prevailing height of more than 10 inches.
+
+G. Nuisance plants. Eradication, as defined in Subsection 29.10.020 V., is required of all plants identified on the Nuisance Plants List. The City Administrator will adopt administrative rules detailing implementation and enforcement of this provision.
+
+H. Trash and debris. Remove, and keep removed, unless specifically authorized by ordinance to do otherwise:
+1. All garbage, offal, dead animals, animal and human waste, and waste materials (All garbage must be stored as specified in Section 29.30.140);
+
+2. Accumulations of litter, glass, scrap materials (such as wood, metal, paper, and plastics), junk, combustible materials, stagnant water, or trash;
+
+3. All dead bushes, dead trees, and stumps with the exception of such material that:
+a. Is being maintained as part of a naturescaped property;
+
+b. Does not result in a nuisance as otherwise defined in this chapter; and
+
+c. Is located on a property that is otherwise substantially in compliance with this Chapter;
+
+4. All trees that are dead, dying or dangerous and are determined by the City Forester or a private certified arborist to require removal in order to safeguard people or property per the provisions in Portland City Code Title 11;
+
+5. Accumulations of dead organic matter and yard debris, with the exception of small accumulations of such material in a maintained compost area on the property and only if such material does not result in a nuisance, such as creating rat harborage, as otherwise defined in this chapter; and
+
+6. Accumulations of clothing and any other items not designed for outdoor storage.
+
+I. Storage of non-trash items. Remove, and keep removed, unless specifically authorized by ordinance to do otherwise:
+1. Accumulations of wood pallets.
+
+2. Any woody debris from Elm trees and all firewood that is not stacked and useable. “Useable” firewood has more wood than rot and is cut to lengths that will fit an approved fireplace or wood stove on the property. Elmwood that is infected with Dutch Elm Disease must be properly disposed of at the direction of the City Forester, per the provisions in Portland City Code Title 11, Trees.
+
+3. Accumulations of vehicle parts or tires.
+
+4. All construction materials, except those that are stored in a manner to protect their utility and prevent deterioration and are reasonably expected to be used at the site.
+
+5. All appliances or appliance parts except for storage of appliances that are reasonably expected to be used at the site and are stored in a manner to protect their utility and prevent deterioration.
+
+6. All indoor furniture, unless it is stored in a manner to protect its utility and prevent deterioration and is reasonably expected to be used at the property.
+
+7. All recycling materials except for reasonable accumulations (amounts consistent with a policy of regular removal) that are stored in a well-maintained manner.
+
+8. All other non-trash items that:
+a. Are of a type or quantity inconsistent with normal and usual use; or
+
+b. Are likely to obstruct or impede the necessary passage of fire or other emergency personnel.
+
+J. Disabled vehicles. Neither store nor permit the storing of a disabled vehicle for more than seven days unless the vehicle is enclosed within a legally permitted building or unless it is stored by a licensed business enterprise dealing in junked vehicles lawfully conducted within the City. Removal and disposition of such disabled vehicles must be in accordance with the provisions of Section 16.30.320, 16.30.340, 16.30.350 and 16.30.500 of the Code to the extent that such provisions are applicable.
+
+K. Obstructions to sidewalks, streets, and other rights of way. Keep the adjacent rights of way free of anything that obstructs or interferes with the normal flow of pedestrian or vehicular traffic, unless specifically authorized by permit or ordinance to do otherwise. This responsibility includes, but is not limited to, removal of earth, rock, and other debris, as well as projecting or overhanging bushes and limbs that may obstruct or render unsafe the passage of persons or vehicles. This responsibility also includes, but is not limited to, the obligation to maintain all rights of way referenced in this Subsection to meet the following minimum clearances:
+1. Sidewalks. All sidewalks must be clear of obstructions by earth, rock, or vegetation from edge to edge and to an elevation of 7-1/2 feet above sidewalk level. For example, bushes that encroach on or over any part of a sidewalk area must be cut back or removed and limbs of trees that project over the sidewalk area at an elevation of less than 7‑1/2 feet above the sidewalk level must be removed. Pruning Street Trees and tree removal is subject to the requirements of Portland City Code Title 11, Trees.
+
+2. Improved streets. On any improved street designated as a Regional Trafficway, Major City Traffic Street, District Collector, or a one-way street where parking has been prohibited, branches must be trimmed to a height of 14 feet above the crown of the street. Moreover any other improved streets must be clear of obstructions to vehicle movement and parking from edge to edge and to an elevation of 11 feet above street level. For example, bushes that encroach on or over any part of a street must be cut back or removed; limbs of trees that project over a street at an elevation of less than 11 feet above street level must be removed; and no wires or other things may be maintained over the street level at any elevation less than 11 feet. Pruning Street Trees and tree removal is subject to the requirements of Portland City Code Title 11, Trees.
+
+3. Alleys and unimproved rights of way. All alleys, unimproved streets, and other public rights of way must be clear of obstructions that may hinder the normal flow of traffic or render the right of way unsafe for its current and necessary use.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+29.20.020 Other Endangering Conditions.
+
+
+
+
+It is the responsibility of the owner of any property, improved or unimproved, to remove or repair:
+
+A. Any damage to or failure of an on-site sewage disposal system, private or common private sewer lines, rain drain system, or nonconforming sewers, and
+
+B. Any other substance, material or condition that is determined by the City Administrator to endanger neighboring property, the health or safety of the public, or the occupants of the property.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+29.20.030 Nuisance Defined, Summary Abatement Authorized.
+
+
+
+
+All conditions in violation of Sections 29.20.010 and 29.20.020 of this Title constitute a nuisance. Any person whose duty it is to correct such conditions and who fails to do so will be subject to charges according to the Fee Schedule approved by the City Council. In cases where the City Administrator determines that it is necessary to take immediate action in order to meet the purposes of this Title, summary abatement of such nuisances is authorized.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Chapter 29.30 Housing Maintenance Requirements
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+29.30.005 General.
+
+
+
+
+A. An owner may not maintain or permit to be maintained, in violation of this Chapter, any residential property.
+
+B. All residential property must be maintained to the building, mechanical, plumbing and electrical code requirements in effect at the time of construction, alteration, or repair.
+
+C. Where construction, alteration or repair has been made to a residential property illegally without benefit of a permit, all work must meet current requirements of the applicable Oregon Specialty Code as adopted in Portland City Code Sections 24.10.040, 25.01.020, 26.01.030 and 27.01.030.
+
+D. The specific minimum maintenance standards set forth in Section 29.30.250 only apply to residential hotels and apartment houses that were constructed, altered or repaired before January 1, 1973.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+29.30.010 Display of Address Number.
+
+
+
+
+Address numbers posted must be the same as the number listed on the County Assessment and Taxation Records for the property. All dwellings must have address numbers posted in a conspicuous place so they may be read from the listed street or public way. Units within apartment houses must be clearly numbered, or lettered, in a logical and consistent manner.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+29.30.020 Accessory Structures.
+
+
+
+
+All accessory structures on residential property must be maintained structurally safe and sound and in good repair. Exterior steps and walkways must be maintained free of unsafe obstructions or hazardous conditions.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+29.30.030 Roofs.
+
+
+
+
+The roof must be structurally sound, tight, and have no defects that might admit rain. Roof drainage must be adequate to prevent rainwater from causing dampness in the walls or interior portion of the building and must channel rainwater in an approved manner to an approved point of disposal.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+29.30.040 Chimneys.
+
+
+
+
+Every masonry, metal, or other chimney must remain adequately supported and free from obstructions and must be maintained in a condition that ensures there will be no leakage or backup of noxious gases. Every chimney must be reasonably plumb. Loose bricks or blocks must be rebonded. Loose or missing mortar must be replaced. Unused openings into the interior of the structure must be permanently sealed using approved materials.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+29.30.050 Foundations and Structural Members.
+
+
+
+
+A. Foundation elements must adequately support the building and must be free of rot, crumbling elements, or similar deterioration.
+
+B. The supporting structural members in every dwelling must be maintained structurally sound, showing no evidence of deterioration or decay that would substantially impair their ability to carry imposed loads.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+29.30.060 Exterior Walls and Exposed Surfaces.
+
+
+
+
+A. Every exterior wall and weather-exposed exterior surface or attachment must be free of holes, breaks, loose or rotting boards or timbers and any other conditions that might admit rain or dampness to the interior portions of the walls or the occupied spaces of the building.
+
+B. All exterior wood surfaces must be made substantially impervious to the adverse effects of weather by periodic application of an approved protective coating of weather-resistant preservative, and be maintained in good condition. Wood used in construction of permanent structures and located nearer than six inches to earth must be treated wood or wood having a natural resistance to decay.
+
+C. Exterior metal surfaces must be protected from rust and corrosion.
+
+D. Every section of exterior brick, stone, masonry, or other veneer must be maintained structurally sound and be adequately supported and tied back to its supporting structure.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+29.30.070 Stairs and Porches.
+
+
+
+
+Every stair, porch, and attachment to stairs or porches must be so constructed as to be safe to use and capable of supporting the loads to which it is subjected and must be kept in sound condition and good repair, including replacement as necessary of flooring, treads, risers, and stringers that evidence excessive wear and are broken, warped, or loose.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+29.30.080 Handrails and Guardrails.
+
+
+
+
+Every handrail and guardrail must be firmly fastened, and must be maintained in good condition, capable of supporting the loads to which it is subjected, and meet the following requirements:
+
+A. Handrails and guardrails required by building codes at the time of construction must be maintained or, if removed, must be replaced.
+
+B. Where not otherwise required by original building codes, exterior stairs of more than three risers that are designed and intended to be used as part of the regular access to the dwelling unit must have handrails. Interior stairs of more than three risers must have handrails. When required handrails are installed they must be installed so that they meet the applicable building code requirements in effect at the time this work is being performed.
+
+C. Where not otherwise required by original building codes, porches, balconies or raised floor surfaces located more than 30 inches above the floor or grade below must have guardrails. Open sides of stairs with a total rise of more than 30 inches above the floor or grade below must have guardrails. When required guardrails are installed, they must be installed so that they meet the applicable building code requirements in effect at the time this work is being performed.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+29.30.090 Windows.
+
+
+
+
+A. Every habitable room must have at least one window facing directly to an exterior yard or court. The minimum total glass area for each habitable room must be 6.8 percent of the room's floor area, except for basement rooms where the minimum must be five percent. The glazed areas need not be provided in rooms where artificial light is provided capable of producing an average illumination of three foot-candles over the area of the room measured at a height of 30 inches above the floor and the minimum ventilation requirements in Subsection B. below are satisfied.
+
+B. Except where another approved ventilation device is provided, the total openable window area in every habitable room must be equal to at least one-fortieth (2.5 percent) of the area of the room. The glazed areas need not be openable where the opening is not required for emergency escape and an approved mechanical ventilation system is provided capable of producing 0.35 air changes per hour in the room.
+
+C. Every bathroom or toilet room or compartment must comply with the light and ventilation requirements for habitable rooms as required by Subsections 29.30.090 A. and B., except that no window is required in bathrooms or toilet compartments equipped with an approved ventilation system.
+
+D. Windows in sleeping rooms that are provided to meet emergency escape or rescue requirements described in Subsection 29.30.230 A. must have a sill height of no more than 44 inches above the floor or above an approved, permanently installed step. The step must not exceed 12 inches in height and must extend the full width of the window. The top surface of the step must be a minimum of six feet from the ceiling above the step.
+
+E. Windows in sleeping rooms that are provided to meet emergency escape or rescue requirements described in Subsection 29.30.230 A. must have a minimum net clear opening of at least 20 inches wide and at least 22 inches high.
+
+F. Every window required for ventilation or emergency escape must be capable of being easily opened and held open by window hardware. Any installed storm windows on windows required for emergency escape must be easily openable from the inside without the use of a key or special knowledge or effort.
+
+G. All windows within 10 feet of the exterior grade that open must be able to be securely latched from the inside as well as be openable from the inside without the use of a key or any special knowledge or effort. This same requirement applies to all openable windows that face other locations that are easily accessible from the outside, such as balconies or fire escapes, regardless of height from the exterior grade.
+
+H. Every window must be substantially weather-tight, must be kept in sound condition and repair for its intended use, and must comply with the following:
+1. Every window sash must be fully supplied with glass windowpanes or an approved substitute without open cracks and holes.
+
+2. Every window sash must be in good condition and fit weather-tight within its frames.
+
+3. Every window frame must be constructed and maintained in relation to the adjacent wall construction so as to exclude rain as completely as possible and to substantially exclude wind from entering the dwelling.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+29.30.100 Doors.
+
+
+
+
+A. Every dwelling or dwelling unit must have at least one door leading to an exterior yard or court, or in the case of a two-family dwelling or apartment, to an exterior yard or court or to an approved exit. All such doors must be openable from the inside without the use of a key or any special knowledge or effort. All screen doors and storm doors must be easily openable from the inside without the use of a key or special knowledge or effort.
+
+B. In hotels and apartment houses, exit doors in common corridors or other common passageways must be openable from the inside with one hand in a single motion, such as pressing a bar or turning a knob, without the use of a key or any special knowledge or effort.
+
+C. Every door to the exterior of a dwelling unit must be equipped with a lock designed to discourage unwanted entry and to permit opening from the inside without the use of a key or any special knowledge or effort.
+
+D. Every exterior door must comply with the following:
+1. Every exterior door, door hinge, door lock, and strike plate must be maintained in good condition.
+
+2. Every exterior door, when closed, must fit reasonably well within its frame and be weather-tight.
+
+3. Every doorframe must be constructed and maintained in relation to the adjacent wall construction so as to exclude rain as completely as possible, and to substantially exclude wind from entering the dwelling.
+
+E. Every interior door and doorframe must be maintained in a sound condition for its intended purpose with the door fitting within the doorframe.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+29.30.110 Interior Walls, Floors, and Ceilings.
+
+
+
+
+A. Every interior wall, floor, ceiling, and cabinet must be maintained in a clean, sanitary, safe, and structurally sound condition, free of large holes and serious cracks, loose plaster or wallpaper, flaking, peeling or scaling paint.
+
+B. Every toilet compartment, bathroom, and kitchen floor surface must be constructed and maintained to be substantially impervious to water and to permit the floor to be kept in a clean and sanitary condition.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+29.30.120 Interior Dampness.
+
+
+
+
+The City Administrator will adopt administrative rules detailing implementation and enforcement of this provision.
+
+A. To prevent conditions conducive to decay, deterioration, or mold growth within a structure, every dwelling, including basements, attics, and crawl spaces, must be maintained reasonably free from dampness such that:
+1. There are no sources of moisture intrusion from either exterior or interior sources; and
+
+2. There is no visible or otherwise demonstrable growth of mold or mildew in the interior of any building.
+
+B. When visible or otherwise demonstrable growth of mold or mildew is found to exist within a residential unit, the property owner must remediate and treat the affected and identified areas in accordance with the requirements set forth in the administrative rules.
+
+C. When visible or otherwise demonstrable growth of mold or mildew exceeding a total of one square foot is present within a residential unit, an approved ventilation system for reducing moisture may be required for each bathroom with bathing facilities that does not have an approved mechanical ventilation system. The new mechanical ventilation system must be installed and be sized to provide ventilation per the requirements of the Oregon Residential Specialty Code for one- and two-family dwellings or the Oregon Mechanical Specialty Code for commercial structures.
+
+D. When visible or otherwise demonstrable growth of mold or mildew exceeding a total of one square foot is present within a residential unit, any existing, approved mechanical ventilation systems in bathrooms with bathing facilities must meet the requirements set forth in the administrative rules. Any existing ventilation system that fails to meet these criteria and cannot be repaired or retrofitted must be replaced according to the specifications for new ventilation systems listed in Subsection 29.30.120 C.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+29.30.130 Insect and Rodent Harborage.
+
+
+
+
+The City Administrator will adopt administrative rules detailing implementation and enforcement of this provision. Every structure must be kept free from insect, rodent, vermin or other pest infestation, and where found, infestations must be promptly exterminated as set forth in the administrative rules. After extermination, proper precautions must be taken to prevent reinfestation.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+29.30.140 Cleanliness and Sanitation.
+
+
+
+
+A. All exterior property areas must be maintained in a clean and sanitary condition free from any accumulation of rubbish or garbage. All household garbage must be stored in receptacles that are free from holes and covered with tight fitting lids. Receptacles must be of sufficient capacity to prevent the overflow of garbage and rubbish from occurring.
+
+B. The interior of every dwelling must be maintained in a clean and sanitary condition and free from any accumulation of rubbish or garbage so as not to breed insects and rodents, or produce dangerous or offensive gases, odors and bacteria, or any other unsanitary conditions, or create a fire hazard.
+
+C. The owner of a residential rental property of four or fewer dwelling units must provide for each dwelling unit, or subscribe to and pay for weekly recycling and composting service and every-other-week garbage removal service by a franchisee as defined in Portland City Code Chapter 17.102, where each dwelling unit is provided with at least one 20 gallon receptacle into which garbage and rubbish may be emptied for storage and collection. Receptacles and lids must be watertight and provided with handles.
+
+D. The owner of a residential rental property of five or greater dwelling units must subscribe to and pay for recycling and garbage removal service by a refuse collection permittee or franchisee as defined in Portland City Code Chapter 17.102. Collection must occur at least weekly.
+
+E. The owner of any owner-occupied residential property must subscribe to and pay for weekly recycling and composting service and every-other-week garbage removal service by a refuse collection permittee or franchisee as defined in Portland City Code Chapter 17.102 if the property has been posted two or more times within one year for violation of Subsection 29.20.010 H.1. or 2.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+29.30.150 Bathroom Facilities.
+
+
+
+
+Except as otherwise noted in this Section, every dwelling unit must contain within its walls in safe and sanitary working condition:
+
+A. A toilet located in a room that is separate from the habitable rooms and that allows privacy;
+
+B. A lavatory basin; and
+
+C. A bathtub or shower located in a room that allows privacy.
+
+In hotels and apartment houses where private toilets, lavatories, or baths are not provided, there must be on each floor at least one toilet, one lavatory, and one bathtub or shower each provided at the rate of one for every twelve residents or fraction of twelve residents. Required toilets, bathtubs, and showers must be in a room, or rooms, that allow privacy.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+29.30.160 Kitchen Facilities.
+
+
+
+
+A. Every dwelling unit must contain a kitchen sink apart from the lavatory basin required under Section 29.30.150, with the exception of single-room occupancy housing units, which must comply with Subsection 29.30.290 B.
+
+B. Except as otherwise provided for in Subsections 29.30.290 B. and C., every dwelling unit must have approved service connections for refrigeration and cooking appliances.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+29.30.170 Plumbing Facilities.
+
+
+
+
+A. Every plumbing fixture or device must be properly connected to a public or an approved private water system and to a public or an approved private sewer system.
+
+B. All required sinks, lavatory basins, bathtubs and showers must be supplied with both hot and cold running water and have a water pressure of at least 15 psi. Every dwelling unit must be supplied with water heating facilities that are installed in an approved manner, properly maintained, and properly connected with hot water lines to all required sinks, lavatory basins, bathtubs and showers. Water heating facilities must be capable of heating water enough to permit an adequate amount of water to be drawn at every required facility at a temperature of at least 120 degrees at any time needed.
+
+C. In every dwelling all plumbing or plumbing fixtures must be:
+1. Properly installed, connected, and maintained in good working order;
+
+2. Kept free from obstructions, leaks, and defects;
+
+3. Capable of performing the function for which they are designed; and
+
+4. Installed and maintained so as to prevent structural deterioration or health hazards.
+
+D. All plumbing repairs and installations must be made in accordance with the provisions of Portland City Code Title 25 Plumbing Regulations.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+29.30.180 Heating and Ventilation Equipment and Facilities.
+
+
+
+
+A. All heating and ventilation equipment, including that used for cooking, water heating, dwelling heat, and clothes drying must be:
+1. Properly installed, connected, and maintained in safe condition and good working order;
+
+2. Free from leaks and obstructions and kept functioning properly so as to be free from fire, health, and accident hazards; and
+
+3. Capable of performing the function for which they are designed.
+
+B. Every dwelling must have a heating facility capable of maintaining a room temperature of 68 degrees Fahrenheit at a point three feet from the floor in all habitable rooms.
+1. Portable heating devices may not be used to meet the dwelling heat requirements of this Title.
+
+2. No inverted or open flame fuel-burning heater is permitted. All heating devices or appliances must be of an approved type.
+
+C. All mechanical repairs and installations must be made in accordance with the provisions of Portland City Code Title 27 Heating and Ventilating Requirements.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+29.30.190 Electrical System, Outlets, and Lighting.
+
+
+
+
+All buildings used for residential purposes must be connected to an approved source of electric power. Every electric outlet and fixture must be maintained and safely connected to an approved electrical system. The electrical system must not constitute a hazard to the occupants of the building by reason of inadequate service, improper fusing, improper wiring or installation, deterioration or damage, lack of access to a dwelling unit’s breaker or disconnect switch or similar reasons.
+
+In addition to other electrical system components that may be used to meet cooking, refrigeration, and heating requirements listed elsewhere in this Title, the following outlets and lighting fixtures are required:
+
+A. Every habitable room must contain at least two operable electric outlets or one outlet and one operable electric light fixture.
+
+B. Every toilet compartment or bathroom must contain at least one supplied and operable electric light fixture and one outlet. Every laundry, furnace room, and all similar non-habitable spaces located in a dwelling must have one supplied electric light fixture available at all times.
+
+C. Every public hallway, corridor, and stairway in apartment houses and hotels must be adequately lighted at all times with an average intensity of illumination of at least one foot candle at principal points such as angles and intersections of corridors and passageways, stairways, landings of stairways, landings of stairs and exit doorways, and at least ½-foot candle at other points. Measurement of illumination must be taken at points not more than four feet above the floor.
+
+D. All electrical repairs and installations must be made in accordance with the provisions of Portland City Code Title 26 Electrical Regulations.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+29.30.200 Ceiling Heights.
+
+
+
+
+Habitable rooms in existing one- and two-family dwelling buildings must have a clear ceiling height of at least seven feet. Habitable rooms in other existing buildings must have a clear ceiling height of at least seven feet six inches. The following height exceptions may be used for the one- and two-family dwelling ceiling height requirements:
+
+A. Flat ceilings. Where the ceiling is flat, ceiling heights may be a minimum of six feet eight inches. Pipes, ducts, beams, or similar objects projecting from the ceiling may be as follows:
+1. Ceiling projections may be as low as six feet where they are located within two feet from the wall; or
+
+2. Ceiling projections may be as low as six feet two inches where they do not occupy more than 10 percent of the floor area in the room where they are located.
+
+B. Sloped ceilings.
+1. General. Where the ceiling is sloped, the height may be as follows:
+a. The minimum ceiling height must be at least six feet eight inches over an area comprising at least 50 percent of the overall room area; and
+
+b. Portions of the room with a ceiling height less than five feet may not be counted toward the overall room area.
+
+2. Bathrooms. In bathrooms with sloped ceilings not more than 75 percent of the floor area of a bathroom is permitted to have a sloped ceiling less than seven feet in height, provided an area of 21 inches by 24 inches in front of toilets and lavatories has a minimum of six feet four inches in height. An area of 24 inches by 30 inches in front of and inside a tub or shower must have a minimum of six feet four inches in height.
+
+C. These exceptions to the current building codes do not apply where any occupancy has been changed, or the occupant load has been increased, contrary to the provisions of this Title.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+29.30.210 Sleeping Room Requirements.
+
+
+
+
+Every room used for sleeping purposes:
+
+A. Must be a habitable room as defined in this title;
+
+B. May not be a kitchen;
+
+C. Must have natural light, ventilation, and windows or other means for escape purposes as required by this Title; and
+
+D. Must comply with the following minimum requirements for floor area:
+1. Must have a minimum area of at least 70 square feet of floor area, except that where more than two persons occupy a room used for sleeping purposes, the required floor area must be increased at the rate of 50 square feet for each person in excess of two. No portion of a room measuring less than five feet from the finished floor to the finished ceiling must be included in any computation of the room’s minimum area.
+
+2. Any dwelling or portion of any dwelling constructed pursuant to permit or lawfully constructed prior to permit requirements will be deemed in compliance with respect to sleeping room area provided that the deficiency in floor area is no more than 15 percent of that required by Subsection 29.30.210 D.1. This subsection does not apply where any occupancy has been changed, or the number of occupants has been increased, contrary to the provisions of this Title.
+
+3. Floor area requirements for single-room occupancy housing units must be in accordance with Section 29.30.290 of this Title.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+29.30.220 Overcrowding.
+
+
+
+
+No dwelling unit may be permitted to be overcrowded. A dwelling unit is considered overcrowded if there are more residents than one plus one additional resident for every 100 square feet of floor area of the habitable rooms in the dwelling unit.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+29.30.230 Emergency Exits.
+
+
+
+
+A. Every sleeping room must have at least one operable window or exterior door approved for emergency escape or rescue that is openable from the inside to a full clear opening without the use of special knowledge, effort, or separate tools. Windows used to meet this requirement must meet the size and sill height requirements described in Subsections 29.30.090 D. and E. All below-grade windows used to meet this requirement must have a window well the full width of the window, constructed of permanent materials with a minimum three foot by three-foot clearance in front of the window measured perpendicular to the outside wall. If the bottom of the window well is more than 44 inches below the ground level, approved steps or an approved permanently attached ladder must be used.
+
+B. Required exit doors and other exits must be free of encumbrances or obstructions that block access to the exit.
+
+C. All doorways, windows and any device used in connection with the means of escape must be maintained in good working order and repair.
+
+D. In addition to other exit requirements, in hotels and apartment houses:
+1. All fire escapes must be kept in good order and repair and painted so as to prevent corrosion of metal, in a manner approved by the Fire Marshal.
+
+2. Every fire escape or stairway, stair platform, corridor or passageway that may be one of the regular means of emergency exit from the building must be kept free of encumbrances or obstructions of any kind.
+
+3. Where doors to stair enclosures are required by City Code to be self-closing, the self-closing device must be maintained in good working order and it is unlawful to wedge or prop the doors open.
+
+4. Windows leading to fire escapes must be secured against unwanted entry with approved devices.
+
+5. Every apartment house and hotel must have directional signs in place, visible throughout common passageways, that indicate the way to exit doors and fire escapes. Emergency exit doors and windows must be clearly labeled for their intended use.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+29.30.240 Smoke Alarms or Detectors.
+
+
+
+
+Smoke detectors sensing visible or invisible particles of combustions or alarms are required in all buildings in which a room or area is designated for sleeping purposes either as a primary use or use on a casual basis. Smoke detectors or alarms must be installed in each sleeping room or area, in the immediate vicinity of the sleeping rooms and on each additional story of the dwelling, including basements and attics with habitable space. All detectors or alarms must be approved, must be installed in accordance with the manufacturer’s instructions, must plainly identify the testing agency that inspected or approved the device, and must be operable.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+29.30.245 Carbon Monoxide Alarms.
+
+
+
+
+A. Existing rental dwelling units must have one or more carbon monoxide (CO) alarm(s) installed in compliance with state Fire Marshal rules and the state building code and maintained per the Oregon Revised Statutes 90.317, if the rental dwelling unit:
+1. Contains a carbon monoxide source; or
+
+2. Is located within a structure that contains a carbon monoxide source and the dwelling unit is connected to the room in which the carbon monoxide source is located by a door, ductwork, or a ventilation shaft.
+
+B. All existing dwelling units, including rental dwelling units, must have a carbon monoxide (CO) alarm(s) installed in compliance with the current Oregon Residential Specialty Code Section R315, only:
+1. At such time as a carbon monoxide source is introduced; or
+
+2. When interior work requiring a structural permit occurs.
+
+C. All detectors or alarms installed must be approved, properly functioning, and installed in accordance with the manufacturer’s instructions.
+
+D. In accordance with state building code, all carbon monoxide detectors or alarm(s) required to be installed per this section must be located as follows:
+1. In each bedroom or within 15 feet outside of each bedroom door;
+
+2. For bedrooms on separate floor levels in a structure with two or more stories, each story must have separate carbon monoxide alarms; and
+
+3. Where a fuel-burning appliance is located within a bedroom or its attached bathroom, a carbon monoxide alarm must be installed within the bedroom.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+29.30.250 Fire Safety Conditions for Apartment Houses and Hotels of More than Two Stories.
+
+
+
+
+In addition to other fire safety requirements of this title, hotels and apartment houses of more than two stories in height must meet the following requirements:
+
+A. For structures built prior to January 1, 1973, minimum fire safety standards are as provided per Appendix Chapter 13, Section 1313, of the 1973 edition of the Uniform Building Code. (As previously adopted by Ordinance 135236 effective September 7, 1972 & Ordinance 139124 effective November 20, 1974.)
+
+B. Residential high-rise buildings constructed in accordance with the high-rise building requirements of the Oregon Structural Specialty Code must maintain all the required fire and life safety systems and equipment in good repair and working order. Upon request of the City Administrator, the owner must produce proof that required fire and life safety systems are fully operational.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+29.30.260 Hazardous Materials.
+
+
+
+
+A. Any paint(s), veneers, varnishes, or similar pigmented sealers or finishes applied to any surface of a residential structure must be lead free, in compliance with the Federal Consumer Product Safety Commission’s 1978 ban on the use of paint containing lead in residential properties.
+
+The City Administrator will adopt administrative rules detailing requirements and enforcement of this provision.
+
+B. Residential property must be free of dangerous levels of hazardous materials, contamination by toxic chemicals, or other hazardous conditions that would render the property unsafe. Where a governmental agency authorized by law to make the determination, has verified that a property is unfit for use and occupancy as a result of hazardous materials or conditions on the property, the property must also be deemed to be in violation of this Title. Any such property must remain in violation of this Title until such time as the authorizing agency has approved the remediation of the hazardous materials or conditions. The City Administrator may order such property vacated pursuant to Section 29.60.070 of this Title.
+
+C. No residential property may be used as a place for the storage and handling of highly combustible or explosive materials or any articles that may be dangerous or detrimental to life or health. No residential property may be used for the storage or sale of paints, varnishes or oils used in the making of paints and varnishes, except as needed to maintain the dwelling.
+
+D. Residential property must be kept free of friable asbestos.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+29.30.270 Maintenance of Facilities and Equipment.
+
+
+
+
+In addition to other requirements for the maintenance of facilities and equipment described in this Chapter:
+
+A. All required facilities in every dwelling must be constructed and maintained to properly and safely perform their intended function.
+
+B. All facilities or equipment present in a dwelling and supplied by the landlord must be maintained and able to perform their intended function to prevent structural damage to the building or hazards of health, sanitation, or fire.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+29.30.280 Swimming Pool Enclosures.
+
+
+
+
+Swimming pool enclosures must comply with the provisions of the applicable building code in effect at the time of the pool installation.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+29.30.290 Special Standards for Single-Room Occupancy Housing Units.
+
+
+
+
+In addition to meeting requirements for residential structures defined elsewhere in this Title, hotels containing single-room occupancy housing units must comply with the following:
+
+A. The unit must have at least 100 square feet of floor area, except that any single-room occupancy housing unit constructed pursuant to permit or lawfully constructed prior to permit requirements will be deemed in compliance with respect to floor area provided it has at least 85 square feet of floor area. This exception does not apply where any occupancy has been changed or increased contrary to the provisions of this Title.
+
+B. Either a community kitchen with facilities for cooking, refrigeration, and washing utensils must be provided on each floor, or each individual single-room occupancy housing unit must have facilities for cooking, refrigeration and washing utensils.  In addition, facilities for community garbage storage or disposal must be provided on each floor.
+
+C. Where cooking units are provided in individual single-room occupancy housing units, they must conform to the requirements set forth below.
+1. All appliances must be hard-wired and on separate circuits or have single dedicated connections;
+
+2. All cooking appliances must be fixed and permanent;
+
+3. The Mechanical Specialty Code, as adopted by Portland City Code Section 27.01.030, will be used for setting standards for cooking appliances. Cabinets over cooking surfaces must be 30 inches above the cooking surface, except that this distance may be reduced to 24 inches when a heat shield with one-inch airspace and extending at least six inches horizontally on either side of the cooking appliance is provided. Cooking appliances are limited to two cooking elements or burners and located with at least a six-inch clear space in all directions from the perimeter of the cooking element or burner. In lieu of two-burner cooking appliances, standard third-party tested and approved ranges with ovens are acceptable, provided that the units are fixed and hard-wired or have single dedicated connections;
+
+4. All cooking appliances must be installed under permit from Portland Permitting & Development; and
+
+5. All cooking appliances must be installed so as to provide a minimum clear workspace in front of the appliance of 24 inches.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Chapter 29.35 Maintenance Requirements for the Exterior of Non-Residential Structures.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+29.35.010 General.
+
+
+
+
+A. The following requirements apply to nonresidential properties.
+
+B. The exterior of nonresidential structures must be maintained to the building code requirements in effect at the time of construction, alteration, or repair.
+
+C. The specific minimum maintenance standards set forth in Sections 29.35.020 through 29.35.100 apply to all nonresidential structures.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+29.35.020 Accessory Structures.
+
+
+
+
+All accessory structures on non-residential property must be maintained structurally safe and in good repair and sound condition. Exterior steps and walkways must be maintained free of unsafe obstructions or hazardous conditions.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+29.35.030 Roofs.
+
+
+
+
+The roof must be maintained structurally sound, and have no exterior defects that might admit rain. Storm water must be channeled in an approved manner to an approved point of disposal.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+29.35.040 Chimneys.
+
+
+
+
+Every masonry, metal, or other chimney must remain adequately supported, structurally sound and free from obstructions and must be maintained in good repair and sound condition that ensures there will be no leakage or backup of noxious gases. Loose bricks or blocks must be rebonded. Loose or missing mortar must be replaced.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+29.35.050 Foundations and Structural Members.
+
+
+
+
+A. Foundation elements must be adequately maintained to support the building and must be free of rot, crumbling elements, or similar deterioration.
+
+B. The supporting structural members must be maintained structurally sound, showing no evidence of deterioration or decay that could substantially impair their ability to carry imposed loads.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+29.35.060 Exterior Walls and Exposed Surfaces.
+
+
+
+
+A. Every exterior wall and weather-exposed exterior surface or attachment must be maintained to be free of holes, breaks, loose or rotting boards or timbers and any other conditions that might admit rain or dampness to the interior portions of the walls or the occupied spaces of the building.
+
+B. All exterior wood surfaces must be substantially impervious to the adverse effects of weather and must be maintained in good repair and sound condition. Wood used in repair of permanent structures and located nearer than six inches to earth must be treated wood or wood having a natural resistance to decay.
+
+C. Exterior metal surfaces must be protected from rust and corrosion where applicable.
+
+D. Every section of exterior brick, stone, masonry, or other veneer must be maintained structurally sound.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+29.35.070 Stairs and Porches.
+
+
+
+
+Every stair, porch, and attachment to stairs or porches must be maintained so as to be safe to use and capable of supporting the loads to which it is subjected, and must be maintained in good repair and sound condition, including replacement as necessary of flooring, treads, risers, and stringers that evidence excessive wear, are broken, warped or loose.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+29.35.080 Handrails and Guardrails.
+
+
+
+
+Every handrail and guardrail must be firmly fastened, and must be maintained in good repair and sound condition capable of supporting the loads to which it is subjected, and meet the following requirement:
+
+A. Handrails and guardrails required by the building codes at the time of construction must be maintained or, if removed, must be replaced.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+29.35.090 Windows.
+
+
+
+
+Every window must be substantially weather-tight, maintained in good repair and sound condition for its intended use and must comply with the following:
+
+A. Every window must be fully supplied with glass window panes or an approved substitute without open cracks and holes.
+
+B. Every window sash must be in good repair and sound condition and fit weather-tight within its frames.
+
+C. Every window frame must be maintained so as to exclude rain as completely as possible and to substantially exclude wind from entering the building
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+29.35.100 Doors.
+
+
+
+
+Every exterior door must comply with the following:
+
+A. Every exterior door, door hinge, door lock, and strike plate must be maintained in good working condition.
+
+B. Every exterior door must be maintained in good repair and sound condition and be weather-tight.
+
+C. Every doorframe must be maintained so as to substantially exclude rain and wind from entering the building.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+29.35.110 Cleanliness and Sanitation.
+
+
+
+
+All exterior property areas must be maintained in a clean and sanitary condition free from any significant accumulation of rubbish or garbage. All garbage must be stored in receptacles that are watertight and free from holes and covered with tight fitting lids at all times.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+29.35.120 Enforcement.
+
+
+
+
+The City Administrator’s authority to enforce the requirements of this Title is the sole and exclusive means of enforcement of the provisions of this Title as those provisions apply to non-residential structures. There is no separate private right of enforcement action arising from any violation of this Title as those provisions apply to non-residential structures. This limitation does not restrict the exercise of any private legal rights that may arise under contract or other applicable law.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Chapter 29.40 Dangerous and Derelict Structures
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+29.40.005 Generally.
+
+
+
+
+No property may contain any dangerous structure or derelict building as described in this chapter. All such structures must be repaired or demolished.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+29.40.010 Derelict Buildings.
+
+
+
+
+A. A derelict building is considered to exist whenever any building, structure, or portion thereof that is unoccupied meets any of the following criteria or any residential structure that is at least 50 percent unoccupied meets any of the following two criteria:
+1. Has been ordered vacated by the City Administrator pursuant to Chapter 29.60;
+
+2. Has been issued a correction notice by the City Administrator pursuant to Section 29.60.050;
+
+3. Is unsecured;
+
+4. Is boarded;
+
+5. Has been posted for violation of Chapter 29.20 more than once in any two-year period; or
+
+6. Has, while vacant, had a nuisance abated by the City pursuant to this Title.
+
+B. Any property that has been declared by the City Administrator to include a derelict building is in violation of this Title until:
+1. The building has been lawfully occupied;
+
+2. The building has been demolished and the lot cleared and graded under building permit, with final inspection and approval by the City Administrator; or
+
+3. The owner has demonstrated to the satisfaction of the City Administrator that the property is free of all conditions and in compliance with all notices listed in the definition of a derelict building in this Section.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+29.40.020 Dangerous Structures.
+
+
+
+
+Any structure that has any or all of the following conditions or defects to the extent that life, health, property, or safety of the public or the structure’s occupants are endangered, is deemed to be a dangerous structure and such condition or defects must be abated pursuant to Sections 29.60.050 and 29.60.080 of this Title.
+
+A. High loads. Whenever the stress in any materials, member, or portion of a structure, due to all dead and live loads, is more than 1-1/2 times the working stress or stresses allowed in the Oregon Structural Specialty Code and Fire and Life Safety Code for new buildings of similar structure, purpose, or location.
+
+B. Weakened or unstable structural members or appendages.
+1. Whenever any portion of a structure has been damaged by fire, earthquake, wind, flood, or by any other cause, to such an extent that the structural strength or stability is materially less than it was before such catastrophe and is less than the minimum requirements of the Oregon State Structural Specialty Code and Fire and Life Safety Code for new buildings of similar structure, purpose, or location; or
+
+2. Whenever appendages including parapet walls, cornices, spires, towers, tanks, statuaries, or other appendages or structural members that are supported by, attached to, or part of a building, and that are in a deteriorated condition or otherwise unable to sustain the design loads that are specified in the Oregon State Structural Specialty and Fire and Life Safety Code.
+
+C. Buckled or leaning walls, structural members. Whenever the exterior walls or other vertical structural members list, lean, or buckle to such an extent that a plumb line passing through the center of gravity does not fall inside the middle one-third of the base.
+
+D. Vulnerability to earthquakes, high winds.
+1. Whenever any portion of a structure is wrecked, warped, buckled, or has settled to such an extent that walls or other structural portions have materially less resistance to winds or earthquakes than is required in the case of similar new construction; or
+
+2. Whenever any portion of a building, or any member, appurtenance, or ornamentation of the exterior thereof is not of sufficient strength or stability, or is not so anchored, attached or fastened in place so as to be capable of resisting a wind pressure of one-half of that specified in the Oregon Structural Specialty Code and Fire and Life Safety Code for new buildings of similar structure, purpose, or location without exceeding the working stresses permitted in the Oregon State Structural Specialty Code and Fire and Life Safety Code for such buildings.
+
+E. Insufficient strength or fire resistance. Whenever any structure that, whether or not erected in accordance with all applicable laws and ordinances:
+1. Has in any non-supporting part, member, or portion, less than 50 percent of the strength or the fire-resisting qualities or characteristics required by law for a newly constructed building of like area, height, and occupancy in the same location; or
+
+2. Has in any supporting part, member, or portion less than 66 percent of the strength or the fire-resisting qualities or characteristics required by law in the case of a newly constructed building of like area, height, and occupancy in the same location.
+
+This subsection does not apply to strength required to resist seismic loads. For application of seismic requirements see Chapter 24.85.
+
+F. Risk of failure or collapse.
+1. Whenever any portion or member of appurtenance thereof is likely to fail, or to become detached or dislodged, or to collapse and injure persons or damage property; or
+
+2. Whenever the structure, or any portion thereof, is likely to partially or completely collapse as a result of any cause, including but not limited to:
+a. Dilapidation, deterioration, or decay;
+
+b. Faulty construction;
+
+c. The removal, movement, or instability of any portion of the ground necessary for the purpose of supporting such structure; or
+
+d. The deterioration, decay, or inadequacy of its foundation.
+
+G. Excessive damage or deterioration. Whenever the structure exclusive of the foundation:
+1. Shows 33 percent or more damage or deterioration of its supporting member or members;
+
+2. 50 percent damage or deterioration of its non-supporting members; or
+
+3. 50 percent damage or deterioration of its enclosing or outside wall coverings.
+
+H. Demolition remnants on site. Whenever any portion of a structure, including unfilled excavations, remains on a site for more than 30 days after the demolition or destruction of the structure;
+
+I. Lack of approved foundation. Whenever any portion of a structure, including unfilled excavations, remains on a site, including:
+1. Where a structure is not placed on an approved foundation and no valid permit exists for a foundation for that structure: or
+
+2. For more than 90 days after issuance of a permit for a foundation for a structure, where the structure is not placed on an approved foundation.
+
+J. Fire hazard. Whenever any structure is a fire hazard as a result of any cause, including but not limited to: Dilapidated condition, deterioration, or damage; inadequate exits; lack of sufficient fire-resistive construction; or faulty electric wiring, gas connections, or heating apparatus.
+
+K. Other hazards to health, safety, or public welfare.
+1. Whenever, for any reason, the structure, or any portion thereof, is manifestly unsafe for the purpose for which it is lawfully constructed or currently is being used; or
+
+2. Whenever a structure is structurally unsafe or is otherwise hazardous to human life, including but not limited to whenever a structure constitutes a hazard to health, safety, or public welfare by reason of inadequate maintenance, dilapidation, unsanitary conditions, obsolescence, fire hazard, disaster, damage, or abandonment.
+
+L. Public nuisance.
+1. Whenever any structure is in such a condition as to constitute a public nuisance known to the common law or in equity jurisprudence; or
+
+2. Whenever the structure has been so damaged by fire, wind, earthquake or flood or any other cause, or has become so dilapidated or deteriorated as to become:
+a. An attractive nuisance, or
+
+b. A harbor for vagrants or criminals.
+
+M. Chronic dereliction. Whenever a derelict building, as defined in this Title, remains unoccupied for a period in excess of six months or period less than six months when the building or portion thereof constitutes an attractive nuisance or hazard to the public.
+
+N. Violations of codes, laws. Whenever any structure has been constructed, exists, or is maintained in violation of any specific requirement or prohibition applicable to such structure provided by the building regulations of this City, as specified in the Oregon State Structural Specialty Code and Fire and Life Safety Code or any law or ordinance of this State or City relating to the condition, location, or structure or buildings.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+29.40.030 Abatement of Dangerous Structures.
+
+
+
+
+All structures or portions of them that are determined after inspection by the City Administrator to be dangerous as defined in this Title are declared to be public nuisances and will be abated by repair, rehabilitation, demolition, or removal in accordance with the procedures specified in this Title. If the City Administrator determines that a structure is dangerous, as defined by this Title, the City Administrator may commence proceedings to cause the repair, vacation, demolition, or warehousing of the structure.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Chapter 29.45 Odor Off-Site Impact Standard
+
+
+
+
+(Chapter added by Ordinance 191961, effective March 1, 2025.)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+29.45.010 Generally.
+
+
+
+
+Nonresidential uses in all zones which cause off-site impacts on uses in the R, C, CI, IR, and OS zones are required to meet the standards of this Chapter.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+29.45.020 Exemptions.
+
+
+
+
+A.  Use exemption. Retail Sales and Service Uses, as described in Portland City Code Chapter 33.920, are exempt from this standard.
+
+B.  Existing operation exemption.  The odor standard does not apply to machinery, equipment, and facilities which were at the site and in compliance with existing regulations at the effective date of these regulations. Any new or additional machinery, equipment, and facilities must comply with the standards of this chapter. Documentation is the responsibility of the proprietor of the use if there is any question about when the equipment was brought to the site.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+29.45.030 Odor Standard.
+
+
+
+
+A.  Odor standard. Continuous, frequent, or repetitive odors may not be produced. The odor threshold is the point at which an odor may just be detected.
+
+B.  Exception. An odor detected for less than 30 minutes per day is exempt.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+29.45.040 Odor Investigation.
+
+
+
+
+An investigation into an alleged odor standard violation will be initiated when five or more individual complaints from five or more people are received within a 30-day period. The complainants must reside within 150 feet of a property line of the site with the offending odor.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Chapter 29.50 Other Requirements
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+29.50.010 Permits Required.
+
+
+
+
+No person, firm or corporation may construct, alter, repair, move, improve, or demolish any structure without first obtaining applicable building permits as required by Portland City Code. No person, firm or corporation may prune or remove a tree without first obtaining applicable tree permits as required by Portland City Code Title 11, Trees.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+29.50.020 Inspections Required.
+
+
+
+
+All buildings, structures, dwelling units, or other improvements within the scope of this Title, or within the requirements of code enforcement programs created under the authority of this Title or Title 3, as set forth by the City Administrator in the administrative rules, and all construction work for which a permit is required will be subject to inspection as required by Portland City Code.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+29.50.030 Requested Inspections for Residential Structures.
+
+
+
+
+Requested inspections that are not part of the City’s code enforcement program will be made as soon as practical after payment to Portland Permitting & Development of the fee specified in the Property Maintenance Regulations Fee Schedule as approved by City Council.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+29.50.040 Occupancy of Property After Notice of Violation.
+
+
+
+
+A. If a notice of violation of Chapters 29.30, 29.35, or 29.40 has been issued, and if the affected structure or any portion thereof is residential or neighborhood commercial use or becomes vacant, it is unlawful:
+1. To re-enter the affected structure or any portion thereof for any purpose if the affected structure or any portion thereof is found to be substantially dangerous or unsafe, unless authorized in writing by the City Administrator; or
+
+2. To re-enter the affected structure or portion thereof for any purpose other than work associated with the correction of violations noted in the Notice of Violation.
+
+B. In addition to any civil penalties imposed pursuant to Portland City Code Subsection 22.05.010 A.5. or Subsection 29.70.020 D., and as collected through a municipal lien process, any person unlawfully occupying any such affected structure or portion thereof may upon conviction be punished by a fine of not more than $500, or by imprisonment not exceeding six months, or both.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+29.50.050 Illegal Residential Occupancy.
+
+
+
+
+Residential occupancy of structures or spaces not intended for permanent residential use or occupancy is unlawful, including but not limited to structures placed, constructed or converted without permit; tents, campers, motor homes, recreational vehicles, and other vehicles.
+
+A. Exceptions:
+1. Individual sleeping accommodations within outdoor shelters legally established in conformance with Portland City Code Chapters 33.285 or 33.815, or allowed as temporary occupancies under Portland City Code Chapter 33.296;
+
+2. Vehicles on institutional property as allowed by Oregon Revised Statutes, Chapter 203, Section 082;
+
+3. Recreational vehicles within in a manufactured dwelling park or mobile home park as provided by Oregon Revised Statues, Chapter 197, Section 493;
+
+4. Motor homes and recreational vehicles within a recreational vehicle park allowed as a commercial use by Portland City Code Chapters 33.130 or 33.140; and
+
+5. One occupied recreational vehicle provided:
+a. The recreational vehicle is on a site with a house, attached house, or manufactured home. See Portland City Code Chapter 33.260.
+
+b. The recreational vehicle is a travel trailer, park model recreational vehicle, camper or motor home.
+
+c. A permanent recreational vehicle utility hookup that includes an electrical outlet, a water connection, and a sanitary sewer dump is provided on the site. A water connection and sanitary sewer dump is not required if the vehicle lacks internal plumbing.
+
+6. Camping under circumstances not prohibited by Portland City Code Sections 14A.50.140, 14A.50.150, 14A.50.160, authorized by Portland City Code Section 33.296.030, or authorized by declaration by the Mayor.
+
+B. When a property has an illegal residential occupancy, the use must be abated or brought into compliance with the current regulations for a space of the same occupancy.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+29.50.060 Interference with Repair, Demolition, or Abatement Prohibited.
+
+
+
+
+It is unlawful for any person to obstruct, impede, or interfere with any person lawfully engaged in:
+
+A. The work of repairing, vacating, warehousing, or demolishing any structure pursuant to the provisions of this Title;
+
+B. The abatement of a nuisance pursuant to the provisions of this Title; or
+
+C. The performance of any necessary act preliminary to or incidental to such work as authorized by this Title or directed pursuant to it.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+29.50.070 Warehousing of Structures.
+
+
+
+
+A. When the City Administrator determines that a structure is suitable, due to its historic designation or other significant features, the owner may be permitted to warehouse such structure, as defined in this Title, for a period of up to 30 months. An extension for one further period of one year may be permitted by the City Administrator, provided that the condition of the warehoused structure is determined by inspection, to be satisfactory.
+
+B. The City Administrator may adopt and enforce written rules concerning the maintenance and monitoring of warehoused structures. The requirements for the warehousing of each structure under the rules will be recorded in the files of Portland Permitting & Development.
+
+C. All work necessary in warehousing a structure must be carried out under permits required by City Codes.
+
+D. Owners of a warehoused structure will continue to be subject of the penalties set forth in Chapter 29.70 to pay Portland Permitting & Development for the cost of regular inspections of their buildings during the warehousing period.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Chapter 29.60 Administration and Enforcement
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+29.60.010 Administration Authority and Responsibility.
+
+
+
+
+The City Administrator administers and enforces all of the provisions of this Title. In accordance with approved procedures, the City Administrator may employ qualified officers, inspectors, assistants, and other employees as may be necessary to carry out the provisions of this Title. The authority of the City Administrator to enforce the provisions of this Title is independent of and in addition to the authority of other City officials to enforce the provisions of any other Title of Portland City Code.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+29.60.020 Authorization to Inspect.
+
+
+
+
+The City Administrator may inspect property for the purposes of enforcing this Title. Wherever possible, inspections made by the personnel of Portland Permitting & Development or the Portland Fire Bureau will be coordinated in order to avoid the issuance of multiple or conflicting orders.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+29.60.030 Enforcing Compliance.
+
+
+
+
+To enforce any of the requirements of this Title, the City Administrator may:
+
+A. Institute an action before the Code Hearings Officer as set out in Portland City Code Title 22;
+
+B. Cause an appropriate action to be instituted in a court of competent jurisdiction; or
+
+C. Take other action as the City Administrator in the exercise of their discretion deems appropriate.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+29.60.040 Right of Entry; Inspection Warrants.
+
+
+
+
+A. Right of entry. The City Administrator may enter property, including the interior of structures, at all reasonable times whenever an inspection is necessary to enforce any building regulations, or whenever the City Administrator has reasonable cause to believe that there exists in any structure or upon any property any condition that makes such property substandard as defined in any building regulations. In the case of entry into areas of property that are plainly enclosed to create privacy and prevent access by unauthorized persons, the following steps will be taken:
+1. Occupied property. If any structure on the property is occupied, the City Administrator will first present proper credentials and request entry. If entry is refused, the City Administrator may attempt to obtain entry by obtaining an inspection warrant;
+
+2. Unoccupied property.
+a. If the property is unoccupied, the City Administrator will contact the property owner, or other persons having charge or control of the property, and request entry. If entry is refused, the City Administrator may attempt to obtain entry by obtaining an inspection warrant.
+
+b. If structures on the property are unoccupied, the City Administrator will first make a reasonable attempt to locate the owner or other persons having charge or control of the property and request entry. If entry is refused, the City Administrator may attempt to obtain entry by obtaining an inspection warrant; or
+
+3. Open, unoccupied property. If any structure on the property is unoccupied and open:
+a. The City Administrator will notify the owner of the property’s condition and order the owner, or other persons having charge or control of the property, to immediately secure the premises against the entry of unauthorized persons. If the property is not secured within 15 days from the date notice is sent, the City Administrator may secure the property as provided in Chapter 29.20.
+
+b. If the City Administrator believes that a hazardous condition exists, the City Administrator may immediately secure the property as provided in Chapter 29.20. Following the summary abatement, the City Administrator will notify the owner, or other persons having charge or control of the property, of the condition of the property and request entry. If entry is refused, the City Administrator may attempt to obtain entry by obtaining an inspection or abatement warrant.
+
+B. Grounds for issuance of inspection warrants; affidavit.
+1. Affidavit. An inspection warrant may be issued only upon cause, supported by affidavit, particularly describing the applicant's status in applying for the warrant, the statute, ordinance or regulation requiring or authorizing the inspection or investigation, the property to be inspected or investigated and the purpose for which the inspection or investigation is to be made including the basis upon which cause exists to inspect. In addition, the affidavit will contain either a statement that entry has been sought and refused, or facts or circumstances reasonably showing that the purposes of the inspection or investigation might be frustrated if entry were sought without an inspection warrant.
+
+2. Cause. Cause will be deemed to exist if reasonable legislative or administrative standards for conducting a routine, periodic or area inspection are satisfied with respect to any building or upon any property, or there is probable cause to believe that a condition of nonconformity with any building regulation exists with respect to the designated property, or an investigation is reasonably believed to be necessary in order to discover or verify the condition of the property for conformity with building regulations.
+
+C. Procedure for issuance of inspection warrant.
+1. Examination. Before issuing an inspection warrant, the judge may examine under oath the applicant and any other witness and will be satisfied of the existence of grounds for granting such application.
+
+2. Issuance. If the judge is satisfied that cause for the inspection or investigation exists and that the other requirements for granting the application are satisfied, the judge will issue the warrant, particularly describing the person or persons authorized to execute the warrant, the property to be entered and the purpose of the inspection or investigation. The warrant will contain a direction that it be executed on any day of the week between the hours of 8:00 a.m. and 6:00 p.m., or where the judge has specially determined upon a showing that it cannot be effectively executed between those hours, that it be executed at any additional or other time of the day or night.
+
+3. Police assistance. In issuing an inspection warrant on unoccupied property, including abatement warrants pursuant to Section 29.60.060, the judge may authorize any peace officer, as defined in Oregon Revised Statutes, to enter the described property to remove any person or obstacle and assist the City Administrator or representative of the department inspecting the property in any way necessary to complete the inspection.
+
+D. Execution of inspection warrants
+1. Occupied property. Except as provided in Subsection 2. of this Section, in executing an inspection warrant, the person authorized to execute the warrant will, before entry into the occupied premises, make a reasonable effort to present the person's credentials, authority and purpose to an occupant or person in possession of the property designated in the warrant and show the occupant or person in possession of the property the warrant or a copy thereof upon request.
+
+2. Unoccupied property. In executing an inspection warrant, the person authorized to execute the warrant need not inform anyone of the person's authority and purpose, as prescribed in Subsection 1. of this Section, but may promptly enter the property if it is at the time unoccupied or not in the possession of any person or at the time reasonably believed to be in such condition. In such case a copy of the warrant will be conspicuously posted upon the property.
+
+3. Return. An inspection warrant must be executed within 10 working days of its issue and returned to the judge by whom it was issued within 10 working days from its date of execution. After the expiration of the time prescribed by this Subsection, the warrant unless executed is void.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+29.60.050 Notice and Order.
+
+
+
+
+A. Notification required. Except in the case of summary abatement or immediate danger, if the City Administrator finds one or more violations of the provisions of this Title on a property or adjacent right of way, the City Administrator will notify the property owner to repair, remove or take any other action as necessary to correct the violations. Notification to the property owner will be accomplished by mailing a notice to the owner, at the owner's address as recorded in the county assessment and taxation records for the property. The notice may be sent via First Class Mail or certified mail at the City Administrator's discretion. Notice to the property owner may also be accomplished by posting notice on the property.
+
+In addition to the above notice to the property owner, prior notice before towing a disabled vehicle must be provided by mailing a notice to the registered owner(s) and any other persons who reasonably appear to have an interest in the vehicle within 48 hours, Saturdays, Sundays and holidays excluded, after the notice has been posted on the property. The City Administrator will also provide notice to the registered owner and other persons who have an interest in the disabled vehicle by posting written notice on the vehicle.
+
+B. Content of the notice. The notice will include:
+1. The date of posting (if notice was posted at the property);
+
+2. The street address or a description sufficient for identification of the property;
+
+3. A statement that one or more violations of this Title exist at the property with a general description of the violation(s);
+
+4. Disclosure that penalties, charges, and liens may result from a failure to remedy the violations, and in the case of a disabled vehicle, a statement that the City intends to tow and remove the vehicle if the violation is not corrected;
+
+5. Specification of a response period during which the property may be brought into compliance with this Title before penalties, charges, or liens will be assessed; and
+
+6. Disclose the owner’s right to appeal the findings of the notice of violation and a description of the time limits for requesting an administrative review or a hearing, as described in Chapter 29.80 of this Title.
+
+C. Notification by mail. An error in the name of the property owner or address listed in the county assessment and taxation records for the property will not render the notice void, but in such case the posted notice, if a notice was posted on the property, will be deemed sufficient.
+
+D. Notification following summary abatement. When summary abatement is authorized by this Title, the decision regarding whether or not to use summary abatement will be at the City Administrator’s discretion. In the case of summary abatement, notice to the owner or occupant of the property prior to abatement is not required. However, following summary abatement, the City Administrator will post upon the property liable for the abatement a notice describing the action taken to abate the nuisance violation. In addition, a Notice of Summary Abatement will be mailed to the property owner. The Notice of Summary Abatement will include:
+1. The date the nuisance on the property was abated;
+
+2. The street address or description sufficient for identification of the property;
+
+3. A statement of the violations of this Title that existed at the property and were summarily abated;
+
+4. Disclosure that penalties, charges and liens will result from the summary abatement;
+
+5. Disclosure of the owner's right to appeal the findings of the notice.
+
+E. Compliance inspections and penalties. The City Administrator will monitor compliance with the notice through periodic tracking and inspection. Once a notice has been mailed, the owner will be responsible for all enforcement penalties associated with the property, as described in Chapter 29.70, until the violations are corrected and the City Administrator has been so notified. Except in the case of summary abatement, whenever the owner believes that all violations listed in the first or any subsequent notice of violation have been corrected, they must notify the City Administrator.
+
+F. Time limits for repair. The City Administrator may set time limits in which the violations of this Title are to be corrected. Failure to comply with the time limits is a violation of this Title.
+
+G. Effective date of notice. All notices served pursuant to this section will be considered served as of the date and time of mailing the notice described in Subsections A. and C. of this section.
+
+H. Information filed with County Recorder. If the City Administrator finds violations of this Title on any property, the City Administrator may record with the County Recorder information regarding Portland City Code violations and possible liens on the property.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+29.60.060 Nuisance Abatement; Warrants.
+
+
+
+
+A. Abatement. If, within the time limit set by the City Administrator in the notice of violation, any nuisance described in the notice has not been removed and abated, or cause shown, as specified in Chapter 29.80 of this Title, why such nuisance should not be removed or abated, or where summary abatement is authorized, the City Administrator may cause the nuisance to be removed and abated, including disposal in an approved manner.
+
+B. Warrants. The City Administrator may request any Circuit Court judge to issue a nuisance abatement warrant whenever entry onto private property is necessary to remove and abate any nuisance, or whenever the City Administrator has reasonable cause to believe that there exists in any building or upon any property any nuisance that makes such property substandard as defined in any building regulations.
+
+C. Grounds for issuance of nuisance abatement warrants; affidavit.
+1. Affidavit. A nuisance abatement warrant may be issued only upon cause, supported by affidavit, particularly describing the applicant's status in applying for the warrant, the statute, ordinance or regulation requiring or authorizing the removal and abatement of the nuisance, the building or property to be entered, the basis upon which cause exists to remove or abate the nuisance, and a statement of the general types and estimated quantity of the items to be removed or conditions abated.
+
+2. Cause. Cause will be deemed to exist if reasonable legislative or administrative standards for removing and abating nuisances are satisfied with respect to any building or upon any property, or if there is cause to believe that a nuisance violation exists, as defined in this Title, with respect to the designated property.
+
+D. Procedure for issuance of a nuisance abatement warrant.
+1. Examination. Before issuing a nuisance abatement warrant, the judge may examine the applicant and any other witness under oath and will be satisfied of the existence of grounds for granting such application.
+
+2. Issuance. If the judge is satisfied that cause for the removal and abatement of any nuisance exists and that the other requirements for granting the application are satisfied, the judge will issue the warrant, particularly describing the person or persons authorized to execute the warrant, the property to be entered, and a statement of the general types and estimated quantity of the items to be removed or conditions abated. The warrant will contain a direction that it be executed on any day of the week between the hours of 8:00 a.m. and 6:00 p.m., or where the judge has specially determined upon a showing that it cannot be effectively executed between those hours, that it be executed at any additional or other time of the day or night.
+
+3. Police assistance. In issuing a nuisance abatement warrant, the judge may authorize any peace officer, as defined in Oregon Revised Statutes, to enter the described property to remove any person or obstacle and to assist the representative of Portland Permitting & Development in any way necessary to enter the property and, remove and abate the nuisance.
+
+E. Execution of nuisance abatement warrants.
+1. Occupied property. Except as provided in Subsection 2. of this Section, in executing a nuisance abatement warrant, the person authorized to execute the warrant will, before entry into the occupied premises, make a reasonable effort to present the person's credentials, authority and purpose to an occupant or person in possession of the property designated in the warrant and show the occupant or person in possession of the property the warrant or a copy thereof upon request.
+
+2. Unoccupied property. In executing a nuisance abatement warrant on unoccupied property, the person authorized to execute the warrant need not inform anyone of the person's authority and purpose, as prescribed in Subsection 1. of this Section, but may promptly enter the designated property if it is at the time unoccupied or not in the possession of any person or at the time reasonably believed to be in such condition. In such case a copy of the nuisance abatement warrant will be conspicuously posted on the property.
+
+3. Return. A nuisance abatement warrant must be executed within 10 working day of its issue and returned to the judge by whom it was issued within 10 working days from its date of execution. After the expiration of the time prescribed by this Subsection, the warrant unless executed is void.
+
+F. Disposal of nuisance items removed. The City Administrator may cause the nuisance items removed pursuant to the nuisance abatement warrant to be disposed of in an approved manner whenever the City Administrator, in their discretion, finds that the fair and reasonable value of the items at resale would be less than the cost of storing and selling the items. In making the above determination, the City Administrator may include in the costs of sale the reasonable cost of removing the items to a place of storage, of storing the items for resale, of holding the resale including reasonable staff allowances, and all other reasonable and necessary expenses of holding the sale.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+29.60.070 Vacating Structures.
+
+
+
+
+A. Any structure found to be in violation of Chapter 29.30 or 29.35 to such an extent as to be a hazard or declared a dangerous structure under Chapter 29.40 may be vacated, secured, and maintained against entry by order of the Code Hearings Officer.
+
+B. If the City Administrator finds violations to the extent that an immediate danger is posed to the health, safety, or welfare of the occupants, or that of the general public, the City Administrator may order part of the structure, or all of the structure, to be vacated or demolished forthwith, if in the City Administrator’s discretion, circumstances are found that do not allow time for prior application to the Hearings Officer.
+1. The owner or any tenant of the property, who has been affected by the City Administrator’s determination to vacate may appeal that determination to the Code Hearings Officer by following the procedure contained in Portland City Code Section 22.20.030.
+
+2. Upon receipt of a request for hearing pursuant to Portland City Code Section 22.20.030, the Code Hearings Officer will schedule and hold an appeal hearing within 10 days after the receipt of the request.
+
+C. Upon vacation of the structure a notice will be posted at or on each exit of the building. Whenever such notice is posted, the City Administrator will include in such notice a statement declaring the building unsafe to occupy and specifying the conditions that necessitate the posting.
+
+D. Unless authorized by the City Administrator, it is unlawful for any person knowingly to enter or remain in any structure that the City Administrator has ordered vacated pursuant to this Section. In addition to any civil penalties imposed pursuant to Portland City Code Subsection 22.05.010 A.5. or Chapter 29.70, any person knowingly entering or remaining in such a structure will upon conviction be punished by a fine of not more than $500, or by imprisonment not exceeding six months, or both.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+29.60.080 Referral to the Hearings Officer for Repair or Demolition of Dangerous Structures.
+
+
+
+
+At any time after the City Administrator identifies a property as containing a dangerous structure and has notified the owner as specified in Section 29.60.050, the City Administrator may cause an action to be instituted before the Code Hearings Officer as provided in Portland City Code Title 22. In the event the owner fails or neglects to comply with any order of the Hearings Officer to repair or demolish a structure, the Hearings Officer may authorize Portland Permitting & Development to carry out such repairs or demolish the structure.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+29.60.085 Demolition; Warrants
+
+
+
+
+A. Abatement. If, within the time limit set by the Hearings Officer’s Order for Demolition, the dangerous structure described in the Order has not been removed and abated, or cause shown, as specified in Chapter 29.80 of this Title, why such dangerous structure should not be removed or abated, or where summary abatement is authorized, the City Administrator may cause the dangerous structure to be removed and abated, including disposal in an approved manner.
+
+B. Warrants. The City Administrator may request any Circuit Court judge to issue a demolition warrant whenever entry onto private property is necessary to demolish a dangerous structure.
+
+C. Grounds for issuance of demolition warrants; affidavit.
+1. Affidavit. A demolition warrant may be issued only upon cause, supported by affidavit, particularly describing the applicant’s status in applying for the warrant, the statute, ordinance or regulation requiring or authorizing the demolition of the dangerous structure, the building or property to be entered, the basis upon which cause exists to demolish the dangerous structure and a general statement describing the structure to be demolished. In addition, the affidavit will contain a statement describing the conditions under which the demolition is to be completed, including completion of all work on the property within a 30-day period.
+
+2. Cause. Cause will be deemed to exist if reasonable legislative or administrative standards are satisfied with respect to the demolition of the dangerous structure.
+
+D. Procedure for issuance of a demolition warrant.
+1. Examination. Before issuing a demolition warrant, the judge may examine the applicant and any other witness under oath and will be satisfied of the existence of grounds for granting such application.
+
+2. Issuance. If the judge is satisfied that cause for the demolition of any dangerous structure exists and that the other requirements for granting the application are satisfied, the judge will issue the demolition warrant, particularly describing the person or persons authorized to execute the warrant, the property to be entered, and a statement describing the structure to be demolished and the work to be performed. The warrant will contain a direction that it be executed on any day of the week between the hours of 8:00 a.m. and 6:00 p.m., or where the judge has specially determined upon a showing that it cannot be effectively executed between those hours, that it be executed at any additional or other time of the day or night.
+
+3. Police assistance. In issuing a demolition warrant, the judge may authorize any peace officer, as defined in Oregon Revised Statues, to enter the described property to remove any person or obstacle and to assist the representative of Portland Permitting & Development in any way necessary to enter the property and demolish the dangerous structure.
+
+E. Execution of demolition warrants.
+1. Execution. In executing the demolition warrant, the person authorized to execute the warrant need not inform anyone of the person’s authority or purpose but may promptly enter the designated property if it is or at the time reasonably appears to be a) unoccupied, or b) not in the possession of any person. A copy of the demolition warrant will be conspicuously posted on the property.
+
+2. Return. A demolition warrant must be executed within 10 working days of its issuance by the judge. The authority to enter into the property and perform the demolition work will continue for a period of up to 30 days after the date of execution, unless the judge extends this time before it has expired. The executed warrant must be returned to the judge upon the completion of the demolition or the expiration of the authorized time, whichever occurs first. If the warrant is not executed within 10 days after the issuance by the judge, the warrant will be void.
+
+F. Disposal of demolition debris. The City Administrator may cause the debris to be removed pursuant to the demolition warrant and disposed of in an approved manner whenever the City Administrator, in their discretion, finds that the fair and reasonable value of the debris would be less than the cost of storing and selling the items. In making the above determination, the City Administrator may include in the costs of sale the reasonable cost of removing debris to a place of storage, of storing the items for resale, of holding the resale including reasonable allowances for costs of staff, and any other reasonable and necessary expenses of holding a sale.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+29.60.100 Exceptions.
+
+
+
+
+A. The City Administrator may grant an exception when the enforcement of the requirements of this Title would cause undue hardship to the owner or occupants of the affected property, or whenever the City Administrator deems it necessary in order to accomplish the purpose of this Title.
+
+B. To carry out the intent of this Section the City Administrator will establish written policies in the form of waivers to explain the exceptions that are available to property owners. The waivers will include the following information:
+1. An explanation of the purpose of the waiver;
+
+2. A list of the requirements the owner must meet in order to qualify for the waiver;
+
+3. An explanation of the period of time during which the waiver will be in effect; and
+
+4. A list of the actions the owner must perform to fulfill their responsibilities to maintain the waiver and to prevent the waiver from being cancelled.
+
+C. The owner must apply for a waiver in writing. This Section may not be construed so as to evade the provisions of Portland City Code Title 22.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Chapter 29.70 Costs and Penalties
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+29.70.005 Generally.
+
+
+
+
+In order to defray the costs of enforcement of, and to encourage compliance with, this Title, the City Administrator may impose penalties on those properties that are found to be in violation of this Title.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+29.70.010 Enforcement Fees or Penalties for Nuisance, Housing and Dangerous and Derelict Buildings.
+
+
+
+
+A. The City may charge a penalty in the form of a monthly enforcement fee for each property found in violation of Chapters 29.20, 29.30, 29.35 or 29.40 of this Title that meets the following conditions:
+1. The property is a subject of a notice of violation of this Title as described in Section 29.60.050; and
+
+2. A response period of 30 days has passed since the effective date of the initial notice of violation; and
+
+3. The property remains out of compliance with the initial notice of violation or any subsequent notice of violation.
+
+B. The amount of the monthly enforcement fee is charged as set forth in the Enforcement Fee and Penalty Schedule as approved by City Council. If all violations are not corrected within three months from the date of the initial notice of violation, subsequent enforcement fees or penalties are twice the amount listed in the Enforcement Fee and Penalty Schedule as approved by City Council.
+
+C. Whenever the property owner believes that all violations have been corrected, the property owner must so notify the City Administrator. Upon receipt of such notice, the City Administrator will promptly schedule an inspection of the property and will notify the property owner if any violations remain uncorrected.
+
+D. Once monthly enforcement fees or penalties begin, they will continue until all violations have been corrected, inspected and approved.
+
+E. When a property meets the conditions for charging an enforcement fee or penalty, the revenue service and program of the City Administrator will file a statement that identifies the property, the amount of the monthly fee or penalty, and the date from which the charges are to begin. The revenue service and program of the City Administrator will then:
+1. Notify the property owner(s) of the assessment of enforcement fees or penalties and the 10 percent revenue service and program of the City Administrator charge; and
+
+2. Record a property lien in the Docket of City Liens; and
+
+3. Bill the property owner(s) monthly for the full amount of enforcement fees or penalties owing, plus additional charges to cover administrative costs of the revenue service and program of the City Administrator; and
+
+4. Maintain lien records until:
+a. The lien and all associated interest, penalties, charges and costs are paid in full; and
+
+b. The City Administrator certifies that all violations listed in the original or any subsequent notice of violation have been corrected.
+
+F. When a property meets the conditions for assessment of fees or penalties as described in this Title, the City Administrator may also cause appropriate collection measures, including legal action in a court of competent jurisdiction, to be instituted against the property owner in order to collect the assessed fees or penalties.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+29.70.020 Costs and Penalties for Abatement of Nuisances, Disable Vehicles, and Re-occupancy in Violation.
+
+
+
+
+A. Nuisances.
+1. Whenever a nuisance is abated by the City, the City Administrator will keep an accurate account of all expenses incurred for each nuisance abated including but not limited to abatement costs, civil penalties, fees, administrative costs, recorders fees and title report charges as set forth in the Enforcement Fee and Penalty Schedule as approved by City Council.
+
+2. When the City has abated a nuisance maintained by any owner of real property, for each subsequent nuisance that is abated by the City within two consecutive calendar years concerning real property, owned by the same person, an additional civil penalty as set forth in the Enforcement Fee and Penalty Schedule will be added to the costs, charges and civil penalties. The additional civil penalty will be imposed without regard to whether the nuisance abated by the City involved the same real property or are of the same character.
+
+3. Costs and penalties resulting from nuisance abatement may be assessed as a lien upon the real property as provided in Subsection D.
+
+B. Disabled vehicles.
+1. Whenever a vehicle is removed from real property by the City, the City Administrator will keep an accurate account of all expenses incurred for each disabled vehicle removed including but not limited to abatement costs, civil penalties, administrative costs, inspection fees, recording fees, and title report charges as set forth in the Enforcement Fee and Penalty Schedule as approved by City Council.
+
+2. Whenever a vehicle has been tagged by the City and removed from real property and placed on the public right-of-way, the owner of the real property is responsible for that vehicle. The City Administrator may remove the vehicle from the right-of-way and keep an accurate account of all expenses incurred for each disabled vehicle removed including but not limited to abatement costs, civil penalties, administrative costs, fees, recording fees and title report charges as set forth in the Enforcement Fee and Penalty Schedule as approved by City Council.
+
+3. Costs and penalties resulting from the abatement of disabled vehicles may be assessed as a lien upon the real property as provided in Subsection D.
+
+C. Occupancy of property after notice of violation.
+1. Whenever a property owner causes or permits a vacant structure or portion thereof to be occupied in violation of this Title, a penalty as set forth in the Enforcement Fee and Penalty Schedule as approved by City Council may be imposed per structure or portion thereof.
+
+2. Costs and penalties resulting from the occupancy of property after notice of violation may be assessed as a lien upon the real property as provided in Subsection D.
+
+D. When a property meets the conditions for assessment of fees or penalties as described in Subsections A., B. or C. above, Portland Permitting & Development will file a statement of such fees or penalties with the revenue service and program of the City Administrator. Upon receipt of the statement, the revenue service and program of the City Administrator will mail an assessment notice to the property owner. The notice will include the amount due plus 10 percent charges to cover the administrative costs of the revenue service and program of the City Administrator. At the same time the notice is mailed by the revenue service and program of the City Administrator, the revenue service and program of the City Administrator will enter the amount due or the amount of the unpaid balance, plus charges to cover the administrative cost of the revenue service and program of the City Administrator, in the Docket of City Liens, which will thereafter constitute a lien against the property. The property owner is responsible for paying all liens assessed against the property.
+
+E. When a property meets the conditions for assessment of fees or penalties as described in this Title, the City Administrator may also cause appropriate collection measures, including the legal action in a court of competent jurisdiction, to be instituted against the property owner in order to collect the assessed fees or penalties.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+29.70.030 Building Demolition Costs and Penalties.
+
+
+
+
+A. Whenever a building is demolished by the City, the City Administrator will keep an accurate account of all expenses incurred for each building demolished, including but not limited to abatement costs, civil penalties, administrative costs, recorders fees and title report charges as set forth in the Enforcement Fee and Penalty Schedule as approved by City Council.
+
+B. Costs and penalties resulting from demolition by the City of any structure pursuant to this Title plus 10 percent charges to cover the administrative costs of the revenue service and program of the City Administrator may be assessed as a lien upon the real property on which the structure was located pursuant to the provisions of Portland City Code Chapter 22.06.
+
+C. When a property meets the conditions for assessment of fees or penalties as described in this Title, the City Administrator may also cause appropriate collection measures, including legal action in a court of competent jurisdiction, to be instituted against the property owner in order to collect the assessed fees or penalties.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+29.70.040 Chronic Offender.
+
+
+
+
+A. A chronic offender is any person whose property has accumulated, within any 12-month period, multiple violations under this Title that have a negative impact on the public health or welfare and cause repeat inspections and enforcement efforts by the City Administrator.
+
+B. The City Administrator may adopt policies and procedures setting forth the type and number of this Title violations that result in a Chronic Offender designation.
+
+C. The City Administrator may pursue any or all of the following actions against a chronic offender:
+1. Refer the chronic offender to the Code Hearings Officer, as provided in Portland City Code Title 22, for additional penalties, sanctions, and the authority to abate unresolved nuisance violations on properties owned by the chronic offender; or
+
+2. Refer the chronic offender for criminal prosecution and criminal penalties of a fine of up to $500 per violation or six months in jail as provided for in Portland City Code Chapter 1.01.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Chapter 29.80 Appeals
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+29.80.010 Administrative Review
+
+
+
+
+A. Whenever an owner has been given a notice pursuant to this Title and has been directed to make any correction or to perform any act and the owner believes the finding of the notice was in error, the owner may have the notice reviewed by the City Administrator. If a review is sought, the owner must submit a written request to Portland Permitting & Development within 15 days of the date of the notice. Such review will be conducted by the City Administrator. The owner requesting such review will be given the opportunity to present evidence to the City Administrator. Following the review, the City Administrator will issue a written determination.
+
+B. Nothing in this Section limits the authority of the City Administrator to initiate a proceeding under Portland City Code Title 22.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+29.80.020 Appeals to the Code Hearings Officer.
+
+
+
+
+A determination issued pursuant to Section 29.80.010 may be appealed to the Code Hearings Officer along with the payment of a fee as set forth in the Enforcement Fee and Penalty Schedule, as provided for in Portland City Code Chapter 22.10.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+29.80.030 Further Appeals.
+
+
+
+
+All appeals from the Code Hearings Officer’s determination pursuant to 29.80.020 must be by writ of review as authorized by Portland City Code Section 22.04.010 and ORS 34.010 through 34.100.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Chapter 29.90 Housing Receivership
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+29.90.010 Purpose and Scope.
+
+
+
+
+The purpose of this Chapter is to establish authority and procedures for the use of the Oregon Housing Receivership Act (ORS 105.420 to 105.455). This Chapter applies to all residential property.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+29.90.020 Authority.
+
+
+
+
+A. When the City Administrator finds that any residential property is in violation of Portland City Code Titles 24, 25, 26, 27, 28, 29, 31, or 33 and believes that violation is a threat to the public’s health, safety or welfare, the City Administrator may apply to a court of competent jurisdiction for the appointment of a receiver to perform an abatement. As used in this Chapter, abatement means the removal or correction of any condition at a property that violates any provision of Portland City Code Titles 24, 25, 26, 27, 28, 29, 31, or 33 as well as the making of other improvements or corrections as are needed to rehabilitate the property or structure. Abatement may include demolition, but does not include securing a structure against entry.
+
+B. In administering the provisions of this Chapter, the City Administrator’s authority includes, but is not limited to:
+1. The selection of properties;
+
+2. The selection of appropriate receivers; and
+
+3. The establishment of written rules and procedures as are deemed necessary for the administration of this Chapter.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+29.90.030 Selection of Properties.
+
+
+
+
+In selecting properties where the City may seek appointment of a receiver, the City Administrator will consider those properties that have, at a minimum, the following characteristics:
+
+A. A violation of any provision of Titles 24, 25, 26, 27, 28, 29, 31 or 33 that threatens the public health, safety or welfare;
+
+B. The owner has not acted in a timely manner to correct the violations; and
+
+C. Abatement of the violations on this property would further the Housing Policy of the City as articulated in Goal 4 of the City’s Comprehensive Plan.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+29.90.040 Notice to Interested Parties and Application.
+
+
+
+
+A. At least 60 days prior to the filing of an application for appointment of a receiver, the City Administrator will cause a notice to be sent by regular mail to all interested parties.
+
+B. The notice will give the date upon which the City has the right to file with the court for the receiver, and in addition will:
+1. State the address and legal description of the property;
+
+2. List the Code violations that give rise to the proposed application; and
+
+3. Give the name, address and telephone number of a person who can provide additional information concerning the violations and their remedy.
+
+C. If no interested party has taken any action to foreclose their security interest within 60 days of the date of the notice, the City Administrator may thereafter apply for the appointment of a receiver.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+29.90.050 Selection of Receivers.
+
+
+
+
+In selecting specific receivers, the City Administrator will choose either the Housing Authority of Portland, a City bureau, an urban renewal agency, or a private not-for-profit corporation, the primary purpose of which is the improvement of housing conditions within the City. In making the selection, the City Administrator will consider, at a minimum, the following:
+
+A. The location of the property relative to other properties owned or managed by the receiver.
+
+B. The receiver’s experience in rehabilitating and managing this type of property.
+
+C. The receiver’s capacity to take on additional property management responsibilities.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+29.90.060 Powers of a Receiver.
+
+
+
+
+A receiver appointed by the court pursuant to the Oregon Housing Receivership Act will have the authority to do any or all of the following, unless specifically limited by the court:
+
+A. Take possession and control of the property, including the right to enter, modify and terminate tenancies pursuant to ORS Chapters 90 and 105, and to charge and collect rents and apply rents collected to the costs incurred due to the receivership.
+
+B. Negotiate contracts and pay all expenses associated with the operation and conservation of the property, including, but not limited to all utility, fuel, custodial, repair, and insurance costs.
+
+C. Pay all accrued property taxes, penalties, assessments, and other charges imposed on the property by a unit of government, as well as any charge of like nature accruing during the pendency of the receivership.
+
+D. Dispose of all abandoned personal property found on the property pursuant to ORS Chapter 90.
+
+E. Enter into contracts and pay for the performance of any work necessary to complete the abatement.
+
+F. Enter into financing agreements with public or private lenders and encumber the property so as to have moneys available to correct the conditions at the property giving rise to the abatement.
+
+G. Charge an administrative fee at an hourly rate approved by the court or at a rate of 15 percent of the total cost of abatement, whichever the court deems more appropriate.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+29.90.070 Plan and Estimate.
+
+
+
+
+Within 30 days after appointment by the court, a receiver must submit to the City Administrator a written plan for the abatement. The City Administrator must approve the plan before the receiver commences work on the abatement.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+29.90.080 Record Keeping.
+
+
+
+
+The receiver must keep a record of all moneys received and expended and all costs and obligations incurred in performing the abatement and managing the property. Records must be kept in a form as agreed upon by the receiver and the City Administrator, and copies must be provided to the City Administrator upon request.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+29.90.090 Purchasing.
+
+
+
+
+All abatement work done under this Chapter is exempt from the purchasing and contracting provisions of Portland City Code Title 5.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+29.90.100 Liens.
+
+
+
+
+A. All moneys expended and all costs and obligations incurred by the receiver in performing the abatement may be reviewed by the court for reasonableness and their necessity in performing the abatement. To the extent that the court finds the moneys, costs, or obligations, to be reasonable and necessary, it may issue an order reciting this fact as well as the amount found to be reasonable and necessary.
+
+B. If the costs and obligations incurred due to the abatement have not been paid, the order of the court will be filed with the county recorder within 60 days of its filing with the court and will thereafter constitute a lien on the property.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+29.90.110 Foreclosure.
+
+
+
+
+In the event that the lien created pursuant to the terms of this Chapter and the Oregon Housing Receivership Act is not paid in a timely fashion, the receiver or their assignee or other successor in interest may bring a suit or action in foreclosure as provided for by law.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+29.90.120 Termination of Receivership.
+
+
+
+
+The receivership authorized pursuant to the terms of this Chapter and the Oregon Housing Receivership Act will terminate only by an order of the court after a showing by an interested party or the receiver that:
+
+A. The abatement has been completed;
+
+B. The costs and obligations incurred due to the abatement have been paid by an interested party or a lien has been filed pursuant to Section 29.90.100 of this Chapter; and
+
+C. The interested party will manage the property in conformance with the applicable provisions of Portland City Code Titles 24, 25, 26, 27, 28, 29, 31 and 33.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+See something we could improve on this page? Give website feedback.

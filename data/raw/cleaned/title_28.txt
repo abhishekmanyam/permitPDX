@@ -1,0 +1,2552 @@
+Portland City Code - Title 28
+
+# Title 28 Floating Structures
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(Title added by Ordinance 163535, effective November 3, 1990.)
+
+
+
+
+
+
+
+
+
+
+
+
+
+Chapter 28.01 Purpose and Scope
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+28.01.010 Statement of Purpose and Intent.
+
+
+
+
+(Amended by Ordinances 181437 and 192002, effective January 10, 2025.)
+
+It is the purpose of this Title to promote the public’s health, safety and welfare through the regulation of floating structures and their appurtenances. The City recognizes the River Community as an important part of the City’s overall vitality and livability, and that Floating Structures by their nature are a “Water Dependent Activity.”
+
+These regulations recognize that waterborne structures, by their very nature, confront different environmental factors than do structures located on land. Furthermore, it is recognized that waterborne structures have distinctive design requirements such that strict adherence or application of the land-oriented Specialty Codes is not always appropriate and that modifications or exceptions should be made in appropriate circumstances in the application of those codes.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+28.01.020 Scope.
+
+
+
+
+(Amended by Ordinances 178745, 181437, 183597, and 192002, effective January 10, 2025.)
+
+Permits may be required for, among other activities, the construction, reconstruction, relocation, alteration, repair, maintenance and siting of floating structures and related structures located within Portland as provided by this Title.
+
+Portland City Code Chapter 33.236 regulates the location, use and development of floating structures. New, relocated or replacement floating structures on sites located within the Portland International Airport Noise Impact overlay zone, as identified in the City’s zoning maps, are subject to the noise insulation, noise disclosure statement, and noise easement requirements of Chapter 33.470.
+
+This Title does not apply to the construction, maintenance, or operation of boats, except as provided in Section 28.06.050.
+
+This Title does not apply to any buildings or structures located on land above the mean high-water mark. Such buildings or structures, including but not limited to parking lots, carports, club houses, sales or business offices, must be constructed in compliance with the applicable State Specialty Codes and Portland City Code (PCC) Title 24 Building Regulations.
+
+Except as specifically provided in this Title, the State Specialty Codes and Titles 24, 31, and 19 of this Code are the base codes for the design and construction and maintenance of floating structures. Recognizing the unique history and traditions associated with floating structures, alternatives to the requirements of the base codes are included in Section 28.06.055 and elsewhere in this Title. Due to that history and tradition, the City Administrator will give additional consideration to prior interpretations, rulings, permitting and appeals.
+
+Should any conflicts arise between the requirements specified in the base codes and the requirements specified in this Title, the requirements of this Title control. Where two requirements of this Title are in conflict the most restrictive requirement will apply. If, after taking into consideration the nautical application of the codes, the application of the specific code requirement is deemed to be overly restrictive, the City Administrator may refer the question to the Building Code Board of Appeal for interpretation.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Chapter 28.02 Definitions
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+28.02.010 General.
+
+
+
+
+(Added by Ordinances 181437; amended by Ordinances 191154 and 192002, effective January 10, 2025.)
+
+For the purpose of this Title, certain words, phrases, terms and their derivatives will be construed to have the meaning as specified in this Chapter and elsewhere in this Title.
+
+Where words, phrases, or terms are not defined in this Title, their meaning will be as defined in the Specialty Codes. If not defined in the Specialty Codes, the words, phrases, or terms will have their ordinarily accepted meanings within the context of their use.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+28.02.020 Definitions.
+
+
+
+
+(Amended by Ordinances 181437, 183597, 187664, 191154, 191736, and 192002, effective January 10, 2025.)
+
+A.  Addition: An increase in the floor area or height of a floating structure or an expansion of walkways, piling or other similar structural portions of a moorage or marina.
+
+B.  Alteration: Any change or modification of existing construction.
+
+C.  Barge-home:  A floating structure that is without a means of self-propulsion, is primarily for occupancy as a one- or two-family dwelling, is constructed on a floatation system that is designed and constructed as a boat, and is directly connected to electrical, sanitary sewer, and/or potable water supply. For the purposes of this Title, a barge-home is considered to be a floating home and must meet all design and construction requirements of a floating home as specified in this Title. This requirement also applies to the floatation system and its connection to the moorage structure. (See Chapter 28.06)
+
+D.  Berth:  A waterside area defined by floating walkways and fingerfloats, for the wet storage of a boat, or mooring of a floating home, combo-structure or boathouse; mooring site.
+
+E.  Boarding float:  A floating structure located on or adjacent to a boat ramp that provides pedestrian access to and from a boat in the water.
+
+F.  Boat:  A vessel or watercraft, other than a floating home, tender house, boathouse, combo-structure or other floating structure as defined in this Title and ORS 830.005 (2005), that may or may not be equipped with a means for self-propulsion and may or may not be licensed and titled by the State or documented by the U.S. Coast Guard for operation on inland, coastal or international waterways and whose intended primary use is as a means of transport on the water for the transport of passengers or cargo or to engage in commerce.
+
+G.  Boathouse: A covered floating structure used for the wet or dry storage of a private boat(s) or personal watercraft of the owner or lessee of the boathouse. A boathouse may contain a work area that is used for maintenance and repair of the boats or personal watercraft stored in the boathouse. Sanitation facilities consisting of a toilet, lavatory and shower may be provided as part of the work area. A boathouse may not contain a kitchen or any facilities, equipment or furnishing that accommodates overnight sleeping.
+
+H.  Boatwell:  A mooring site or berth contained within the structure of a boathouse or combo-structure for the storage of the private boat or personal watercraft of the owner of the boathouse or combo-structure.
+
+I.  Certified Structural Inspector:  An inspector certified as a building inspector in the state where inspections of the floating structure are performed, by the authority having jurisdiction to grant such certifications; or an inspector who has been certified by a recognized national organization such as the International Code Council (ICC) as a building inspector. Such inspectors must be knowledgeable in all aspects of City building codes, including this Title and be approved to:
+1.  Perform the required inspections on residential or commercial floating structures to ensure compliance with all applicable codes
+
+2.  Inspect floats for floating structures constructed in compliance with Subsection 28.06.030 A. of this Title and the structures supported on those floats, or inspect any structure installed on an engineered float:
+a.  With the assistance of a Certified Floating Structure Inspector or
+
+b.  After training and approval as a Certified Floating Structure Inspector.
+
+J.  Certified Floating Structure Inspector:  An individual, who through training and experience, is knowledgeable about the design, construction and maintenance of floating structures and moorage facilities. PP&D will be responsible for certifying such inspectors through a process established by BDS in consultation with the River Community Advisory Committee. Such inspectors must be approved to inspect floats and walkways for floating structures and their connections, as defined in this Title, within the jurisdiction of the City. Such inspector must either possess all qualifications set forth in Subsections 1. and 2. below or possess all of the qualifications of Subsection 1. and successfully complete an approved training program for the inspections of floats and walkways for floating structures and their connections:
+1.  At least 10 years of verifiable experience in the construction industry, of which at least five years of verifiable experience may be from any combination of the following:
+a.  Experience as a hands-on craftsman doing building construction or repair.
+
+b.  Experience as a supervisor for building construction or repair.
+
+c.  Experience as a design professional (architect, structural or civil engineer) for building construction.
+
+d.  Experience as an inspector for building construction.
+
+2.  At least five years of verifiable experience in the design, construction, inspection, maintenance and repair of floating structures including:
+a.  Log float construction, including stringers.
+
+b.  Piling systems.
+
+c.  Utility systems.
+
+d.  Floating structure construction.
+
+K.  Combo-structure: A boathouse-dwelling unit combination.
+
+L.  Covered moorage (covered marina):  Floating structures used primarily for the moorage of boats in berths that are fully or partially covered by a roof structure to protect the boats from weather.
+
+M.  Dangerous structure:  Any structure that has conditions or defects as described in Portland City Code Section 24.15.060, Section 24.15.065 or Section 19.16.250 to the extent that life, health, property, or safety of its occupants or the public are endangered.
+
+N.  Debris boom:  A pile-supported floating structure, typically comprised of logs or foam filled pipe, located immediately upstream of a facility that provides protection from floating debris.
+
+O.   Deck:  The walking surface on top of the flotation system or gangway.
+
+P.   Director:  The director of Portland Permitting & Development as provided in Section 24.10.050.
+
+Q.  Dwelling:  Structure containing one or two dwelling units used, intended or designed to be used, leased, let or hired out to be occupied for living purposes. See also "multi-family dwelling".
+
+R.  Dwelling unit:  One or more habitable rooms that are occupied by, or designed or intended to be occupied by, one person or by a family or group of housemates living together as a single housekeeping unit that includes facilities for living, sleeping, cooking, eating, and sanitation.
+
+S.  Engineer of record:  The term “engineer of record” means either engineer or architect of record.
+
+T.  Existing nonconforming condition: The allowance for a floating structure, with conditions existing prior to the adoption of new or updated codes that regulate the construction of such structures, to remain without the requirement for retroactive improvement to the new or updated standards under this Title, provided the existing structure is maintained in good repair and does not become a dangerous structure, or does not otherwise pose an imminent danger to the public health or safety or to adjoining property. An "existing nonconforming condition" does not include structures that violate Title 33 of this Code.
+
+U.  Existing structure:  A floating structure built and secured in its current mooring site prior to January 1, 2008, or previously built and moored in its current mooring site under a valid permit in compliance with this Title. If a floating structures is in violation of Title 33 of this Code, it is not an "existing structure" within the meaning of this Title.
+
+V.  Fire apparatus access roads: Roads providing the driving surface for fire department vehicles responding to an emergency, extending from a public right-of-way to a point nearest a moorage or marine gangway or pier.
+
+W.  Float structural components: Stringers, joists, beams, logs, or other similar components that support the structure and that directly anchor the floating structure to the floatation system.
+
+X.  Floatation device:  Logs, foam blocks, concrete floats or other similar devices that, in combination, form a floatation system that provides buoyancy for the support of a floating structure.
+
+Y.  Floatation system (float):  An assembly comprised of both the floatation device(s) and the float structural components. The floatation devise and float structural components each represent 50 percent of the floatation system. The floatation system may be either a prescriptive system or an engineered system, as provided under this Title. The deck is not considered part of the floatation system.
+
+Z.  Floating home: A floating structure used as a one- or two-family dwelling or sleeping unit that is supported by a floatation system.
+
+AA.  Floating structure: A structure supported by a floatation system constructed in compliance with this Title and held in place by piling and/or mooring devices.
+
+BB.  Gangway: A variable slope structure intended to provide pedestrian access between a fixed pier or shore and a floating structure.
+
+CC.  Harbor master:  That person assigned to carry out the duties of Harbor Master, as provided in Portland City Code Section 19.04.070.
+
+DD.  Houseboat:  A watercraft, with a hull, capable of travel under its own power as part of its normal use that is registered by the State as a watercraft and that contains a dwelling or temporary dwelling structure. Houseboats are a category of boat.
+
+EE.  Identifying number plate:  A registration plate issued by the State Marine Board with each Certificate of Registration for a floating home (FH), a boathouse (BH) or combo-structure (C).
+
+FF.  Improvement:  The addition of new or alteration of existing elements to an existing structure to improve or alter the functional character of the space or element.
+
+GG.  Maintenance:  The work of keeping a structure or property in proper condition to prevent deterioration or unsafe conditions and to perpetuate its use.
+
+HH.  Marina: Floating structure(s) used primarily for the service, repair, sale or moorage of boats in berths, but may include other occupancies.
+
+II.  Moorage: A site used primarily for the mooring of one or more floating structures or boats and includes the piling, mooring connectors, piers, ramps, gangways, walkways, and the land area used in conjunction therewith.
+
+JJ.  Moorage map:  A plan of a moorage.
+
+KK.  Moored or mooring: The attachment of a boat or floating structure in one location temporarily or permanently to piles, walkways, gangways, piers or other structures.
+
+LL.  Mooring connectors: A connection between a floating structure, floating home, boathouse, berth, or marina, and a pile, pier, walkway, ramp, gangway or other structure, with the capability to hold the structure in place under reasonably expected conditions.
+
+MM.  Mooring site: A site within a moorage designed or used for the mooring of a boat, boathouse, floating home, combo-structure or other floating structure; including berths or slips.
+
+NN.  Multi-family dwelling:  A structure containing three or more dwelling units used, intended or designed to be used, leased, let or hired out to be occupied for living purposes.
+
+OO.  New construction: A new floating structure or an addition to an existing floating structure.
+
+PP.  NFPA:  National Fire Protection Association.
+
+QQ.  Operator:  Any person who has charge, care or control of all or part of a moorage or marina, or a building or structure associated with a moorage or marina.
+
+RR.  Owner, moorage:  Any person having a legal or equitable interest in a moorage or marina and any building or structure that is part of the equity of the moorage or marina.
+
+SS.  Owner, floating structure:  A person who has a legal or equitable interest other than a security interest in a floating structure, and the right of use or possession of the floating structure, but does not include a lessee.
+
+TT.  Pier: A non-floating fixed platform extending out over the water from shore to which gangways are usually attached. (Piers and wharves are regulated under the Oregon State Structural Specialty Code).
+
+UU.  Pile or piling:  A column or group of columns of timber, steel, or reinforced concrete bored or driven into the ground to carry vertical and lateral loads from a floating structure or pier, including those systems of piles described as dolphins or batter piles.
+
+VV.  Plumbing, plumbing system, or plumbing fixtures:  All potable water building supply and distribution pipes, all plumbing fixtures and traps, all drainage and vent pipes, all drains, sewers, and sewage holding tanks including their respective joints and connections, devices, receptors, and appurtenances within the premises, potable water piping, potable water treating or using equipment, and water heaters.
+
+WW.  Property:  The area of a moorage or marina within defined legal boundaries including all portions of the moorage or marina facility located on land and on water and all improvements, buildings or structures within that boundary that are part of the equity of the marina or moorage; or a floating structure under separate ownership from the moorage where it is located.
+
+XX.  Public way:  Any sidewalk, planting strip, alley, street, or pathway, improved or unimproved, that is dedicated to public use.
+
+YY.  Ramp: A fixed, sloped structure providing pedestrian access between portions of a moorage that are at different elevations.
+
+ZZ.  Reconstruction:  The disassembly and subsequent replacement of portions of a structure with like material in a manner consistent with the previous construction.
+
+AAA.  Repair: The replacement or renewal of any part of an existing structure for the purpose of its maintenance.
+
+BBB.  River community:  The group of persons who own and/or occupy floating structures and/or boats, who operate and maintain marinas and moorages or who are involved in the design, construction, maintenance and/or regulation of floating structures.
+
+CCC.  Site map:  A plan of a moorage or marina that includes related land-based structures.
+
+DDD.  Slip:  See mooring site.
+
+EEE.  Specialty Codes: The Oregon Structural Specialty Code (as adopted in City Code Chapter 24.10), Oregon Residential Specialty Code (as adopted in City Code Chapter 24.10), Oregon Mechanical Specialty Code (as adopted in City Code Chapter 27.01), Oregon Plumbing Specialty Code (as adopted in City Code Chapter 25.01), the Oregon Electrical Specialty Code (as adopted in City Code Chapter 26.01) and the Oregon Fire Code (as adopted in City Code Chapter 31.10).
+
+FFF.  Swim or ski floats:  A floating platform or ramp, without enclosed usable space, intended for the recreational use of swimmers and water skiers.
+
+GGG.  Tender house: An uninhabitable, floating, accessory structure the use of which is incidental to the use of its main structure and that is located at the same mooring site as the main structure. Water, gas and electric utilities may be provided but the structure will not contain a kitchen or any facilities, equipment or furnishing that will allow for overnight sleeping or maintenance of separate living. An accessory structure that contains a kitchen or any facilities, equipment or furnishing that will allow for overnight sleeping or separate living will be regulated as a floating home and not as a tender house and is required to be titled and registered with the State Marine Board as a floating home (FH).
+
+HHH.  Transient tie-up: A floating structure used exclusively for the open moorage of pleasure boats on a short term, maximum 72-hour stay or a floating structure used for passengers boarding or leaving commercial watercraft where the commercial watercraft remains moored to the floating structure for a maximum of 12 hours within any 24-hour period.
+
+III.  Vessel:  Any vehicle at least 110 feet or more in length overall, used or capable of being used as a means of transportation on water.
+
+JJJ.  Walk: A fixed portion of a floating structure providing a walking surface for access to and around a floating structure.
+
+KKK.  Walkway: A covered or open floating structure used for ingress to or egress from a mooring site.  There are three types:
+1.  Fingerfloat: A fingerlike floating structure, usually attached perpendicular to a main walkway or marginal walkway, that physically defines a berth and provides direct pedestrian access to and from a berthed boat or floating structure to the main or marginal walkway.
+
+2.  Main walkway: A floating structure to which one or more fingerfloats may be attached and that provides direct pedestrian access between the mooring site and marginal walkways or shore.
+
+3.  Marginal walkway: A floating structure that provides pedestrian access between two or more main walkways and the shore or between two or more fingerfloats and the shore where no main walkways are used and fingerfloats attach directly to the marginal walkway.
+
+LLL.  Water dependent activity:  An activity that is dependent upon access to navigable or non-navigable waters, including but not limited to moorages and marinas.
+
+MMM.  Watercraft:  Any vehicle less than 110 feet in length overall, used or capable of being used as a means of transportation on water.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Chapter 28.03 Administration and Enforcement
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+28.03.010 Responsibility.
+
+
+
+
+(Amended by Ordinances 176955, 181437, 183597, 191154, and 192002, effective January 10, 2025.)
+
+The City Administrator administers and enforces all the provisions of this Title except to the extent the Building Code empowers and requires the Building Official, as that term is defined in Portland City Code Section 24.15.055, to act and except that the Harbor Master is responsible for the initial and periodic inspection of existing moorages as well as the permitting, testing and inspection of standpipes. If the Harbor Master determines a violation of this Title has occurred at a moorage within the jurisdiction of the Harbor Master, such violation will be reported to the City Administrator, who will then have enforcement authority over the violation. The City Administrator may authorize the Harbor Master to enforce the provisions of this Title on behalf of the City. The City Administrator may render interpretations of this Title and adopt policies and procedures in conformance with the intent and purpose of this Title. The City Administrator will seek the advice and opinions of members of the River Community as represented by the River Community Advisory Committee during this process, but the City Administrator has the final authority for rendering interpretations and adopting policies and procedures.
+
+The State of Oregon Marine Board is responsible for issuance of a certificate of title and identifying number plate for floating homes, combo-structures and boathouses.  Issuance by the State of a title and identifying number plate does not certify that a floating home, combo-structure or boathouse is in compliance with the provisions of this Title or any other construction standard. Owners of floating structures are responsible for displaying the required identifying number plate on the floating structure, so that the plate is readily visible from the walkway providing access to the structure.
+
+Nothing in this Title is intended to displace or conflict with any other applicable federal or state statute, rule or regulation nor grant any exemptions from such federal or state regulations.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+28.03.015 River Community Advisory Committee.
+
+
+
+
+(Added by Ordinance 181437; amended by Ordinances 183597, 187664, 191154, and 192002, effective January 10, 2025.)
+
+A.  Purpose.  The River Community Advisory Committee is a citizen advisory body, representing those persons who own and/or occupy floating structures and/or boats, who operate and maintain marinas and moorages or who are involved in the design, construction, maintenance and/or regulation of floating structures. The purpose of the Committee is to obtain timely input from that community in regard to development of procedures and administrative guidelines for implementing the City’s regulations of floating structures under this Title. The Committee advocates for and supports consistent and fair application and implementation of these regulations. The Committee will provide public input to the City Administrator by:
+1.  Providing leadership and expertise on issues affecting floating structures;
+
+2.  Providing feedback to the City Administrator on the impact of potential regulations and administrative rules on floating structures, taking into consideration the full range of City goals and objectives;
+
+3.  Providing recommendations for regulatory, code, and administrative rule changes affecting floating structures;
+
+4.  Monitoring the application and enforcement of regulations for their effectiveness in achieving the City’s goals;
+
+5.  Recommending customer service, permitting, process, and compliance improvements to the City Administrator; and,
+
+6.  Serving as an advisory board to the City Administrator on processes and procedures under this Title.
+
+B.  Membership.  The River Community Advisory Committee will consist of six members each appointed by the Mayor, and approved by the City Council. The members will be selected to provide representation of those persons with knowledge or expertise on the unique construction conditions or the nautical history and traditions associated with floating structures. Members will include representatives from any of the following categories: floating home resident, marina operator, floating structures contractor, floating structures design professional, yacht club member, and on the water business owner.
+
+C.  Appointments and terms.  Appointment to the River Community Advisory Committee will be for a three-year term. If a position is vacated during a term, it will be filled for the unexpired term.  Members of the River Community Advisory Committee will serve no more than two, complete three-year terms, unless the City Administrator recommends approval of a longer term, and the Mayor and City Council approve the extended appointment. Vacancies occurring prior to the end of a term for whatever cause may be filled by qualified persons through appointment by the Mayor for the remainder of the term.
+
+D.  Meetings, Officers, and Subcommittees.
+1.  The River Community Advisory Committee will meet at least two times yearly and as otherwise necessary to conduct its business. Any member of the River Community Advisory Committee may request that a meeting be held to conduct the Committee’s business. Meetings will be conducted in accordance with adopted rules of procedure. Four members constitutes a quorum. A quorum is necessary to make decisions that represent the position of the River Community Advisory Committee and to conduct any other Committee responsibilities. The election of officers will take place at the first meeting of each calendar year.
+
+2.  The officers of the Committee will consist of a Chairperson and a Vice-chairperson. The chairperson is responsible for conducting the meetings of the committee. The Vice chairperson will act as chair when the chairperson is not available.
+
+3.  The River Community Advisory Committee may divide its members into subcommittees that are authorized to act on behalf of the committee for an assigned purpose. Subcommittee actions require the affirmative vote of at least three members.
+
+E.  Attendance.  Members of the River Community Advisory Committee are expected to attend each meeting of the committee. The Mayor may replace any member who accrues unexcused absences from three or more consecutive meetings or more than 50 percent of the meetings in any year.
+
+F.  Compensation.  River Community Advisory Committee members will serve without compensation.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+28.03.020 Permits and Inspections.
+
+
+
+
+(Amended by Ordinances 181437, 183597, 187664, 191154, 191643, 191736, and 192002, effective January 10, 2025.)
+
+It is unlawful for any person to erect, construct, enlarge, alter, repair, move, improve, or convert any structure regulated by this Title, except as provided for in this Title, or cause the same to be done without first obtaining a separate permit for each structure from the City Administrator as required by this Title.
+
+Exemption from the permit requirements of this Title does not authorize any person to do work in any manner in violation of the provisions of this Title or any other rules or regulations of the City, the State of Oregon, or the Federal government.
+
+Unless otherwise exempted, separate plumbing, electrical and mechanical permits are required for any such work performed for floating structures regulated under this Title.
+
+A.  Permits and inspections are required for the following:
+1.  The new construction of floating homes, tender house structures, boathouses or combo structures, except as may otherwise be exempted elsewhere in this Title.
+
+2.  The construction of:
+a.  A new deck, walk, or porch not previously a part of a floating structure; or
+
+b.  An addition of habitable space for a floating home or combo-structure; or
+
+c.  An addition to an existing deck, walk, porch or the float for a floating home, or combo-structure.
+
+Exception:  A one-time addition of not more than five percent in area or eight inches in width or length, whichever is less, to the area of an existing deck, walk, porch or the float for a floating home or combo-structure is allowed without permit provided such extension does not cause an unbalanced or overloaded condition and provided such extension does not reduce the separation between floating structures below what is allowed by this Title. Any such additions need to meet the requirements of Title 33 of this Code.
+
+3.  Alteration to or reconstruction of any element of a floating home, boathouse or combo-structure except as exempted by Subsection 28.03.020 C.
+
+4.  Existing or new floating homes, boathouses, combo structures or commercial structures moved from a site outside the City to a mooring site within Portland.
+
+5.  Existing or new floating homes, combo-structures or commercial structures relocated from one mooring site to another mooring site either in the same moorage or to a separate moorage within Portland.
+
+6.  The new construction, addition, alteration, reconstruction, or improvement of public and private floating structures.
+
+7.  Any new, alteration of and/or structural repair of a gangway.
+
+Exception: Replacement of a nonstructural deck with like materials.
+
+8.  Any new and/or alteration to any electrical, plumbing, heating/air conditioning installation on a floating structure, including wood stoves.
+
+Exception:  As provided in the Specialty Codes, minor repairs and maintenance of electrical, plumbing, heating/air conditioning installations do not require a permit.
+
+9.  Temporary structural supports that will remain in place for not more than 180 days or relocation, replacement, reconstruction or repairs, that require a permit, that are performed to an existing structure due to an emergency condition may be undertaken without first obtaining a permit for the work.  The owner of the structure on which the work is performed must inform the City Administrator within three business days of the commencement of the work, the extent of work that is being performed and must obtain the required permits for the work within 10 business days of the commencement of the work.
+
+10.  A certificate of compliance is required for floating structures moved from one moorage to another moorage within Portland.  No certificate of compliance is required for moving a floating structure from one slip to another within the same moorage.
+
+B.  The permit and inspection process and requirements will be as determined by the City Administrator.  The City Administrator will seek the advice and opinions of members of the River Community Advisory Committee during this process, but the City Administrator has final authority in determining such processes and requirements.
+
+C.  Permits and inspections are not required for the following. The following items may be subject to Title 33 of this Code and require a Zoning Permit:
+1.  The new construction of structures regulated by this Title that will not be moored or occupied within the jurisdiction of the City. Substantiating documentation must be provided to verify compliance with this Section.
+
+2.  Repairs to a floating structure as specified in Section 28.05.020.
+
+3.  Replacement of piles as specified in Section 28.05.020.
+
+4.  Construction, alteration or repair of individual swim or ski floats.
+
+5.  The repair or reattachment of flexible water and sewer connections to individual floating homes, combo-structures, tender houses and boathouses, made in compliance with plumbing code requirements.
+
+6.  Construction, alteration or reconstruction of any portion of tender houses not greater than 200 square feet in area and with a height of not more than 75 percent of the width of the float or 15 feet from the level of the float deck, whichever is less, to the highest point of the structure.
+
+7.  Relocation of boathouses or tender houses within a moorage as long as the unit moved is in good repair and moved to a permitted slip. The distance between units relocated within a moorage may not be:  less than the distance between units that pre-existed prior to the move if that distance is less than six feet between the nearest exterior walls and four feet between the nearest roof, deck, balcony or other architectural projection; or less than six feet between the nearest exterior walls and four feet between the nearest roof, deck, balcony or other architectural projection if the pre-existing distances are greater than or equal to six feet between the nearest exterior walls and four feet between the nearest roof, deck, balcony or other architectural projection. The distance between units when the relocation is to another moorage within Portland must either comply with the separation distance required by Subsection 28.05.010 B.4. or be the separation distance as determined acceptable by consultation with the Harbor Master in compliance with Subsection 28.05.010 B.4.
+
+Exception:  Electrical permits are required for the connection of a relocated boathouse or tender house structure to electrical service at the new location.
+
+The owner/operator of the moorage must provide an updated moorage map as required by Section 28.05.010 reflecting the new location of the relocated boathouse and the distance between the boathouse and adjacent structures and must send a notice of the relocation, including separation distances after the relocation, to the City Administrator.
+
+8.  Temporary relocation of an existing floating structure from its normal mooring site for dredging or other maintenance work to the moorage or to facilitate the permitted move of other floating structures, provided the floating structure is returned to its normal mooring site and provide the final distance between floating structures is the same as previously existed prior to the temporary move.
+
+Exception: Electrical permits are required for the reconnection of floating structures moved under the provisions of this paragraph.
+
+9.  Other work as exempted by the Specialty Codes.
+
+10.  Work identified in Subsection 28.05.010 D.
+
+D.  When permits are required, the owner of the structure must obtain the required permits and inspections prior to proceeding with the next phase of work and obtain a final certificate of compliance prior to the occupancy of the structure. Instructions for requesting inspection are provided at permit issuance.
+
+E.  It is the responsibility of the owner of the floating structure to obtain the required certificate of compliance under the following process:
+1.  The owner of the structure or the owner's authorized agent must call for final inspection within 10 business days of the completion of the work covered by a permit.
+
+2.  A Certified Structural Inspector from Portland Permitting & Development will respond to the call for final inspection within two business days of receipt of the call for final inspection.
+
+3.  The area of work covered by the issued permit may not be occupied until the certificate of compliance has been issued.
+
+4.  Failure to call for final inspection and obtain a certificate of compliance and/or occupying the area of work prior to obtaining a certificate of compliance will be cause for the City Administrator to issue a notice to vacate the structure.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+28.03.030 Fees.
+
+
+
+
+(Amended by Ordinances 181437 and 191154, effective March 1, 2023.)
+
+All fees for permits and special inspections are stated in the Fee Schedule adopted by City Council by ordinance.  Fees will be updated annually or on an as needed basis. The approved Fee Schedule must be available at the Development Services Center. Fees must be paid in advance for all plan review, permits and inspections.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+28.03.035 Portland Permitting & Development Administrative Appeal Board.
+
+
+
+
+(Added by Ordinance 187664; amended by Ordinances 191154, 191736, and 192002, effective January 10, 2025.)
+
+A.  Appointment of Administrative Appeal Board.  Portland Permitting & Development Administrative Appeal Board consists of the Building Official and Bureau staff members appointed by the City Administrator. In appointing staff members, the City Administrator will consider the issues presented by the appeal and what particular expertise will be helpful in addressing those issues. The staff will act in an advisory capacity to the City Administrator. The Administrative Appeal Board may:
+1.  review appeals of the Bureau’s application and interpretation of the State of Oregon specialty codes adopted in this Title (collectively referred to as the “Building Code”);
+
+2.  review requests for modifications to the strict application of the Building Code; and
+
+3.  review requests to use alternative materials, design or methods of construction and equipment.
+
+B.  Appeals to the Administrative Appeal Board and final decisions.  Any person aggrieved by a decision of the Bureau related to the application and interpretation of the Building Code or who wants to request a modification to the strict interpretation of the Building Code or consideration of an alternative material, design or method of construction or equipment may file an appeal with the Administrative Appeal Board. Such an appeal must be filed within 180 days of the Bureau decision being appealed; provided, however, the Building Code in effect at the time the Bureau decision was made will be applied to the administrative appeal. The Administrative Appeal Board may:
+1.  grant an appeal if the Administrative Appeal Board finds that the Building Code was not correctly interpreted or applied;
+
+2.  grant a modification to the application of  the Building Code where special individual reasons make application of the strict letter of the Building Code impractical, the modification is in compliance with the intent and purpose of the Building Code, and such modification does not lessen health, accessibility, life and fire safety or structural requirements of the structure;
+
+3.  approve an alternative material, design or method of construction and equipment if the Administrative Appeal Board finds that any such alternative complies with the intent of the Building Code and that the material, method or work offered is, for the purpose intended, at least the equivalent of that prescribed in the Building Code in quality, strength, effectiveness, fire resistance, durability, accessibility and safety. The Administrative Appeal Board may not waive the requirements of the Building Code. The Administrative Appeal Board review will culminate in a final decision by the Building Official. The Administrative Appeal Board meeting is not open to attendance by the appellant or the public. The Bureau will provide final decisions to the appellant by publication of the decision on the Bureau’s website within 10 calendar days of the hearing, provided the Bureau has received all required information from the applicant; and
+
+4.  grant requirements that are in addition to the Building Code, this Title, or other laws or regulations of the City as part of an appeal.
+
+C.  Reconsideration of final decisions and appeals to the Building Code Board of Appeal.  Any person aggrieved by a final decision of the Building Official made under Subsection B. above may either file a reconsideration of that decision within 180 days of the decision based on new or revised information or appeal the decision to the Building Code Board of Appeal in accordance with Section 24.10.080 within 90 days of the final decision being appealed. The appeal package may not be altered from the administrative hearing There is no additional fee for the first reconsideration of an Administrative Appeal Board decision or for an appeal to the Building Code Board of Appeal. The Building Code in effect at the time of the final decision being reconsidered or appealed will be applied to the reconsideration or subsequent appeal to the Building Code Board of Appeal.
+
+D.  Fees for appeals.  The fees for administrative appeals are as stated in the Fee Schedule adopted by the City Council. The current approved Fee Schedule is available at the Development Services Center and on the Bureau’s website.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+28.03.050 Enforcement.
+
+
+
+
+(Amended by Ordinances 181437, 191154, and 192002, effective January 10, 2025.)
+
+The City Administrator may enforce the provisions of this Title using the authority provided in Portland City Code Section 3.30.040.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+28.03.060 Abatement of Dangerous Floating Structures.
+
+
+
+
+(Amended by Ordinances 171455, 181437, and 192002, effective January 10, 2025.)
+
+The City Administrator may abate dangerous floating structures using the authority provided under Chapter 29.40.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Chapter 28.04 Regulations for Floating Structures
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+28.04.010 General.
+
+
+
+
+(Amended by Ordinances 181437 and 191154, effective March 1, 2023.)
+
+Other than the retroactive improvements required in Subsection 28.05.010 A. and Subsection 28.05.020 A., existing structures are considered existing nonconforming conditions.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+28.04.020 Maintenance.
+
+
+
+
+(Amended by Ordinances 181437, 191154, and 192002, effective January 10, 2025.)
+
+All floating structures and supporting structural systems, electrical, plumbing and mechanical installations and devices required by this Title must be maintained in good serviceable condition and maintained in compliance with the requirements of the relevant Specialty Code and with Titles 24, 28, and 29 of this Code. As provided in the Specialty Codes, minor repairs and maintenance of floating structures including the electrical, plumbing, heating/air conditioning systems do not require a permit.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Chapter 28.05 Regulations Pertaining to Existing Construction
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+28.05.010 Floating Structures.
+
+
+
+
+(Amended by Ordinances 181437, 187664, 191154, 191643, 191736, and 192002, effective January 10, 2025.)
+
+A.  Retroactive improvements required of floating structures.
+1.  Identification.  All floating structures must be identified by number or letter or combination thereof, corresponding to their location in a moorage.
+
+2.  All floating homes, boathouses and combo-structures must have a state issued identifying number plate displayed in a location that is readily visible from the walkway providing access to the structure. Failure to properly display the required identifying number plate and/or produce the certificate of title issued by the State when requested to do so by the Harbor Master or a Certified Structural Inspector of Portland Permitting & Development will be cause for the violator to be cited for the violation and for appropriate enforcement action to be taken as provided for in Section 28.03.050. The violation will also be reported to the State Marine Board, the County Marine Patrol and the County Assessor.
+
+3.  Moorage owners/operators must maintain a moorage map with each mooring site identified by number or letter or combination thereof and that identifies each floating structure by mooring site number or letter and by the identifying number.  Such maps must be updated as changes occur in the layout of the moorage or location of the floating structures in the moorage. Such map must be available for Harbor Master review when requested.
+
+B.  Separation required between floating existing structures.
+1.  The separation existing on January 1, 2008, between one floating structure and another may be maintained provided such separation is:
+
+a.  Documented on the moorage map that is maintained by the owner/operator of the moorage facility; and
+
+b.  Provided that the Harbor Master determines that such spacing does not pose a high fire or life safety risk. A copy of the updated moorage map must be provided to the Harbor Master that shows the conditions and uses in place as of January 1, 2008. The City Administrator will refer to this map in determining whether an existing structure is considered an existing nonconforming condition under this Title.
+
+2.  Floating homes and combo-structures relocated within a moorage must meet the following separation requirements:
+a.  For moorages constructed prior to November 3, 1990, the distance between units relocated within a moorage may not be: less than the distance between units that pre-existed prior to the move if the distance is less than six feet between the nearest exterior walls and four feet between the nearest roof, deck, balcony or other architectural projection; or less than six feet between the nearest exterior walls and four feet between the nearest roof, deck, balcony or other architectural projection if the pre-existing distance is greater than or equal to six feet between the nearest exterior walls and four feet between the nearest roof, deck, balcony or other architectural projection.
+
+b.  For moorages constructed after November 3, 1990, the distance between units relocated within a moorage may not be: less than the distance between units that pre-existed prior to the move if that distance is less than 10 feet between the nearest exterior walls and eight feet between the nearest roof, deck, balcony or other architectural projection; or less than 10 feet between the nearest exterior walls and eight feet between the nearest roof, deck, balcony or other architectural projection if the pre-existing distance is greater than or equal to 10 feet between the nearest exterior walls and eight feet between the nearest roof, deck, balcony or other architectural projection.
+
+Where it is impractical to meet the separation specified in Subsection 28.05.010 B. due to structural limitations of the mooring site, the Harbor Master may approve a separation less than that specified. Such approval for reduced separation must be clearly documented on the moorage map and on the notification for the relocation that is provided to the City Administrator, as provided in Section 28.03.020.
+
+3.  A floating structure used for other than a floating home, combo-structure, boathouse or tender house that is relocated from one mooring site to another within a moorage must comply with the separation distances required for new construction as specified in Subsection 28.06.050 D. Where it is impractical to meet the separation specified in Subsection 28.06.050 D. due to structural limitations of the mooring site, the Harbor Master may approve a separation less than that specified, but the separation may not be less than the separation that existed prior to the relocation or less than specified in Subsection 28.06.050 D., whichever is smaller. Such reduction may not pose unacceptable levels of fire or life safety risk as determined by the Harbor Master. Such approval for reduced separation must be clearly documented on the moorage plan and on the notification of the relocation that is provided to the City Administrator, as provided in Section 28.03.020.
+
+4.  Existing or new floating homes, combo-structures, boathouses and tender houses relocated from a mooring site in one moorage within or outside the City to a mooring site in a different moorage within Portland must be spaced a minimum of six feet apart between the nearest exterior walls and four feet apart at the nearest roof, deck (which is elevated above the level of the walking surface of the float), balcony or other architectural projections, unless the moorage in which the relocation takes place was constructed after November 3, 1990 with separations between floating structures required to be greater than six feet wall to wall or four feet projection to projection, in which case the separations as required when the moorage was constructed will apply. In lieu of the required separations specified in this section the relocated structure may be provided with the alternative protection system as required by Subsection 28.05.010 C. A permit is required for any such move as provided in Section 28.03.020.
+
+5.  A floating structure, either new or existing, used for other than a floating home, combo-structure, boathouse or tender house that is relocated from one moorage within Portland to another moorage within Portland must comply with the separation distances required for new construction as specified in Subsection 28.06.050 D. A permit must be obtained for any such move as provided in Section 28.03.020.
+
+6.  Projections such as but not necessarily limited to eaves, roof overhangs, decks, balconies or other architectural projections for newly constructed floating structures, for additions and alterations to existing floating structures and for moved or relocated floating structures may not project beyond the edge of the float supporting the structure into the area above a main or marginal walkway, nor may such projections extend beyond the legally established boundaries of the mooring site.
+
+7.  New, main floor additions to existing floating homes, combo-structures, boathouses and tender houses of up to a total of 25 percent by area, may be built with the same separation between the floating structure being expanded and the next adjacent floating structure as exists on January 1, 2008, and that is documented on the moorage map. A permit is required for any such expansion as provided in Section 28.03.020. No further additions beyond the original 25 percent may be made without complying with the separation as specified in Subsection 28.05.010 B.7.
+
+8.  New, main floor additions to existing floating homes, in excess of 25 percent by area, and second floor additions of any size, must be spaced a minimum of six feet apart between the nearest exterior walls and four feet apart at the nearest roof, deck (which is elevated above the level of the walking surface of the float), balcony or other architectural projections, unless the moorage in which the relocation takes place was constructed after November 3, 1990 with separations between floating structures required to be greater than six feet wall to wall or four feet projection to projection, in which case the separations as required when the moorage was constructed will apply. In lieu of the required separations specified in this section the relocated structure may be provided with the alternative protection system as required by Subsection 28.05.010 C. A permit is required for any such expansion as provided in Section 28.03.020.
+
+9.  Any addition to an existing floating structure other than a floating home, combo-structure, boathouse or tender house must meet the separation requirements as required for new construction specified in Subsection 28.06.050 E. A permit is required for any such expansion as provided in Section 28.03.020.
+
+C.  Alternate protection systems to minimum separation between adjacent floating homes and combo-structures.
+1.  When the wall to wall separation is less than six feet but more than three feet, or the separation between roofs, decks (which are elevated above the level of the walking surface of the float), balconies or other architectural projections is less than four feet but more than two feet, the structure being moved or added to must be equipped throughout with a complete automatic sprinkler system installed in compliance with NFPA 13R Standards (2007) or all of the following for fire life safety protection:
+a.  All windows in the affected wall or walls must be 1/4 inch thick, fixed, wireglass in 16-gauge steel frames, or alternatives approved by the Harbor Master or the windows must be listed 45-minute assembly. If this requirement negates natural ventilation requirements as specified in the Building Code, a manually activated mechanical ventilation system providing two air changes per hour with 20 percent outside air must be provided.
+
+b.  All doors in the affected wall or walls must be 1-3/4 inches thick, solid core, and be self-closing. Door lights must be limited to 25 percent of the door area and be 1/4-inch thick, fixed wireglass in 16-gauge steel frames or alternatives as approved by the Harbor Master.
+
+c.  A fire alarm system consisting of 110-volt rate of rise detectors placed on the outside of the exterior wall or walls in question and 110 volt, hard wired ionization type smoke detectors installed throughout the building interior must be provided. All detectors must be interconnected to an interior and exterior alarm. The number and placement of detectors will be as determined by the Harbor Master. The exterior alarm must be capable of being heard for a distance of 150 feet.
+
+2.  When the wall-to-wall separation is less than three feet or the roof separation is less than one foot, the structure being moved or added to, must be equipped throughout with a complete automatic sprinkler system in compliance with NFPA 13R Standards (2007).
+
+D.  Existing floatation systems.
+1.  Additions to existing floatation systems must be made in accordance with Chapter 28.06 New Construction.
+
+2.  The following repairs of existing floatation systems are allowed within any 12-month period without the benefit of a permit provided:
+a.  The repair to the floatation system involves a total of less than 50 percent of the float structural components by quantity (see definition) with like or better materials in a like manner. Substantiating data may be required to determine compliance with this Section.
+
+b.  The repair to the floatation system involves a total of less than 50percent of the floatation device by quantity (see definition) with like or better materials in a like manner. Substantiating data may be required to determine compliance with this Section.
+
+c.  The repair to the floatation system does not increase the deck area more than the allowance specified in Subsection 28.03.020 A.; and
+
+d.  The repair does not reduce the required means of egress width or cause an unsafe or overloaded condition.
+
+3.  Other work not specifically exempted from permit requirements by this Title but that is exempted from permit under the Specialty Codes is also exempted from the requirement for permit.
+
+All work exempt from permit must be performed in compliance with the provisions of this Title and the Specialty Codes as applicable and may not cause an unsafe or overloaded condition.
+
+E.  Additions to floatation systems. Additions to floatation systems must be made in accordance with the provisions for new construction.
+
+F.  Alterations and additions to floating structures. Any alteration or addition to a floating structure must comply with the requirements of the relevant Specialty Code, this Title, and all other rules and Federal, State and City regulations.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+28.05.020 Moorages.
+
+
+
+
+(Amended by Ordinances 180917, 181437, 183597, 187664, 191154, and 192002, effective January 10, 2025.)
+
+A.  Retroactive requirements required of existing moorages.
+1.  Identification.  All moorages must be provided with identification as specified in Section 28.06.070.
+
+2.  Fire protection standpipe.  The following described fire protection standpipe system are required at all moorages having any portion of a floating structure more than 250 feet from the point of fire apparatus set up. The standpipe system must be installed within one year of notification to the owner by the Harbor Master of the requirement for such system; or an agreement allowing for deferred installation of the fire protection system to a timeline acceptable to the Harbor Master must be established within 90 days of the notification that such an installation is required.  Prior to installation of any standpipe system, a permit must be obtained from the Fire Marshal.  Except where otherwise provided in this code, the design and installation of the standpipe system must be in accordance with the latest edition of NFPA 14:  “Installation of Standpipes and Hose Systems”, as adopted by Title 31 Fire Regulations and the following:
+a.  Water for fire protection standpipes must be supplied by one of the following methods:
+(1)  From FDC from a fire hydrant providing at least 500 GPM at 20 PSI and located within 300 feet from the closest point of fire department access to a moorage exit ramp.
+
+(2)  Pumped from the Willamette or Columbia Rivers or associated bodies of water with an on-site pump or pumps capable of delivering 250 GPM at 100 PSI to the most hydraulically remote outlet on the standpipe system. Pumps must be of a type approved by the Harbor Master and must be listed for their intended use.
+
+b.  Fire protection standpipes must have a fire department connection located within 150 feet of fire apparatus set up and not more than 150 feet from the top of the moorage access ramp. The fire department connection must be of a double clapper design.
+
+c.  When required by the Harbor Master a fire department connection must be located to provide reasonable access for a fire boat.
+
+d.  System capacity controlled by a fire department connection may not exceed 750 gallons unless approved by the Harbor Master.
+
+e.  Fire protection standpipes must have pipe sized to provide 250 gallons per minute at 100 PSI at the most hydraulically remote outlet on the standpipe system. The maximum input pressure at the fire department connection must be 150 PSI.
+
+f.  Fire protection standpipes must have adequate drain valves, or alternate systems as approved by the Harbor Master, installed to ensure complete drainage.
+
+g.  Fire protection standpipes must have gate valve assemblies made of non-corroding metal, 2-1/2 inch I.D. with National Standard male threads and metal caps. Valve assemblies must be spaced a distance apart as follows:
+(1)  For moorages having marine service stations, floating homes or other type of structures having permanent living quarters, valves must be located every 100 feet and within 50 feet of the end of walkways.
+
+(2)  For moorages serving only boathouses and covered moorages housing personal watercraft and pleasure boats, valves must be located every 150 feet and within 75 feet of the end of the walkways.
+
+(3)  For moorages having only open moorage of pleasure boats, standpipes will only be required along the marginal walkway with valves required only at intersecting main walkways, providing the main walkways do not exceed 100 feet in length from their intersection with the marginal walkways, or not less than every 200 feet and 100 feet from the end of marginal walkways not having intersecting main walkways. Main walkways in excess of 100 feet in length from their intersection with the marginal walkway must have standpipes installed with valves located every 200 feet along the main walkway and not more than 100 feet from the end of the main walkway. Existing moorages not in compliance with the above requirements must bring their standpipes systems into compliance at the time that 50 percent or more of a walkway is repaired or improved or as otherwise provided under agreement with the Harbor Master.
+
+(4)  For moorages with sections of differing use, each section is required to have a standpipe system matching the requirements of a moorage having that use. Existing moorages not in compliance with the above requirements must bring their standpipe systems into compliance at the time that 50 percent or more of a walkway(s) serving each type of use is repaired or improved or as otherwise provided under agreement with the Harbor Master.
+
+h.  Piping materials, whether new or replacement, must be protected against corrosion by hot dip galvanizing or by use of HDPE piping.  If HDPE piping is used it must be installed underwater with a minimum of 12 inches of water cover over the main runs and must be supported so that the pipe will not broach the surface of the water when the pipe is not charged with water. Where flexible hose couplings are used they must have swaged on fittings.
+
+i.  Moorages used exclusively for loading and off-loading of boats and transient tie-up moorages do not require the installation of a standpipe system when approved by the Harbor Master.
+
+j.  Standpipe systems must be inspected and tested annually in accordance with the current edition of NFPA 25, "Standards for the Testing of Water Based Fire Protection Systems" as adopted by Title 31 Fire Regulations. Tests and inspections must be done in a manner prescribed by the Fire Marshal. If requested, the City may perform annual service tests upon the property owner/operator signing a waiver of liability and upon payment of a fee to the Fire Marshal, as provided in Title 31. If connection to the City water supply is necessary to facilitate any method of testing standpipes, Water Bureau Water Quality Inspections must be contacted in each instance. Additionally, State approved backflow protection must be provided.
+
+3.  Smoke/heat vents and Curtain Boards.  All existing covered moorages must be provided with smoke/heat vents and curtain boards as specified in Section 28.06.050, when required by the Harbor Master. Where existing moorages do not have the required vents and curtain boards, these elements must be installed within two years of notification to the owner by the Harbor Master of the requirement for the vents and curtain boards or an agreement allowing for deferred installation of the vents and curtain boards to a timeline acceptable to the Harbor Master must be established within 90 days of the notification that such an installation is required. Building permits are required for the installation of vents and curtain boards.
+
+B.  Regulations pertaining to repairs to moorages and marinas.
+1.  Repairs requiring the replacement of 50 percent or more of the piling within any 12-month period must be made in accordance with the provisions for new construction and will require a building permit. Permits are also required from the Army Corps of Engineers.
+
+2.  Repairs requiring the replacement of less than 50 percent of the piling within any 12-month period may be made with like or better materials in a like manner without obtaining a building permit provided the design of the piling is certified by an Oregon registered engineer who is responsible for observing the installation. Upon completion of the installation of the replacement piling a plan of the marina or moorage showing the location of all replaced piles and a summary letter of compliance from the engineer responsible for the design must be submitted to the City Administrator for inclusion in the permanent records. Permits are required from the Army Corps of Engineers.
+
+Exception: Up to a maximum of 10 percent of the piling within a moorage or marina may be replaced within any 12-month period without an engineer being responsible for the design of the piling and the observation of installation provided an engineer does review the installation and provides a summary letter stating that the replacement piling will provide structural capacity equal to or greater than the replaced piling. The summary letter from the engineer must be submitted to the City Administrator for inclusion in the permanent records. Permits are required from the Army Corps of Engineers.
+
+3.  Walks and walkways and their supporting structure: The following repairs of existing walkways are allowed within any 12-month period without the benefit of a permit provided:
+a.  Replacement of no more than 50 percent of the decking, stringers and floatation logs or other floatation material with like or better materials in a like manner. Substantiating data may be required to determine compliance with this Section.
+
+b.  Repair or replacement of less than 50 percent of the concrete portions of an individual concrete float with like or better materials in a like manner.  Substantiating data may be required to determine compliance with this Section.
+
+4.  Other work not specifically exempted from permit requirements by this Title but that is exempted from permit under the Specialty Codes is also exempted from the requirement for permit.
+
+All work exempt from permit must be performed in compliance with the provisions of this Title and the Specialty Codes as applicable and may not cause an unsafe or overloaded condition.
+
+C.  Alterations and additions to moorage and marinas.
+1.  Walkways and supporting structure.  Any alterations or improvements within any 12-month period that involve a total of less than 50 percent of the structural components, except piling as stated in Subsection 28.05.020 B., may be made with like or better materials in a like manner without requiring a permit provided the alteration or improvement does not increase the area of the walkway or cause an unsafe or overloaded condition. Increase in the area of a walkway will be treated as an addition and must comply with Subsection 28.05.020 C.2. Exemption from the permit requirements of this Title does not authorize any person to do work in any manner in violation of the provisions of this Title or any other rules or regulations of the City, the State of Oregon, or the Federal government.
+
+2.  Additions must be made in accordance with the provisions for new construction. Gangways and standpipes required as a result of any addition must be provided in conjunction with such addition and must be constructed and installed in accordance with the provisions for new construction as specified in Section 28.06.060.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Chapter 28.06 New Construction
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+28.06.010 Minimum Standards.
+
+
+
+
+(Amended by Ordinances 181437 and 192002, effective January 10, 2025.)
+
+Moorages, marinas and floating structures must be designed and built to the minimum standards specified in the Specialty Codes except as modified by this Title.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+28.06.020 Materials and Installations.
+
+
+
+
+(Amended by Ordinances 181437, 187664, 191154, and 192002, effective January 10, 2025.)
+
+A.  Structural materials.  Structural members and connectors within 18 inches of the water, except logs used for floatation, steel stringers and steel piling, must be fabricated of materials with natural resistance to decay or be coated or treated such that the materials will resist deterioration due to their proximity to the water. In general: framing lumber within 18 inches of the water and decking material that is exposed to the weather must be pressure treated with an approved preservative. Framing connectors, anchoring chain, shackles and shackle pins or other anchoring devices must be hot-dipped galvanized or non-corrosive metal except for the pins that connect stringers to the floatation logs. Plywood must have exterior type adhesive; exposed plywood must be exterior grade. Structural members may consist of composite materials if such materials are approved by the City Administrator.
+
+B.  Preservative treated wood must be treated using a waterborne preservative and is to be produced in accordance with the most current "Best Management Practices for Treated Wood in Aquatic Environments" issued by the Western Wood Preservers Institute and the Canadian Institute of Treated Wood. Preservative treated wood must be identified by the quality assurance mark of an inspection accredited agency.
+
+C.  Energy efficiency.  The exterior building envelope of the floating structure including exterior walls, floors, roofs, doors, windows, and skylights as well as the mechanical, electrical, and plumbing systems for the structure must comply with the energy efficiency requirements of the State of Oregon Building Code, as defined in Oregon Revised Statutes Section 455.010 based on the occupancy of the building. Thermal insulation that may be subject to moisture, such as main floor underfloor insulation, must be of a type approved for damp locations.
+
+D.  Ventilation.  Enclosed wood construction systems for floating structures must be ventilated in accordance with the requirements of the relevant Specialty Codes.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+28.06.030 Conventional Construction Methods and Materials for Floating Structures and Walkways Using Log Support Systems.
+
+
+
+
+(Amended by Ordinances 181437, 191154, and 192002, effective January 10, 2025.)
+
+A.  Floating structures.  The following methods and materials are approved without engineering provided the highest point of the roof structure measured from the top of the float does not exceed 75 percent of the minimum width of the float.
+1.  The logs and stringers forming the floats under floating structure must conform to these provisions:
+a.  The structure on the float cannot be larger than the float.
+
+Exception: Decks raised above the level of the float deck and balconies will be permitted to project a maximum of three feet zero inches beyond the edge of the float provided such projections do not affect the stability of the float as detailed in Section 28.06.040, the projections do not extend beyond the legally established boundaries of the slip in which the floating structure is located and provided the required separations between structures is not reduced by the projection. Engineering calculations must be provided to verify that any projections beyond the edge of the float will not affect the stability of the float and structure.
+
+b.  Floats supporting combo-structures and that have a boatwell that interrupts the continuity of the float must be an engineered design or comply with prescriptive alternate methods of construction as adopted by the City Administrator under Section 28.03.010.
+
+c.   Raft logs must be 16-inch minimum diameter at the tip and must be spaced no greater than 18 inches between tangent points.
+
+d.  Bearing walls should align over stringers or center line of logs. When such alignment is not feasible, adequate support for bearing walls must be provided.
+
+e.  If the Certified Structural Inspector or Certified Floating Structure Inspector or an architect or engineer responsible for the design of the floating structure finds the completed log raft insufficiently stable for the intended structure, they may then require the stringer layout to compose a rigid frame by the addition of side chords and fixed joints or cross bracing or by an alternate engineered design.
+
+f.  Logs must be Douglas Fir, Sugar Pine, Lodge Pole Pine, Western (Idaho) White Pine, Alaska Yellow Cedar or Sitka Spruce, sound and free of all bark above the water line.
+
+g.   In a floating structure foundation float at least 50 percent of all logs must be full length. Segmented logs must be alternated between full-length logs. Joints in segmented logs must be staggered a minimum of three stringer spaces apart laterally on alternate segmented logs. Not more than one joint may be used per segmented log assembly. All outboard logs must be full length.
+
+h.  Logs must be notched so as to provide sufficient bearing for the stringers. The seat of the notch must be a minimum of 4-1/2 inches above the water level when the float is fully loaded.
+
+i.  Wood stringers must be nominally a minimum of six inches by 10 inches for one- and two-story structures and be preservative treated in compliance with Subsection 28.06.020 B. Steel stringers must be of a size to provide equivalent bearing surface and load capacity as a wood stringer used for a similar conditions and must have a minimum web thickness of 0.250 inches.
+
+j.   Stringers inside of perimeter bearing walls must be placed on the logs not more than four feet on center and fixed to the logs with headed steel rods a minimum of 5/8 inches in diameter and a minimum of 20 inches long. These pins must penetrate the log at least 10 inches. All log to stringer contact points must have two pins.
+
+k.  The wood construction below the joists is to be inspected for proper construction and soundness of logs, including dapped bearing connections, prior to installation of joists. Inspections must be performed by a Certified Structural Inspector, a Certified Floating Structure Inspector, a licensed architect or a licensed engineer.  The person performing the inspection must prepare a report of the inspection. The inspection report must be submitted to the City Administrator for review and approval prior to continuing the construction of the float.
+
+B.  Walkways leading to floating structures.  Floating walkway supports may consist of preservative treated six inch x six inch wood stringers not more than six feet zero inches on center or preservative treated four inch x six inch wood stringers not more than five feet zero inches on center. Steel stringers of a size to provide equivalent bearing surface and load capacity as a wood stringer may be used for similar conditions. Stringers must be anchored to the logs with headed steel rods (pins) as described above. Single headed steel rods (pins) may be used at interior logs. Maximum joist spacing is two feet zero inches on center.
+
+C.  Floatation.  Floating structures must have adequate floatation to maintain a clearance above the water of one foot zero inches minimum from water line to the top of the walking surface for walkways and walks and one foot eight inches minimum from the water line to the finished floor level for the lowest occupied floor of all other floating structures, under all applicable load conditions.
+
+D.  Mooring connections.  Mooring connections must be adequate to keep the moorage in place under all reasonable load conditions. The following minimum connection standards are deemed to provide adequate connection to resist average load conditions. Where a local condition imposes greater than average load conditions on a moorage, the builder must provide adequate connection to resist such loads. Such connection must be designed by an Oregon registered engineer to resist the actual loads expected.
+1.  Floating structures must be anchored to the moorage structure with connections to the floatation system of the structures. Connectors must be provided as indicated below. These points must be a minimum of one foot from each end of the float.
+a.  For floats where floatation logs are parallel to the current flow connectors must be provided at each outside log and at not more than 15 feet apart at interior logs.
+
+b.  For floats where floatation logs are not parallel to the current flow connectors must be provided at each outside log and at not more than 15 feet apart at interior logs with one additional connector provided at the upstream outside log approximately midway along the length of the log.
+
+2.  The connections must consist of a steel bracket or other approved connection. The bracket is to be 3/8-inch thick and adequate in size to support the pins. Pins must be a minimum of four inches apart. This bracket must be fixed with a minimum of three, headed steel rods (pins) a minimum of 5/8-inch in diameter that penetrate the floatation log at least 10 inches. The connections from the bracket to the walkway or piling must consist of chain with a minimum link wire diameter of 0.5 inch or other approved connection device. If attached to walkway logs, the boom chain must be looped around the second log or most secure log of the walkway. Walkways must be adequately secured to pilings.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+28.06.040 Engineered Construction.
+
+
+
+
+(Amended by Ordinances 181437, 191154, and 192002, effective January 10, 2025.)
+
+A.  General.  The minimum structural design of floating structures and moorages, except those structures conforming to the conventional construction methods and materials as listed above, must be in conformity with all applicable sections of the Specialty Codes and the requirements of this section. The piling, mooring connectors, the gangway, and floatation system for all floating structures must have an engineer of record who is registered in Oregon.
+
+The Engineer of Record will be responsible for establishing the design criteria and completing the design of the complete project. The Engineer of Record must prepare and certify complete construction drawings and calculations for structural strength and floatation. The design criteria must be substantiated by the Engineer of Record and noted on the first sheet of the construction drawings.
+
+If an engineer or architect other than the Engineer of Record has been engaged to design an element of the project such as but not limited to piles or gangways, the Engineer of Record must:
+1.  Verify that the other engineer or architect has provided drawings and calculations certified by an Oregon engineer or architect.
+
+2.  Verify that the other engineer or architect has used design criteria that have been established by the Engineer of Record.
+
+3.  Verify the compatibility of the element's design with the design of the complete project.
+
+4.  Verify that the designs of structural connections between the elements of the project designed by other engineers and those elements designed by the Engineer of Record have been accomplished by an engineer or architect registered in Oregon.
+
+5.  Place review approval stamp on all drawings and calculations prepared by the other engineers showing that Subsections 1. through 4. have been accomplished.
+
+B.  Loading.  All floating structures, piling, mooring devices and gangways must be designed and constructed to sustain, within the stress limitations specified in the relevant Specialty Codes, all applicable loads specified in the relevant Specialty Codes and this Title.
+1.  Current loads must be calculated on the basis of a minimum current speed of 1.5 knots unless the designer can provide documentation that the maximum current speed that can be anticipated at the location of the structure is less than 1.5 knots. If anticipated minimum current speeds of greater than 1.5 knots can be expected at the location of the structure the higher current speed must be used for calculation of current loads.
+
+2.   Wave and wake loads must be calculated on the basis of the maximum possible wave and/or wake that can be expected at the location of the structure.
+
+3.  Impact loads from boats, debris and other objects must be considered with a minimum velocity as determined using a minimum current speed of 1.5 knots. If anticipated current speeds of greater than 1.5 knots can be expected at the location of the structure the higher current speed must be used for calculation of impact loads.
+
+4.  Earthquake loads must be considered based on values specified in the relevant Specialty Codes.
+
+5.  Gangways not more than six feet wide must be designed to sustain a live load of 50 PSF unless they serve structures that contain an occupancy where more than 50 people may occupy a room at one time such as some dining establishments or meeting rooms. Gangways more than six feet wide and all those serving occupancies with a calculated occupant load of 50 or more must be designed to sustain a live load of 100 PSF.
+
+Exception: Gangways not more than six feet wide serving public recreational boat launching and transient tie-up facilities may be designed to sustain a live load of 40 PSF.
+
+6.  All floating structures, piling, mooring connectors, gangways and ramps must be designed and constructed to resist lateral forces produced by the reasonable combination of expected wind, current, wave, wake, earthquake and impact loads at the location.
+
+C.  Mooring connectors.
+1.  Every floating structure must be moored with connectors having the capacity to hold the structure in place under reasonably expected conditions. For engineered structures the number and locations for mooring connectors must be as specified by the design engineer.
+
+2.  Whatever structure the mooring connectors are attached to must be designed to withstand the loads from the mooring connectors. The engineer of record's design criteria for the project must include the maximum dimensions of the floating structure(s) as these determine the loads on the mooring connectors and their supports.
+
+D.  Piling.
+1.  Floating structures must be directly or indirectly attached to piling that is adequate to resist lateral forces produced by any normally expected combination of wind, current, wave, wake, earthquake and impact. The minimum height of the top of the piling must be a minimum of two feet above the point of connection of the floating structure to the piling when the water rises to the l00 year flood elevation as shown on the Federal Insurance Rate Maps published by the Federal Emergency Management Agency. Batter piles may not interfere with the ability of a floating structure to rise to an elevation at least two feet above the level of the 100-year flood elevation that is used to determine the minimum height of piling.
+
+E.   Floatation.
+1.  Floating structures must be constructed and maintained to provide a floatation system that complies with the requirements of this chapter.  The floatation devices must be structurally sound and securely attached to the framing for the superstructure, except that foam floatation blocks may be held in place by friction only.
+
+The floatation systems must provide support adequate to provide a level and safe walking surface under all reasonable load conditions. The following minimum standards apply to all floating structures.
+
+2.   Clearance above water. The minimum clearance above water as measured from the water line to the top of the lowest point on the floor or deck under usual dead load conditions, may not be less than  one foot zero inches from water line to the top of the walking surface for walkways and walks, and not less than one foot eight inches from the water line to the finished floor level of the lowest occupied floor for all other floating structures.
+
+Exception:  Boathouses and the portion of combo-structures that house a personal watercraft need only have adequate floatation to maintain clearance above water under all applicable conditions.
+
+3.  Live loads.  In addition to dead loads, the floatation system must be adequate to support the maximum condition of the following minimum live loads. Higher loads may be more appropriate if the design engineer determines the need for a higher load based on the intended use conditions.
+a.  25 PSF applied to the gross area; or,
+
+b.  A concentrated load of 600 lbs.; or,
+
+c.  40 PSF applied to the gross, main floor area plus 10 PSF on each upper floor or loft; or,
+
+d.   For floating structures that are occupied as other than a one- or two-family residence, the live load required by the Specialty Code for the specific occupancy will apply.
+
+e.  Pedestrian walkways or ramps serving an occupant load of 10 or more; 40 PSF; all others 25 PSF.
+
+f.  Pedestrian walkways or structures serving boat launching or transient tie-up facilities only; 25 PSF.
+
+g.  At locations where live loads are transmitted from gangways to floating structures, the live load may be reduced 50 percent on the gangway for purposes of calculating the reaction only. Additional floatation may have to be provided to compensate for this reaction on the floating system to maintain the prescribed clearance above water.
+
+4. Stability with short term, off-center loading or wind loading. The floating structure when subjected to either short-term off-center loading or wind loading may not exceed the following limitations:
+a.  The maximum angle of list may not exceed 4.0 degrees, or the clearance above water when measured from the water line to the top of the first floor or deck may not be less than 1/3 of the normal clearance above water, whichever is the more restrictive.
+
+b.  The ratio of resisting moment (Mr) to applied moment (Ma) must be equal or greater than unity:
+
+Mr > 1
+
+
+The resisting moment due to buoyancy (Mr) must be computed about a longitudinal axis passing through the center of gravity at a list angle of not more than 4.0 degrees.
+
+c.   The minimum off-center loading must be considered as applicable to the completed structure and must be considered in addition to all dead loads. It must consist of a minimum live load of 100 pounds per lineal foot of floor length at the first floor and 50 pounds per lineal foot of floor length at each additional floor or loft. If the width of the floor or loft exceeds 20 feet then the load must consist of five pounds times the width of the floor per lineal foot of floor length at the first floor and 2.5 pounds times the width of the floor per lineal foot of floor length at each additional floor or loft. These uniform live loads must be applied halfway between the center of gravity and the outside edges of the floors. The overturning moments resulting from the off-center loadings (Ma) must be computed about both sides of the center axis of gravity.
+
+d.  Other appropriate eccentric or off-center loading due to wind, snow, live loads or combinations of these or other similar loads as may be determined to apply by the engineer of record, must also be considered.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+28.06.050 Fire Safety.
+
+
+
+
+(Amended by Ordinances 180917, 181437, 191154, and 192002, effective January 10, 2025.)
+
+A.  Fire apparatus access roads.  Access to moorages must be by fire apparatus access roads having all-weather driving surfaces capable of supporting a 23-ton load. Such roads must be a minimum 20 feet wide with not less than 13 feet six inches overhead clearance. They must be provided from the nearest public way to the head of the gangway. Fire apparatus turnarounds will be required on any fire access road having a dead end exceeding 300 feet.
+
+B.   Moorage exits.  Two exit gangways are required whenever any one of the following conditions apply:
+1.    Except as noted in item 2, if a marginal walkway exceeds 250 feet in length or if any point on the marginal walkway would be more than 250 feet from a gangway, additional gangways must be provided. When two or more gangways are required or provided, there must be a gangway located at the extreme ends of the marginal walkway unless an alternate location is approved by the Harbor Master based on site specific conditions.
+
+2.    Uncovered moorages for the moorage of pleasure boats (open moorage configuration) and having not more than two floating homes (for owner and caretaker, for instance) must have additional gangways if the marginal walkway exceeds 500 feet in length or if any point on the marginal walkway would be more than 500 feet from a gangway.  When two or more gangways are required or provided, there must be a gangway located at the extreme ends of the marginal walkway unless an alternate location is approved by the Harbor Master based on site specific conditions.
+
+3.   Total distance from the nearest point of apparatus set-up (usually at the head of a gangway) to the most remote portion of the moorage exceeds 800 feet.
+
+C.   Distance between moorages.  A new moorage or the expansion/modification of an existing moorage may not interfere with safe fireboat access to an existing neighboring moorage. The Harbor Master will determine minimum separations necessary to maintain fireboat access to existing moorages.
+
+D.   Distance between floating homes, tender houses, combo-structures and boathouses.
+1.    Floating homes, tender houses, combo-structures and boathouses at new moorages must be spaced a minimum of 10 feet apart between the nearest exterior walls and eight feet apart between the nearest roof, deck (that is elevated above the level of the walking surface of the float), balcony or other architectural projections.
+
+2.    Projections such as but not necessarily limited to eaves, roof overhangs, decks, balconies or other architectural projections for newly constructed floating structures, for additions and alterations to existing floating structures and for moved or relocated floating structures may not project beyond the edge of the float supporting the structure into the area above a main or marginal walkway or extend beyond the legally established boundaries of the slip in which the floating structure is located.
+
+3.    Separation distances may be reduced to six feet apart between the nearest exterior walls and four feet apart between the nearest roof, deck (that is elevated above the level of the walking surface of the float), balcony or other architectural projections when one of the following is provided:
+a.    A complete sprinkler system is installed in compliance with NFPA 13R Standards (2007) is installed in the structures that create the reduce clearance conditions; or
+
+b.    Exterior walls with a fire resistance rating of one-hour with protected openings (fixed, 1/4 inch, wire glass in 16-gauge steel frames and 45-minute door assemblies) must be provided at the locations where the reduced clearances occur for the new or relocated structure that causes or creates the reduced clearance.
+
+E.    Distance between floating structures other than floating homes, tender houses, combo-structures and boathouses:
+1.    Floating structures at new moorages that are used as other than floating homes, tender houses, combo-structures and boathouses must be spaced a minimum of 20 feet apart between the nearest exterior walls and 16 feet apart between the nearest roof, deck (that is elevated above the level of the walking surface of the float), balcony or other architectural projections.
+
+2.    Projections such as but not necessarily limited to eaves, roof overhangs, decks, balconies or other architectural projections for newly constructed floating structures, for additions and alterations to existing floating structures and for moved or relocated floating structures may not project beyond the edge of the float supporting the structure into the area above a main or marginal walkway or extend beyond the legally established boundaries of the slip in which the floating structure is located.
+
+3.    Separation distances may be reduced to 10 feet apart between the nearest exterior walls and eight feet apart between the nearest roof, elevated deck, balcony or other architectural projections provided:
+a.    Exterior walls where reduced clearance occurs are of one hour fire resistive construction for the new or relocated structure that causes or creates the reduced clearance.
+
+b.    Window openings in the exterior walls where reduced clearance occurs may not be more than 25 percent of the wall area and must be three-quarter-hour listed assemblies for the new or relocated structure that causes or creates the reduced clearance.
+
+c.    Door openings on the exterior walls where reduced clearance occurs must be protected with one hour listed assemblies for the new or relocated structure that causes or creates the reduced clearance.
+
+4.    Separation distances may be reduced to six feet apart between the nearest exterior walls and four feet apart between the nearest roof, elevated deck, balcony or other architectural projections provided:
+a.    The building is fully sprinklered in compliance with NFPA 13 Standards (2007) including any exterior overhang or projection; and
+
+b.    Exterior walls where reduced clearance occurs are of one-hour fire resistive construction without openings for the new or relocated structure that causes or creates the reduced clearance.
+
+F.    Occupancy separation for combo-structures.  A covered boatwell, in a combo-structure, enclosed on more than two sides must be separated from the habitable space by a wall having 5/8-inch-thick type ‘X' water resistant gypsum board on the boatwell side.
+
+G.  Occupancy separations for floating structures used as other than floating homes, tender houses, combo-structures and boathouses:  An occupancy separation must be provided between different occupancy groups in a floating structure used as other than floating homes, tender houses, combo-structures and boathouses when required by the Specialty Codes. Such occupancy separations must meet the fire resistance as specified in the relevant Specialty Codes.
+
+Exception:  A covered boatwell that serves only one dwelling unit in a floating structure containing three or more dwelling units will be permitted to have a separation between the boatwell and the unit served that complies with Subsection 28.06.050 F., provided such boatwell is separated from other units in the structure as required by the Specialty Codes for unit separations.
+
+H.  Fire protection standpipe.  The following described fire protection standpipe system are required at all moorages having any portion of a floating structure more than 250 feet from the point of fire apparatus set up. Prior to the installation of any standpipe system a permit must be obtained from the Fire Marshal. Except as otherwise provided in this Title the design and installation of the standpipe system must be in accordance with the latest edition of NFPA 14:  "Installation of Standpipe and Hose Systems", as adopted in Title 31 and the following:
+1.  Water for fire protection standpipes must be supplied by one of the following methods:
+a.  From Fire Department connection from a fire hydrant providing at least 500 GPM at 20 PSI and located within 300 feet from the closest point of fire department access to a moorage exit ramp.
+
+b.  Pumped from the Willamette or Columbia Rivers or associated bodies of water with on-site pump or pumps capable of providing 250 GPM at 100 PSI to the most hydraulically remote outlet on the standpipe system.  Pumps must be of a type approved by the Harbor Master and must be listed for their intended use.
+
+2.  Fire protection standpipes must have a fire department connection located within 150 feet of fire apparatus set up and not more than 150 feet from the top of the moorage access ramp. The fire department connections must be of a double clapper design.
+
+3.  When required by the Harbor Master a fire department connection must be located to provide reasonable access for a fire boat.
+
+4.   System capacity controlled by a fire department connection may not exceed 750 gallons unless approved by the Harbor Master.
+
+5.  Fire protection standpipes must have pipe sized to provide 250 gallons per minute at 100 PSI pressure at the most hydraulically remote outlet on the standpipe system. The maximum input pressure at the fire department connection must be 150 PSI.
+
+6.  Fire protection standpipes must have adequate drain valves, or alternate systems as approved by the Harbor Master, installed to ensure complete drainage.
+
+7.  Fire protection standpipes must have gate valve assemblies made of corrosion resistant metal, 2-1/2inch I.D. with National Standard male threads and metal caps. Valve assemblies must be spaced a distance apart as follows:
+a.  For moorages having marine service stations, floating homes or other type of structures, having permanent living quarters, valves must be located every 100 feet and within 50 feet of the end of walkways.
+
+b.  For moorages serving only boathouses and covered moorages, valves must be located every 150 feet and within 75 feet of the end of the walkways.
+
+c.   For moorages having only open moorage of pleasure boats, standpipes will be required along the marginal walkway with valves required at intersecting main walkways, or not more than every 200 feet and 100 feet from the end of marginal walkways. Where main walkways extend more than 100 feet from their intersection with the marginal walkway, standpipes must be provided along the main walkways with valves located every 200 feet and not more than 100 feet from the end of the main walkway.
+
+d.   For moorages with sections of differing use, each section is required to have a standpipe of differing use, each section is required to have a standpipe system matching the requirements of a moorage having that use.
+
+8.  Piping materials must be protected against corrosion by hot dip galvanizing or by use of HDPE piping. If HDPE piping is used it must be installed underwater with a minimum of 12 inches of water cover over the main runs. Adequate anchorage of HDPE piping must be provided to prevent uncharged piping from broaching the water surface. Where flexible hose couplings are used they must have swaged on fittings.
+
+9.  Moorages used exclusively for loading and off-loading of boats and transient tie-up moorages do not require the installation of a standpipe system when approved by the Harbor Master.
+
+10.  Standpipe systems must be inspected and tested annually in accordance with the current edition of NFPA 25, "Standards for the Testing of Water Based Fire Protection Systems" as adopted in City Title 31. Tests and inspections must be done in a manner prescribed by the Fire Marshal, as provided. If requested, the City may perform annual service tests upon the property owner/operator signing a waiver of liability and upon payment of a fee to the Fire Marshal, as provided in Title 31. If connection to the City water supply is necessary to facilitate any method of testing standpipes, Water Bureau Water Quality Inspections must be contacted in each instance. Additionally, State approved backflow protection must be provided.
+
+I.  Smoke/heat vents and curtain boards.  Covered moorages must have smoke/heat vents and curtain boards installed as follows:
+
+Exception:  Smoke/heat vents and curtain boards will not be required if the Harbor Master determines that the roof configuration of the covered moorage (such as a shed roof without fascia boards) will not trap smoke and heat under the roof.
+1.  Curtain boards. Curtain boards must be installed to subdivide the enclosed roof areas of covered moorages not more than every 100 linear feet for moorages with slips of 45 feet or less in length and not more than every 75 linear feet for moorages with moorage slips of more than 45 feet in length.
+a.  Curtain boards must extend from eave to eave.
+
+b.   Curtain boards must be installed flush to the underside of the roof sheathing and extend down to the lowest point of the roof line, but must be maintained no lower than eight feet above any walkway.
+
+c.  Curtain boards must be of galvanized sheet metal, water resistant gypsum board or other similar approved material that will provide equivalent performance and moisture resistance.
+
+d.  Curtain boards must be sealed to resist the passage of smoke and fire.
+
+2.  Smoke/heat vents.  Smoke/heat vents must be installed within each area of the roof of a covered moorage that is separated by curtain boards.
+a.  Smoke/heat vents must be centered between curtain boards and be installed with a minimum ratio of one square foot of vent opening to every 50 square feet of area under the roof.
+
+b.  Smoke/heat vents must be installed at the highest point of the roof or as approved by the Harbor Master.
+
+c.  Smoke/heat vents must be listed drop out or automatic opening assemblies with a minimum dimension of four feet.
+
+3.  Smoke/heat vents and curtain boards must be shown on the permit documents issued for construction of the moorage cover.
+
+J.  Covered moorage - limitations on service, repair and fueling.
+1.   Except at duly authorized fuel docks, fueling of boats is prohibited under Portland City Code Section 19.16.135.
+
+2.   Storage of flammable or combustible liquids must comply with Portland City Code Section 19.16.135.
+
+3.   Only minor service, repair or exchange of parts for maintenance of a vessel, boat or watercraft is allowed under the roof structure at a covered moorage.
+a.  Minor service, repair or exchange of parts includes but is not necessarily limited to the following:
+(1)  Changing engine/motor oil, replacing hydraulic fluids, lubrication of engine or drive train.
+
+(2)  Replacement of running gear or safety equipment that does not require alteration or modification to the structure of the craft.
+
+(3)  Repairs to the fiberglass, steel, wood or composite hull, superstructure or other structural component of a boat up to an area not to exceed nine square feet.
+
+(4)  Painting, varnishing or similarly finishing elements such as handrails, rubrails, toeboards, etc., or minor touch up of paint, varnish or other similar finish to an area not to exceed nine square feet.
+
+(5)  Replacement of parts of the engine or drive train that does not require the disassembly of the engine or drive train.
+
+b.   Minor service, repair or exchange of parts does not include the following:
+(1)  Any operation that requires hot work, including but not limited to welding and cutting.
+
+(2)  The disassembly of motors, engines or drive trains for repair or overhaul.
+
+(3)   The replacement of structural components of a boat such as framing members, engine mounts, deck supports, etc.
+
+(4)  The application of paint, varnish or other similar finish to hulls, decks, or superstructure in excess of the area specified in Subsection a. above.
+
+(5)   Repairs to the fiberglass, steel, wood or composite hull, superstructure or other structural component of a boat in excess of the area specified in Subsection a. above.
+
+c.   The Harbor Master has the authority to interpret if work being undertaken in a covered moorage is in compliance with these limitations.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+28.06.055 Life Safety.
+
+
+
+
+(Added by Ordinance 181437; amended by Ordinances 191154 and 192002, effective January 10, 2025.)
+
+A.  One- and two-family floating homes.  Floating homes, tender houses, combo-structures and boathouses must be constructed and maintained in compliance with the requirements of the relevant Specialty Codes and of Titles 24, 28, and 29 of this Code.
+1. Foundation systems.  Foundation systems as specified in relevant Specialty Codes are not applicable to the construction of floating homes. Floating Homes must be supported on floatation systems designed in accordance with provisions specified in Section 28.06.030 and Section 28.06.040. Floating homes must be securely anchored to the float on which they are constructed using an engineered connection system designed to prevent the home from being dislodged or overturned.
+
+2. Framing. Framing lumber must comply with the requirements of Subsection 28.06.020 A.
+
+3. Allowable alternatives.  Recognizing the unique history and traditions associated with floating homes the following alternatives to the requirements specified in the relevant Specialty Codes are allowed without appeal:
+a. Exterior wall and opening protection must be as described in Section 28.06.050 based on the separation between structures in a moorage.
+
+b. Sleeping loft.  In a floating home or combo-structure and within individual dwelling units in a floating structure containing three or more dwelling units, a sleeping loft or accessory living area such as a den, office, hobby room or similar area that is not more than 250 square feet in area that is located above the level of the main floor of a floating home may use the following standards:
+(1)  Access to the loft space may be by a "ship's ladder" type of stair having a rise not to exceed 12 inches and a run of not less than six inches or an alternating tread device as specified in the relevant Specialty Codes. Width of stairs or alternating tread device must be a minimum of 30 inches. Handrails must be provided at both sides of stair or alternating tread device. Headroom at stair or alternating tread device must be not less than six feet six inches at any point.
+
+(2)  A loft space need not be provided with exterior openings for natural light, ventilation or emergency escape and rescue provided the loft area is open and unobstructed to the floor below, except for columns and posts and railings not more than 42 inches high, and the floor below onto which the loft opens has exterior openings equal to the total required for the floor area served and the loft.
+
+c.   Porthole assemblies, whether new or salvaged, may be installed in a floating home to enhance the nautical character of the structure. Such assemblies need not comply with the energy conservation requirements of the specialty code provided the total area of all such assemblies installed does not constitute more than two percent of the total exterior wall area of the floating home. Such assemblies may be used to meet the required area for natural light and, if openable, to satisfy the required natural ventilation. Such assemblies may not be used to satisfy the required emergency escape and rescue requirements from sleeping areas.
+
+B.  Floating structures for use and occupancy as other than floating homes, combo-structures, boathouses or tender houses accessory to a floating home must be constructed and maintained in compliance with the requirements of the relevant Specialty Codes and of Titles 24, 28, and 29 of this Code.
+1.  Foundation systems.  Foundation systems as specified in the relevant Specialty Code are not applicable to the construction of floating structures. Floating structures must be supported on floatation systems designed in accordance with provisions specified in Section 28.06.030 and Section 28.06.040.  Floating structures must be securely anchored to the float on which they are constructed using an engineered connection system designed to prevent the structure from being dislodged or overturned.
+
+2.  Framing.  Framing lumber must comply with the requirements of Subsection 28.06.020 A.
+
+3.  Allowable alternatives.  Recognizing the unique history and traditions associated with floating structures the following alternatives to the requirements specified in the relevant Specialty Codes are allowed outright without appeal.
+a.  Exterior wall and opening protection must be as described in Section 28.06.050 based on the separation between structures in a moorage.
+
+b.  A loft, mezzanine or accessory area such as a private office, employee work room or similar area that is not more than 250 square feet in area, that is accessible to employees only and that is located above the level of the main floor of a floating structure may use the following standards:
+
+Exception:  Loft spaces within individual dwelling units in floating structures containing three or more dwelling units will be permitted to comply with the provisions of Section 28.06.055 A.3.b.
+(1)  Access to the loft space will be permitted to be a "ship's ladder" type of stair having a rise not to exceed 12 inches and a run of not less than six inches or an alternating tread device as specified in the relevant Specialty Codes.  Width of stairs or alternating tread device must be a minimum of 30 inches.  Handrails must be provided at both sides of stair or alternating tread device.  Headroom at stair or alternating tread device must be not less than six feet six inches at any point.
+
+(2)  A loft space need not be provided with exterior openings for natural light or ventilation provided the loft area is open and unobstructed to the floor below, except for columns and posts and railings not more than 42 inches high, and the floor below onto which the loft opens has exterior openings equal to the total required for the floor area served and the loft.
+
+c. Porthole assemblies, whether new or salvaged, may be installed in a floating structure to enhance the nautical character of the structure.  Such assemblies need not comply with the energy conservation requirements of the specialty code provided the total area of all such assemblies installed do not constitute more than five percent of the total exterior wall area of the floating structure.  Such assemblies may be used to meet the required area for natural light and, if openable, to satisfy the required natural ventilation.
+
+4. Where the relevant Specialty Codes would require two exits be provided from a structure or occupancy within a structure, such exits must be separated as required by the Specialty Code.  The point of exit discharge for the exits must comply with the following:
+a. The exits must discharge directly to a main walkway at two separate locations located as far apart as is practicable; or,
+
+b. The exits must discharge to two separate fingerfloats or walks located on opposite sides of the structure.  Fingerfloats must each have direct and independent access to a main walkway.  Walks must each have direct and independent access to a fingerfloat or main walkway.  The point of exit discharge onto the walk may not be more than 50 feet travel distance from the point of access to the main walkway; or,
+
+c. The exits must discharge to a continuous walk that encircles the structure on at least three sides and that provides the capability for exiting in two directions along the walk to one of two separate and distinct locations where the walk accesses the main walkway.
+
+d. Walks need not exceed the width specified in Section 28.60.060 unless the occupant load served by the walk exceeds 150 persons.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+28.06.060 Gangways, Ramps, Walkways and Walks.
+
+
+
+
+(Added by Ordinance 181437; amended by Ordinances 191154 and 192002, effective January 10, 2025.)
+
+A.  All gangways, ramps, walkways, and walks serving as a means of egress for floating structures used for commercial occupancies must be illuminated by lights designed, constructed and maintained to provide a minimum average of one foot candle of light per square foot at the walking surface.
+
+Exception: Recreational boat launching and transient tie-up facilities.
+
+B.  Gangways and ramps must have a maximum slope of one vertical to 2.5 horizontal and have a non-slip walking surface or surface cleats securely fastened in place with a maximum spacing center to center of one foot six inches.
+
+C.  Gangways must have a minimum, unobstructed width of five feet when a single gangway is required and four feet when more than one gangway is required and must be provided with guardrails and handrails as required by the Building Code.  Intermediate landings are not required for gangways.
+
+Exception: Gangways serving an occupant load less than 10 and gangways serving recreational boat launching and transient tie-up facilities need not be more than four feet in width.
+
+D.  Walkways must have a minimum width six feet, except for fingerfloats, which may be three feet in width.
+
+E.  Mooring connectors and similar obstructions may project into the required width of main and marginal walkways not more than six inches at either side.  Cleats and bull rails may not project more than four inches into the required width along either side of a main or marginal walkway.  Cleats or bull rails not more than four inches in width may be provided along either side of a fingerfloat provided the width of the fingerfloat is of sufficient width to provide a minimum of 36 inches of clear walking surface between the cleats or bull rails.  Utility stands may project into the required width of main or marginal walkways provided they do not reduce the clear unobstructed width of the walkway to less than four feet for a distance of three feet measured in the direction of travel along the walkway.
+
+F.  A walk with a minimum width of 24 inches must be provided on at least two opposite sides of all floating homes, combo-structures, boathouses and tender house structures.  These walks must provide direct access from the floating home, combo-structure, boathouse or tender house structure to an adjacent fingerfloat or main walkway.
+
+G.  A walk with a minimum width of 36 inches must be provided on at least two opposite sides of any floating structure that is used or occupied as other than a floating home, combo-structure, boathouse or tender house structure accessory to a floating home.  These walks must provide direct access from the floating structure to an adjacent fingerfloat or main walkway.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+28.06.070 Identification.
+
+
+
+
+(Amended by Ordinances 181437, 183597, 191154, and 192002, effective January 10, 2025.)
+
+All moorages must be provided with identification as follows:
+
+A.  All moorages must be identifiable by name and address from the street on which they front at or near the point of emergency vehicle access.
+
+B.  The head of each gangway providing access to the moorage must be obviously identifiable from the point of emergency vehicle access; or in those cases having a secondary access road, from the shore end of the access road; or the facility must be signed as required to provide such identification.
+
+C.  The location and identification of all floating structures must be obvious from the head of each gangway by placement of a site map indicating the layout of the moorage and the walkways and that identifies each structure and/or slip individually by number or letter or combination thereof.  For the purposes of this subsection, “site map” means a plan of a moorage or marina that shows the layout of the moorage or marina including all gangways, walkways, mooring sites and land-based structures and identifies the moorage by address and each moorage site/slip or land-based building by number or letter or a combination thereof or by address if separate from that one of the moorage or marina.
+
+D.  The walkway, structure and mooring site identification must be logical and obvious.  Identification work is subject to the Harbor Master’s approval.
+
+E.  All floating homes, boathouses, and combo-structures must have a state issued identifying number plate displayed in a location that is readily visible from the walkway providing access to the structure.
+
+F.  Moorage owners/operators must maintain a moorage map with each mooring site identified by number or letter or combination thereof and that lists the state identifying number, if applicable, of the structure occupying each mooring site or identifies the structure occupying the mooring site by use and tenant name if no state number plate is required for the structure.  Such plan must be available for Harbor Master review when requested.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Chapter 28.07 Electrical Installations
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+28.07.010 General.
+
+
+
+
+(Amended by Ordinances 181437, 191154, and 192002, effective January 10, 2025.)
+
+All electrical work must be designed and installed in accordance with the State of Oregon Electrical Specialty Code, any other relevant Specialty Codes, Title 26 and this Chapter.  Permits and inspections are required for all work except as specifically exempted by this Title.
+
+Existing electrical work that was lawfully in place in Portland on January 1, 2008, or that was constructed or relocated under a valid permit after that date is considered an existing nonconforming condition as provided in this Title.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+28.07.020 Specific Requirements.
+
+
+
+
+(Amended by Ordinances 181437, 191154, and 192002, effective January 10, 2025.)
+
+In addition to the requirements specified in the relevant Specialty Codes and Title 26, the following specific requirements apply to electrical installations for moorages, marinas and floating structures.
+
+A.  Transformer pads may not be located closer than either eight feet to combustible surfaces and two feet to noncombustible surfaces.
+
+B.  Overhead power drops must be installed and maintained a minimum of 14 feet above walking surfaces and/or the ordinary high-water line.
+
+C.  Electrical installations within two feet of the water will be considered to be in a wet environment, except that installations inside a structure and not exposed to the water may be considered to be in a dry environment.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Chapter 28.08 Plumbing Installations
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+28.08.010 General.
+
+
+
+
+(Amended by Ordinances 181437, 191154, and 192002, effective January 10, 2025.)
+
+All plumbing installations must be designed and installed in accordance with the Oregon Plumbing Specialty Code, any other relevant Specialty Codes, Title 25 and this Chapter. Permits and inspections are required for all plumbing work except as specifically exempted by this Title.
+
+Existing plumbing that was lawfully in place in Portland as of January 1, 2008, or that was constructed or relocated under a valid permit after that date is considered an existing nonconforming condition as provided in this Title.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+28.08.020 Specific Requirements.
+
+
+
+
+(Amended by Ordinances 181437, 191154, and 192002, effective January 10, 2025.)
+
+In addition to the requirements of the relevant Specialty Codes and Title 25, the following specific requirements apply to plumbing installations for moorages, marinas and floating structures.
+
+A.  Sewage ejectors must be installed in accordance with the manufacturer's instructions and the relevant Specialty Codes, except that the head pressure required by Section 3l8 K (6)(3) for testing drainage systems is reduced from 10 feet to five feet for ejectors installed at individual floating homes.
+
+B.  Flexible connectors for water lines must be approved by the National Sanitation Foundation and be of the type approved for mobile home installations or marine use.
+
+C.  Piping materials must comply with the requirements of the relevant Specialty Codes and Title 25.
+
+D.  Continuously running water through the moorage supply line is an acceptable alternate to pipe insulation to avoid pipe freezing.
+
+E.  All flexible pressure sanitary sewer connections to and in the moorage dock pressure sanitary sewer system must be, as a minimum, helically reinforced PVC, ultraviolet resistant, smooth inside and outside hose that must remain flexible down to a temperature of minus four degrees Fahrenheit (- 4° F).  Insert adapters from flex hose to rigid piping used in the pressure sanitary sewer system must be plated steel, stainless steel, brass or aluminum with stainless steel hose clamps.
+
+F.  Backflow protection.  All water service connections regardless of size or type supplying water from the city distribution system to any type of floating structure, whether permanent or temporary, must be equipped with an approved backflow prevention assembly. The type of backflow assembly required for service connections to facilities as described in this Title must be a Reduced Pressure Backflow Assembly (RPBA). The backflow assembly must be installed at the termination of the City distribution system and at the start of the private distribution system.
+
+Services that supply water to fire sprinkler systems typically are not fully metered. The type of backflow assembly required for fire sprinkler applications must be a Reduced Pressure Detector Assembly (RPDA).
+
+Only State of Oregon Department of Human Services and Portland Bureau of Water Works approved assemblies may be installed. Applicable backflow assembly installation requirements must comply with both Oregon Administrative Rules Chapter 333 and Title 21 of this Code.
+
+All plumbing work and materials used in association with the installation of a required backflow assembly on a potable water service line, must be installed in accordance with the relevant Specialty Codes, Title 25 of this Code, and this Chapter. All applicable permits and inspections apply except as exempted by other provisions of this Title.
+
+All backflow assembly installations whether installed on potable or non-potable water service lines will be subject to inspection and approval by the Bureau of Water Works.
+
+Backflow assemblies installed on service connections to floating structures that were installed before January 1, 2008, and are not on the State of Oregon Department on Human Services approved list of assemblies will be allowed to remain in service as long as:
+1. The type of assembly is commensurate with the degree of hazard as outlined in OAR 333-061-0070(6) (2007) and Portland Water backflow assembly installation requirements under Title 21.
+
+2. The assembly is being properly maintained, tested at least annually and performs satisfactorily.
+
+Assemblies of this type that need to be relocated, require more than minimum maintenance or are on services that are modified, changed size or remodeled must be replaced with an approved assembly. Additionally, as outlined in Title 21 Section 21.12.320 of the City Code, approved assemblies may be required to be installed for new construction, where buildings or structures are remodeled, or where tenant improvements are made.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Chapter 28.09 Mechanical Installations
+
+
+
+
+(Amended by Ordinances 181437, 191154, and 192002, effective January 10, 2025.)
+
+All mechanical work, including but not limited to heating, air conditioning, ventilating, gas piping and woodstoves, must be designed and installed in accordance with the Oregon Mechanical Specialty Code, any other relevant Specialty Codes, Title 27 and this Chapter. Permits and inspections will be required for all work except as specifically exempted by this Title.
+
+Existing mechanical work that was lawfully in place in Portland on January 1, 2008, or that was constructed or relocated under a valid permit after that date, will be considered an existing nonconforming condition as provided in this Title.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+See something we could improve on this page? Give website feedback.

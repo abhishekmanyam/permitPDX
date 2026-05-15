@@ -1,0 +1,6016 @@
+Portland City Code - Title 32
+
+# Title 32 Signs and Related Regulations
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(Title replaced by Ordinance 175204, effective March 1, 2001.)
+
+
+
+
+
+
+
+
+
+
+
+
+
+Chapter 32.10 Legal Framework and Relationships
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+32.10.010 Short Title.
+
+
+
+
+Title 32 of the Portland City Code is also referred to as the Sign Code.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+32.10.020 Purpose.
+
+
+
+
+These regulations balance the need to protect the public safety and welfare, the need for a well maintained and attractive community, and the need for adequate identification, communication and advertising. The regulations for signs and awnings have the following specific objectives:
+
+A. To ensure that signs and awnings are designed, constructed, installed and maintained according to minimum standards to safeguard life, health, property and public welfare;
+
+B. To allow and promote positive conditions for sign communication while at the same time avoiding nuisances to nearby properties;
+
+C. To reflect and support the desired character and development patterns of the various zones, overlay zones, and plan districts and promote an attractive environment;
+
+D. To allow for adequate and effective signs in commercial and industrial zones while preventing signs from dominating the appearance of the area; and
+
+E. To ensure that the constitutionally guaranteed right of free speech is protected.
+
+The regulations allow for a variety of sign types and sizes for a site. The provisions do not ensure or provide for every property or business owner’s desired level of visibility for the signs. The sign standards are intended to allow signs to have adequate visibility from streets and rights-of-way that abut a site, but not necessarily to streets and rights-of-way farther away.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+32.10.030 Where These Regulations Apply.
+
+
+
+
+A. General. The requirements of this Title apply to all signs, sign structures, awnings, and strobe lights located within the City of Portland, except as specified in Subsection B., below.
+
+B. Clarification for rights-of-way.
+1. Signs within public rights-of-way are regulated by Title 17, Public Improvements, and not by Title 32, except in the following situations where both Titles apply:
+a. Signs, sign structures, and awnings that extend from private property over rights-of-way; and
+
+b. Portable signs.
+
+2. Signs and sign structures located on streets within the boundary of Portland International Airport, as shown on Maps 1-5, are not regulated by Title 32.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+32.10.040 Hierarchy of Regulations.
+
+
+
+
+A. Conflicts within Chapters 32.30 through 32.38. In general, an area with base zoning, overlay zoning, or in a plan district is subject to all of the sign regulations of each. When the regulations conflict, unless specifically indicated otherwise, the regulations for a plan district supersede regulations for an overlay zone and the regulations for an overlay zone supersede regulations for base zones. The regulations for plan districts and overlay zones also supersede conflicting regulations for a specific use or development unless specifically stated otherwise.
+
+Where there is a conflict between regulations for a specific use or development and the base zone regulations, the specific use or development regulations supersede the base zone regulations.
+
+B. Other conflicts. Where there is a conflict between a land use regulation and a structural regulation, or other conflicts not otherwise addressed by this section, the most restrictive applies.
+
+C. Relationship to Titles 24 and 26. Title 32 contains objective construction standards that apply to signs, sign structures, and awnings. Title 24, Building Regulations, adopts the Oregon Structural Specialty Code and Title 26, Electrical Regulations, adopts the Oregon Electrical Specialty Code, respectively, by reference. In situations where an electrical standard is used in both Titles 32 and 26, standards specific to signs and awnings contained in Title 32 supersede those in Title 26. In situations where other construction standards are used in both Titles 32 and 24, standards specific to signs, sign structures, and awnings contained in Title 32 supersede those in Title 24.
+
+D.  Relationship to Title 33. Title 32 contains the objective land use standards and definitions that apply to signs and awnings. Signs being constructed as part of a larger development project may be subject to additional standards and discretionary reviews in Title 33. Where a discretionary land use review is required, the review procedures and criteria are contained in Title 33, Planning and Zoning, except as follows:
+1.  Sign adjustments. Approval criteria for sign adjustments are in Title 32.
+
+2. Nonconforming signs. Approval criteria for the Determination of Nonconforming Sign Status Review are in Title 32.
+
+E.  Relationship to other City, Regional, State and Federal regulations.
+1. Compliance required. In addition to the requirements of the Sign Code, signs must comply with all other applicable City, regional, state, and federal regulations. Compliance with Title 32 does not in any way imply, either directly or indirectly, compliance with any other law. Where the provisions of this Title conflict with those set forth in other regulations under the City Code or ordinance, the more restrictive will control.
+
+2. References to other regulations. References in the sign code to other City, regional, state, or federal regulations do not constitute a complete list of such regulations. These references do not imply any responsibility by the City for enforcement of regional, state, or federal regulations.
+
+3. Current versions and citations. All references to other City, regional, state, or federal regulations in the sign code refer to the most current version and citation for those regulations, unless specifically indicated otherwise. Where the referenced regulations have been repealed, sign code requirements for compliance are no longer in effect.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+32.10.050 Relationship to Approved Land Use Reviews.
+
+
+
+
+(Amended by Ordinance 185915, effective May 1, 2013.)
+
+The sign-related provisions of any approved land use review that applies to the site supersede the standards of this code.  Examples of land use reviews include Master Plans, Impact Mitigation Plans, Conditional Uses, Adjustments, Design and Historic Resource Reviews.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+32.10.060 Amendments to this Code.
+
+
+
+
+A. General. Amendments to regulations of this Title must be enacted through the procedures required under Title 1, Administration except as described under Subsection B, below.
+
+B. Exception for land use regulations. Amendments to provisions contained in Chapters 32.10 through 32.38 must follow the procedure required under state law as described in Chapter 33.835, Goal, Policy, and Regulation Amendments.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+32.10.070 Severability.
+
+
+
+
+If any word, sentence, section, chapter or any other provision or portion of this Title or rules adopted hereunder is invalidated by any court of competent jurisdiction, the remaining words, sentences, sections, chapters, provisions, or portions will not be affected and will continue in full force and effect.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Chapter 32.12 Authority and Scope
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+32.12.010 Authority.
+
+
+
+
+(Amended by Ordinances 176955 and 191736, effective July 1, 2024.)
+
+A.  Responsibility.  This Title will be administered and enforced by the Director of the Portland Permitting & Development (PP&D).
+
+B.  Administration.  The Director will administer the code as set forth under Chapters 32.60 through 32.68.  The Director may implement procedures, forms, and written policies for administering the provisions of this Title.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+32.12.020 Exemptions.
+
+
+
+
+(Amended by Ordinances 178946, 182962, 188959, 189137 and 189805, effective March 1, 2020.)
+
+The following are exempt from the regulations of this Title, but may be subject to other portions of the City Code:
+
+A.  Signs which are not visible from a right-of-way or another property; however signs located within malls and atriums must comply with all provisions of this Title except Chapters 32.30 through 32.38;
+
+B.  Signs inside a building. However:
+1.  In the OS, RF through RM4, RMP, CI1, CR, and IR zones, illuminated signs in windows are not exempt; and
+
+2.  Signs located within malls and atriums must comply with all provisions of this Title except Chapters 32.30 through 32.38;
+
+C.  Signs carved into a building;
+
+D.  Signs required by federal or state law if the sign is no more than 32 square feet in area or is painted directly on pavement;
+
+E.  Flags;
+
+F.  Signs required by city law if the sign is no more than 32 square feet in area.  Such signs include building addresses, development review or construction review public notices, and commercial parking facility postings;
+
+G.  Painted wall highlights;
+
+H.  Illuminated wall highlights;
+
+I.  Public Art as defined in Chapter 5.74; and
+
+J.  Permitted Original Art Murals as defined in Title 4.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+32.12.030 Prohibitions.
+
+
+
+
+The following are prohibited and existing ones must be removed:
+
+A. Signs containing strobe lights;
+
+B. Abandoned sign structures;
+
+C. Signs placed on or painted on a motor vehicle or trailer parked with the primary purpose of providing signs not otherwise allowed by the code;
+
+D. Permanent balloon signs;
+
+E. Outdoor, portable electric signs;
+
+F. Signs that imitate or resemble official traffic lights, signs or signals or signs that interfere with the effectiveness of any official traffic light, sign or signal;
+
+G. Signs that focus or flash a beam of light into the eyes of a driver of a motor vehicle upon a right of way within 200 feet from such sign; and
+
+H. Signs erected, constructed or structurally altered that are required by Section 32.62.010, Permit or Registration Required to have a permit that were erected, constructed or altered without a permit.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Chapter 32.20 Applying the Code Language
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+32.20.010 General Rules For Reading and Applying the Code Language.
+
+
+
+
+(Amended by Ordinances 176955 and 191736, effective July 1, 2024.)
+
+A. Reading and applying the code. Literal readings of the code language will be used. Regulations are no more or less strict than as stated. Application of the regulations that are consistent with the rules of Chapters 32.20 through 32.24 are non-discretionary actions of the Director of PP&D to implement the code. The action of the Director of PP&D is final.
+
+B. Situations where the code is silent. Proposals for signs where the code is silent, or where the rules of this chapter do not provide a basis for concluding that the sign is allowed, are prohibited.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+32.20.020 Terms.
+
+
+
+
+A. Defining words. Words used in the sign code have their dictionary meaning unless they are listed in Chapter 32.22, Definitions. Words listed in the Definitions chapter have the specific meaning stated, unless the context clearly indicates another meaning.
+
+B. Tenses and usage.
+1. Words used in the singular include the plural. The reverse is also true.
+
+2. Words used in the present tense include the future tense. The reverse is also true.
+
+3. The words "must," "will," and "may not" are mandatory.
+
+4. "May" is permissive.
+
+5. "Prohibited" means that an adjustment, conditional use, or other land use review may not be requested in order to allow a modification to the regulation in question.
+
+6. When used with numbers, "Up to x," "Not more than x" and "a maximum of x" all include x.
+
+C. Conjunctions. Unless the context clearly indicates otherwise, the following conjunctions have the following meanings:
+1. "And" indicates that all connected items or provisions apply;
+
+2. "Or" indicates that the connected items or provisions may apply singly or in combination;
+
+3. "Either...or" indicates that the connected items or provisions apply singly, but not in combination.
+
+D. Lists. Lists of items that state "including the following," "such as," or similar language are not limited to just those items. The lists are intended to provide examples, but not to be exhaustive of all possibilities.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+32.20.030 Applying the Code to Specific Situations.
+
+
+
+
+Generally, while the code cannot list every situation or be totally definitive, it provides guidance through the use of descriptions and examples. In situations where the code provides this guidance, the descriptions and examples are used to determine the applicable regulations for the situation. If the code regulations, descriptions, and examples do not provide adequate guidance to clearly address a specific situation, the stated intent of the regulation and its relationship to other regulations and situations are considered.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Chapter 32.22 Definitions
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+32.22.010 General.
+
+
+
+
+Words used in this Title have their normal dictionary meaning unless they are listed in Section 32.22.020, below.  Words listed in Section 32.22.020 have the specific meaning stated or referenced, unless the context clearly indicates another meaning.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+32.22.020 Definitions.
+
+
+
+
+(Amended by Ordinances 176469, 176955, 182671 and 191736, effective July 1, 2024.)
+
+A.  Abandoned sign structure.  A sign structure where no sign has been in place for a continuous period of at least 6 months.
+
+B.  Arterial.  As defined in Title 33, Planning and Zoning.
+
+C.  Atrium.  As defined in the Building Code.
+
+D.  Awning.  A roof-like structure of fabric or similar non-rigid material attached to a rigid frame that is supported completely or partially by either an exterior building wall or wall exterior to an individual tenant space.
+
+E.  Awning sign.  A sign incorporated into or attached to an awning.
+
+F.  Backed Sign.  A sign where the faces of the sign are parallel or within 10 degrees of parallel to each other.
+
+G.  Banner.  A sign made of fabric or other similar non-rigid material with no enclosing framework or electrical components that is supported or anchored on two or more edges or at all four corners.  Banners also include non-rigid signs anchored along one edge, or two corners, with weights installed that reduce the reaction of the sign to wind.  See also Flag.
+
+H.  Building.  As defined in Title 33, Planning and Zoning.
+
+I.  Building Code.  The Oregon Structural Specialty Code as adopted by Title 24, Building Regulations, of the Portland City Code.
+
+J.  Changing image sign.  Any sign that, through the use of moving structural elements, flashing or sequential lights, lighting elements, or other automated method, results in movement, the appearance of movement or change of sign image or message.  Changing image signs do not include otherwise static signs where illumination is turned off and back on not more than once every 24 hours.
+
+K.  Comprehensive Plan.  The adopted Comprehensive Plan of the City of Portland.
+
+L.  Dangerous sign.  A sign constituting a hazard to public safety because it no longer meets the  lateral and/or vertical loads as specified in the Building Code, or no longer meets the wiring and installation standards of the Electrical Code.
+
+M.  Days.  Calendar days, unless specifically stated as working days.
+
+N.  Desired character.  As defined in Title 33, Planning and Zoning.
+
+O.  Development.  As defined in Title 33, Planning and Zoning.
+
+P.  Directional sign.  A sign exclusively limited to guiding the circulation of motorists or pedestrians on the site.
+
+Q.  Director.  The Director of the City of Portland Portland Permitting & Development, or the Director's designee.
+
+R.  Driveway.  As defined in Title 33, Planning and Zoning.
+
+S.  Electric sign.  Any sign containing electrical wiring, lighting or other electrical components, but not including signs illuminated by a detached exterior light source.
+
+T.  Electrical Code.  The Oregon Electrical Specialty Code as adopted by Title 26, Electrical Standards, of the Portland City Code.
+
+U.  Facade.  As defined in Title 33, Planning and Zoning.
+
+V.  Fascia sign.  A single-faced sign attached flush to a building or other structure or a sign consisting of light projected onto a building or other structure.  Fascia signs do not include signs that are attached to or projected onto structures defined as sign structures by this Title.
+
+W.  Flag.  A sign made of fabric or other similar non-rigid material supported or anchored along only one edge or supported or anchored at only two corners.  If any dimension of the flag is more than three times as long as any other dimension, it is classified and regulated as a banner regardless of how it is anchored or supported.  See also Banner.
+
+X.  Freestanding sign.  A sign on a frame, pole, or other support structure that is not attached to any building.
+
+Y.  Home occupation.  As defined in Title 33, Planning and Zoning.
+
+Z.  Illuminated wall highlights.  Lighted areas that highlight a building’s architectural or structural features and that do not convey a message or image.  Illuminated wall highlights can either be created by light projected onto a feature or highlighting a feature with neon tubing or other light fixture.
+
+AA.  Lawn sign.  A freestanding sign made of lightweight materials such as cardboard or vinyl that is supported by a frame, pole, or other support structure placed directly in the ground without foundation or other anchor.
+
+BB.  Lighting methods:
+1.  Direct.  Exposed lighting or neon tubes on the sign face.  Direct lighting also includes signs whose message or image is created by light projected onto a surface.
+
+2.  Indirect.  The light source is separate from the sign face or cabinet and is directed to shine onto the sign.
+
+3.  Internal.  The light source is concealed within the sign.
+
+CC.  Mall.  As defined in the Building Code.
+
+DD.  Marquee sign.  A sign incorporated into or attached to a marquee or permanent canopy.
+
+EE.  Monument sign.  A freestanding sign where the base of the sign structure is on the ground or a maximum of 12 inches above the lowest point of the ground adjacent to the sign.  The width of the top of the sign structure can be no more than 120 percent of the width of the base.
+
+FF.  Nonconforming sign.  A sign that was created in conformance with development regulations, but which subsequently, due to a change in the zone or land use regulations, is no longer in conformance with the current applicable development standards.  Nonconforming signs also includes signs that do not conform with the land use regulations of this Title and that were established prior to November 18, 1998.
+
+GG.  Owner.  The owner of the title to real property or the contract purchaser of real property of record, as shown on the latest assessment records in the Office of the County Assessor.  Owner also includes a deed-holder or contract purchaser whose name does not appear in the latest assessment records, but who presents to the City a copy of a deed or contract of sale showing date, book, and page of recording.
+
+HH.  Painted wall highlights.  Painted areas that highlight a building's architectural or structural features and that do not convey a message or image.
+
+II.  Painted wall sign.  A sign applied to a building wall with paint or a thin layer of vinyl, paper or similar material adhered directly to the building surface and that has no sign structure.
+
+JJ.  Parking area.  As defined in Title 33, Planning and Zoning.
+
+KK.  Permanent sign.  Any sign not classified as a temporary sign.
+
+LL.  Pitched roof sign.  A sign attached to a roof with a pitch of one-to-four or greater and placed parallel to the building wall.
+
+MM.  Portable sign.  A movable sign that is not attached to a structure or the ground.  Portable signs include A-boards, portable readerboards, and similar signs.
+
+NN.  Primary building walls.  Any exterior building wall that faces a street and contains a public entrance to the occupant's premises or tenant space.  If an individual tenant space does not have a street facing wall, or does not have a street facing wall containing a public entrance, then the primary building wall for that individual tenant space is any wall containing a public entrance that faces a parking area on the site.  See Figure 1.
+
+Figure 1
+
+Primary and Secondary Building Walls
+
+
+
+View full size image of Diagram of primary and secondary walls as defined in Section 32.22.020.
+
+
+
+
+
+OO.  Projecting sign.  A sign attached to and projecting out from a building face or wall, generally at right angles to the building.  Projecting signs include signs that are totally in the right-of-way, partially in the right-of-way, or fully on private property.
+
+PP.  Responsible party. A person who is either:
+1.  The property owner or person authorized to act on the owner’s behalf; or
+
+2.  Any person causing or contributing to a violation of this Title.
+
+QQ.  Review body.  As defined in Title 33, Planning and Zoning.
+
+RR.  Right-of-way.  A public or private area that allows for the passage of people or goods.  Right-of-way includes passageways such as freeways, streets, bike paths, alleys, and walkways.  A public right-of-way is a right-of-way that is dedicated or deeded to the public for public use and under the control of a public agency.
+
+SS.  Roadway.  The portion of a street that is improved for motor vehicular travel.  Roadway includes vehicle travel lanes and on-street parking areas.  Roadway does not include area devoted to curbs, parking strips, or sidewalks.
+
+TT.  Roof line.  The top edge of a roof or building parapet, whichever is higher, excluding any cupolas, chimneys, or other projections.
+
+UU.  Roof top sign.  A sign on a roof that has a pitch of less than one-to-four.
+
+VV.  Scenic Resources Protection Plan.  The most recently adopted version of the Scenic Resources Protection Plan, maintained by the Bureau of Planning and Sustainability and administered by the Portland Permitting & Development.
+
+WW.  Secondary building walls.  Exterior building walls that are not classified as primary building walls.  See Figure 1.
+
+XX.  Setback.  As defined in Title 33, Planning and Zoning.
+
+YY.  Sign.  Materials placed or constructed, or light projected, that (1) conveys a message or image and (2) is used to inform or attract the attention of the public.  Some examples of ‘signs’ are materials or lights meeting the definition of the preceding sentence and which are commonly referred to as signs, placards, A-boards, posters, billboards, murals, diagrams, banners, flags, or projected slides, images or holograms.  The scope of the term ‘sign’ does not depend on the content of the message or image conveyed.
+
+ZZ.  Sign maintenance.  Normal care needed to keep a sign functional, such as cleaning, painting, oiling, and changing of light bulbs.
+
+AAA.  Sign repair.  Fixing or replacement of broken or worn parts.  Replacement includes comparable materials only.  Repairs may be made with the sign in position or with the sign removed.
+
+BBB.  Sign structure.  A structure specifically intended for supporting or containing a sign.
+
+CCC.  Site.  As defined in Title 33, Planning and Zoning.
+
+DDD.  Sports field.  An open area or stadium in which scheduled sports events occur on a regular basis.  Sports events include both competitive and noncompetitive events such as track and field activities, soccer, baseball, or football games.
+
+EEE.  Street.  A public or private right-of-way that is intended for motor vehicle travel or for motor vehicle access to abutting property.  Street includes all the area within the right-of-way, such as roadways, parking strips, and sidewalks.  For the purposes of this Title, street does not include alleys, rail rights-of-way that do not also allow for motor vehicle access, or the interstate freeways and the Sunset Highway including their ramps.
+
+FFF.  Street frontage.  The lot line abutting a street.
+
+GGG.  Structural alteration.  Modification of a sign, sign structure or awning that affects size, shape, height, or sign location; changes in structural materials; or replacement of electrical components with other than comparable materials.  The replacement of wood parts with metal parts, the replacement of incandescent bulbs with light emitting diodes (LED), or the addition of electronic elements to an non-electrified sign would all be structural alterations.  Structural alteration does not include ordinary maintenance or repair, repainting an existing sign surface, including changes of message or image, exchanging painted and pasted or glued materials on painted wall signs, or exchanging display panels of a sign through release and closing of clips or other brackets.
+
+HHH.  Structure.  Any object constructed in or on the ground.  Structure includes buildings, decks, fences, towers, flag poles, and other similar objects.  Structure does not include paved areas or vegetative landscaping materials.
+
+III.  Temporary sign.  A sign placed on a structure or the ground for a specifically limited period of time as provided in Subsection 32.32.030.K.
+
+JJJ.  Tenant space.  Portion of a structure occupied by a single commercial lease holder with its own public entrance from the exterior of the building or through a shared lobby, atrium, mall, or hallway and separated from other tenant spaces by walls.
+
+KKK.  Through pedestrian zone.  The portion of a sidewalk that is intended for pedestrian travel and is entirely free of permanent and temporary objects.
+
+LLL.  Vehicle areas.  As defined in Title 33, Planning and Zoning.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Chapter 32.24 Measurements
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+32.24.010 Sign Face Area.
+
+
+
+
+(Amended by Ordinance 176469, effective July 1, 2002.)
+
+A. Sign cabinets. The area of sign faces enclosed in frames or cabinets is determined based on the outer dimensions of the frame or cabinet surrounding the sign face. See Figure 2.
+
+B. Backed signs. Only one side of a backed sign is counted in determining the area of sign faces. Where the two sides are not of equal size, the larger of the two sides is used for the determination of sign area. For changing image features, see Section 32.32.030 F.1. See Figure 3.
+
+View full size image of Figure 2 and 3 as referenced in Section 32.24.010.
+
+C. Multiple cabinets. For freestanding and projecting signs that contain multiple cabinets on one structure and oriented in the same direction, the modules together are counted as one sign face. See Figure 4.
+
+D. Round signs. The maximum surface area visible at one time of a round, three dimensional or three or more sided sign is counted to determine sign area.
+
+E. Signs on a base material. When a sign is on a base material and attached without a frame, such as a wood board or Plexiglas panel, the dimensions of the base material are to be used.
+
+F. Individual elements. When signs are constructed of individual elements attached to a building wall, the sign area is determined by calculating the area of an imaginary rectangle drawn around the sign elements. See Figure 5. Sign elements will be measured as one unit when the distance between the elements is less than two times the dimension of each element. See Figure 6.
+
+View full size image of Figure 4 and 5 as referenced in Section 32.24.010.
+
+
+
+G. Painted wall signs. Painted wall signs are measured by drawing an imaginary rectangle around the edge of each of the sign elements. Sign elements will be measured as one unit when the distance between the elements is less than two times the length of each element. See Figure 6. Visible wall area includes windows and doors, but not openings such as loading entrances.
+
+H. Awnings and marquees. When signs are incorporated into awnings, the sign area is determined by computing the area of an imaginary rectangle drawn around the sign face. When the ends of awnings or marquees are parallel and contain sign faces, only one side is counted in addition to the sign face area on the front.
+
+I. Changing image signs.
+1. Changing image sign features are measured by drawing an imaginary rectangle around the edge of each of the changing elements. Sign elements will be measured as one unit when the distance between the elements is less than two times the length of each element. See Figure 6.
+
+2. When used as a border around an otherwise static sign, changing image sign elements are measured by drawing a series of rectangles around the changing elements. See Figure 7.
+
+3. When the changing image sign feature is composed of moving light from a projected source, including laser light, or other display that has the appearance of a static element moving across a static background, the changing image sign element is measured by drawing a rectangle around the entire area affected by the moving element. See Figure 8.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+32.24.020 Height of Signs.
+
+
+
+
+The overall height of a sign or sign structure is measured from the lowest point of the ground directly below the sign to the highest point of the sign or sign structure. See Figure 9.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+32.24.030 Clearances.
+
+
+
+
+Clearances are measured from the highest point of the ground directly below the sign to the bottom of the sign structure enclosing the sign face. See Figure 9.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+32.24.040 Primary Building Walls.
+
+
+
+
+(Amended by Ordinance 176469, effective July 1, 2002.)
+
+The length of a primary building wall is derived for each tenant space's ground floor exterior wall. See Figure 1. When walls are not parallel to a street, they are assigned to the street frontage to which they are most oriented. See Figure 10a. When the primary entrance is located in a building wall that is adjacent to, at an angle from, and shorter than the street-facing wall, the primary building wall will be measured as a combination of the street wall and the wall containing the entrance. Where the angled wall is on the corner of the building between two street-facing walls, the applicant may choose which street facing wall to combine with the wall containing the entrance to be considered the primary building wall. The length of the primary building wall will be measured in a straight line parallel to the street-facing wall. See Figure 10b.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+32.24.050 Diagonal Corner Signs.
+
+
+
+
+Diagonal corner signs that face more than one street must be assigned to a street and building frontage by the applicant. The sign must meet all standards for the street and building frontage to which it is assigned. See Figure 10.
+
+
+
+View full size image of Measurement and calculation of sign elements as described in Section 32.24.010
+
+
+
+View full size image of Measuring changing image sign features used as a border or created by projected light. Figure 7 and 8 as referenced in Section 32.24.010.
+
+View full size image of Figure 9 Sign Heights and Clearances as referenced in Sections 32.24.020 and 32.24.030.
+
+View full size image of Figure 10a Building Wall Orientation as described in Sections 32.24.040 and 32.24.050.
+
+View full size image of Figure 10b Primary Building Wall - Angled Entrance as described in Sections 32.24.040 and 32.24.050.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Chapter 32.30 General
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+32.30.010 Purpose.
+
+
+
+
+The regulations contained in Chapters 32.30 through 32.38 are land use regulations which work in combination with Title 33, Planning and Zoning, to implement Portland’s Comprehensive Plan.  The standards contained in Chapters 32.32 through 32.34 encourage signs to be compatible with the distinct character of specific areas of the city by regulating the size, placement, and features of signs by base zone, overlay zone, and plan district.  Chapter 32.34 includes standards that encourage signs that further the objectives of certain land use categories.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+32.30.020 Official Zoning Maps.
+
+
+
+
+The boundaries and locations of all base zones, overlay zones, plan districts, and historic resource designations referenced in Chapters 32.30 through 32.38 are shown on the City’s Official Zoning Maps.  See Title 33, Planning and Zoning for additional information.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+32.30.030 Uses, Use Categories, and Structure Types.
+
+
+
+
+In some cases, sign regulations are applied based on the land use or use category of a site, or structure type on the site.  All of these are described or defined in Title 33, Planning and Zoning.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Chapter 32.32 Base Zone Regulations
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+32.32.010 Standards in the Residential Zones, Campus Institution 1, Commercial Residential, and Open Space Zone.
+
+
+
+
+(Amended by Ordinances 176469, 188959, 189137 and 189805, effective March 1, 2020.)
+
+A.  General standards.  The standards for permanent signs in the RF through RM4 zones and for the RMP, IR, CI1, CR and OS zones are stated in Table 1.  The sign standards for the RX zone are stated in Table 2.  All signs must conform to the regulations of Section 32.32.030.
+
+Table 1
+Standards for Permanent Signs in CI1, CR, IR, OS and RF Through RM4 Zones [1]
+
+Use Category/Structure   Type [2]
+Number of
+
+Signs
+
+Max. Sign
+
+Face Area
+
+Types of
+
+Signs Allowed
+
+Maximum
+
+Sign Height
+Additional Signs Allowed [3]
+
+Household Living/
+Houses, Duplexes,
+Attached Houses.1 per site1 sq. ft.
+Fascia,
+
+Painted Wall
+
+
+
+Freestanding
+
+Top of wall, or 10 ft.   whichever is less.
+
+6 ft.
+lawn signs, directional   signs
+
+Household Living/
+Townhouse, Multi-dwelling
+
+Group Living, Day Care,
+
+Nonresidential category uses   not listed below.
+1 per building10 sq. ft.
+Fascia, Awning, Painted Wall
+
+Freestanding
+
+Top of wall
+
+
+
+10 ft.
+lawn signs, directional   signs
+
+Subdivisions, PUDs,   Houseboat Moorages, Mobile Home Parks, Agricultural Uses. [4]1 per entrance32 sq. ft.Monument10 ft.lawn signs, directional   signs
+
+Parks and Open Areas [5]1 per street frontage10 sq. ft.Monument10 ftlawn signs, directional   signs
+
+Colleges, Community Service,   Medical Centers, Religious Institutions, Schools, Commercial Outdoor   Recreation, Major Event Entertainment, and uses in Commercial and Industrial   use categories.The sign standards of the RX   zones applies.  See Section 32.32.020.
+
+Notes:
+
+[1]  Temporary signs are regulated by 32.32.030 K, Temporary Signs.
+
+[2]  See 32.30.030, Uses, Use Categories, and Structure Types.
+
+[3]  These signs are allowed in addition to other signs when they meet the standards of 32.32.030 H.-J.
+
+[4]  These signs are allowed in addition to those for individual buildings.
+
+[5]  Signs in, or adjacent to and facing, a sports fields associated with Parks and Open Areas are subject to the standards of the RX zone.  See 32.32.020.
+
+B.  Sign features.  Signs in the RF through RM4 zones and in the RMP, IR, CI1, CR, and OS zones, except for those subject to the RX zone sign standards, are subject to the standards of this subsection.  Illuminated signs placed in windows are subject to these sign regulations.  Extensions into the right-of-way are prohibited.  Changing image sign features are prohibited and only indirect lighting is allowed.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+32.32.020 Standards in the Commercial/Mixed Use, Campus Institution 2, Employment, and Industrial Zones.
+
+
+
+
+(Amended by Ordinances 176469, 188959, and 191959, effective March 1, 2025.)
+
+A.  General standards and sign features.  The standards for permanent signs and sign features in the C, E, and I zones are stated in Tables 2 and 3.  All signs must conform to the regulations of Section 32.32.030. Signs located within the Rose Quarter Entertainment Sign District shown on Map 6 are exempt from the standards of this section.
+
+Table 2
+Standards for Permanent Signs in Nonresidential Zones and RX Zone [1]
+
+-CE, CM3, EG1&2,EX, IG1&2, IHCI2, CM2, CXCM1, RX
+
+Signs Attached to Buildings
+
+Size Allocation• 1 sq. ft. per 1 ft. of primary bldg. wall if a freestanding sign is also on the same street frontage
+• 1-1/2 sq. ft. per 1 ft. of primary bldg. wall if there is no freestanding sign on the same street frontageSameSame
+
+Maximum NumberNo limit within size allocationSameSame
+
+Maximum Area Per Sign200 sq. ft.100 sq. ft.50 sq. ft.
+
+Min. Guaranteed Sign Area For A Ground Floor Tenant Space32 sq. ft.SameSame
+
+Types Allowed
+
+Fascia, Awning, Marquee, Pitched Roof, Painted WallYesYesYes
+
+ProjectingYes, but no projecting signs if a freestanding sign is also on the same street frontageSameSame
+
+RooftopNoNoNo
+
+Freestanding Signs
+
+Maximum Number1 per site or 1 per 300 ft. of arterial street frontage and 1 for each additional 300 ft. or fraction thereof [2].1 per arterial street frontage [3]1 per arterial street frontage [3]
+
+When Not AllowedNot allowed if there is already a projecting sign on the same site frontage, or if existing signs attached to buildings exceed the limit of 1 sq. ft. to 1 ft. of primary building wallSameSame
+
+Size Allocation For All Freestanding Signs1 sq. ft. per 1 ft. of arterial street frontage. Local street frontage can be used if there are not arterial site frontages.SameSame
+
+Size Limit 200 sq. ft100 sq. ft.50 sq. ft.
+
+Maximum Height 25 ft. [4]20 ft.  [4]15 ft. [4]
+
+Additional Signs Allowed [5]
+
+Directional Signs, Portable Signs, Lawn SignsSee Subsections 32.32.030 G-J
+
+Yes = Allowed
+No = Prohibited
+Notes:
+
+[1] Temporary signs are regulated under 32.32.010 K, Temporary Signs.
+[2] On sites with frontages longer than 300 feet, sign area earned from the first 300 feet may not be used on the second sign. For example, a 350 foot street frontage may have a 200 sq. ft. and a 50 sq. ft. freestanding sign. Regional Trafficways that are not also Major City Traffic Streets are not considered arterial streets for purposes of this Title.
+[3[ Where a site has no arterial street frontage, one freestanding sign is allowed.
+[4] This height limit is for the total height of the combined sign face and sign structure.
+[5] These signs may be allowed in addition to signs attached to buildings and freestanding signs when they meet the standards of 32.32.030 G-J.
+
+Table 3
+Sign Features for All Signs In Table 2
+
+-CE, CI2, CM2, CM3, CX, EG1&2, EX, IG&2, IHCM1, RX
+
+Changing Image Sign Features (see 32.32.030.D)Yes [1]No[2]
+
+LightingDirect, Indirect, or InternalSame
+
+Maximum Distance Extending Into R-O-W (see 32.32.030.C)6-1/2 ft. or 2/3 of distance to roadway, whichever is lessSame
+
+Maximum Area Extending into R-O-W (see 32.32.030.C) 30 sq. ft.Same
+
+Yes = Allowed
+No = Prohibited Notes:
+[1] Changing image sign features are allowed in the CE, CI2,CM2, CM3, CX, EG1 &2, EX, IG1 &2, and IH zones if they meet the standards of 32.32.030 D., Changing image sign features.
+[2] Changing image sign features are prohibited in the RX, CI1, and CM1 zones; except, changing image sign features are allowed in these zones if the sign is in, or adjacent to and facing, a sports field and meets the standards of 32.32.030 C, Changing image sign features.
+
+B.  Signs adjacent to freeways or bridges.  The following regulations supersede those stated in Tables 2 and 3.
+1.  Freeways.  For purposes of this title, freeways are Regional Trafficways that are not also classified as Major City Traffic Streets by the Transportation Element of the Comprehensive Plan. These are the I-5, I-84, I-205, I-405 freeways, US Highway 30 between I-405 and NW Nicolai, and US Highway 26 west of the I-405 freeway.
+a.  Sign faces that are within 100 feet of a freeway right-of-way, and that are visible from the freeway, may not exceed 200 square feet in area.  Adjustments or modifications to the standard of this Subparagraph are prohibited.
+
+b.  Freestanding signs that are facing and within 100 feet of a freeway right-of-way or its on- and off-ramps are prohibited.  Freestanding signs that are beneath the level of the surface of the roadway are allowed.
+
+c.  Changing image signs that are facing and within 100 feet of a freeway right-of-way or its on-and off-ramps are prohibited.  Changing image signs that are beneath the level of the surface of the roadway are allowed.
+
+2.  Bridges.
+a.  Sign faces within 100 feet of the Willamette River bridges or bridge approach ramps shown in Figures 11a-e, or within 100 feet of the Columbia River or Columbia Slough bridges or bridge approach ramps, and that are visible from the bridge or bridge approach ramp, may not exceed 100 square feet in area.
+
+b.  Freestanding signs that are within 100 feet of the Willamette River bridges or bridge approach ramps shown in Figures 11a-e, or within 100 feet of the Columbia River and Columbia Slough bridges and bridge approach ramps are prohibited.  Freestanding signs that are beneath the level of the surface of the roadway are allowed.
+
+c.  Changing image signs that are within 100 feet of the Willamette River bridges or bridge approach ramps shown in Figures 11a-e, or within 100 feet of the Columbia River and Columbia Slough bridges and bridge approach ramps are prohibited.  Changing image signs that are beneath the level of the surface of the roadway are allowed.
+
+C.  Pedestrian districts.  In pedestrian districts as shown by the Arterial Streets Classification of the Transportation Element of the Comprehensive Plan, the sign standards of the Central Commercial (CX) zone apply.
+
+
+
+View full size image of Burnside, Morrison, and Hawthorne Bridges and Approaches as referenced 32.32.020
+
+Figure 11a Willamette River Bridges and Approach Ramps
+
+
+View full size image of Ross Island Bridge and Approaches as referenced 32.32.020
+
+Figure 11b Willamette River Bridges and Approach Ramps
+
+
+
+View full size image of Sellwood Bridge and Approaches as referenced 32.32.020
+
+Figure 11c Willamette River Bridges and Approach Ramps
+
+
+
+View full size image of Broadway and Steel Bridges and Approaches as referenced 32.32.020
+
+Figure 11d Willamette River Bridges and Approach Ramps
+
+
+View full size image of St. Johns Bridge and Approaches as referenced 32.32.020
+
+Figure 11e Willamette River Bridges and Approach Ramps
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+32.32.030 Additional Standards in All Zones.
+
+
+
+
+(Amended by Ordinances 176469, 185915, 188959, 189805, and 191959, effective March 1, 2025.)
+
+A.  Where these regulations apply.  These regulations apply to all signs regulated by this title. Signs located within the Rose Quarter Entertainment Sign District shown on Map 6 are exempt from these standards.
+
+B.  Sign placement.  All signs and sign structures must be erected and attached totally within the site except when allowed to extend into the right-of-way by this Title.
+
+C.  Signs extending into the right-of-way.  The standards of this subsection apply to permanent signs that are erected on private property and that extend into the right-of-way and portable signs that are in the right-of-way.
+1.  Projecting signs.  Projecting signs that extend into the right-of-way must meet the following standards:
+a.  Distance into the right-of-way.
+(1)  Where allowed, signs may extend into the right-of-way 6 ½ feet or 2/3 of the distance to the roadway, whichever is less.  However, in no case may signs extend within 2 feet of the roadway.
+
+(2)  Diagonal corner signs may extend into the right-of-way to a point that is determined by extending a line from the maximum points allowed for projecting signs on each street frontage.  See Figure 12.
+
+b.  Maximum sign face area in the right-of-way.  No more than 30 square feet of a projecting sign face may extend into a right-of-way.
+
+c.  Blanketing.  A projecting sign that extends into the right-of-way more than 3 feet may not be within 20 feet of another projecting or freestanding sign that extends more than 3 feet into the right-of-way if the new sign is within horizontal lines drawn from the top and bottom of the prior sign.
+
+2.  Awnings and marquees.  Awnings and marquees that contain signs may extend into the right-of-way the same distance as awnings and marquees that do not contain signs.  See Chapter 32.52, Awnings.
+
+
+
+View full size image of Figure 12a: Top-down view of a corner of a roadway with a curb line and property line. a shaded square at the corner of the roadway is labelled "allowable extension of diagonal corner signs"
+
+Figure 12 Diagonal Corner Signs
+
+
+3.  Portable signs.  Portable signs may be placed in the right-of-way if they meet the following standards:
+a.  The sign is entirely outside the roadway;
+
+b.  The sign is no larger than 8 square feet in size.  The sign face is no wider than 2 ½ feet and no taller than 4 feet;
+
+c.  The sign is entirely outside of the area of a right-of-way corner that is between the curb and the lines created by extending the property line to the curb face.  See Figure 13a;
+
+d.  The sign is entirely outside the area of a sidewalk that is between the lines created by extending the edges of any curb ramp across the sidewalk to the property line;
+
+e.  The sign is within six inches of the curb.  See Figure 13b;
+
+f.  The sign does not obstruct a continuous through pedestrian zone of at least six feet in width.  See Figure 13b; and
+
+g.  The sign does not obstruct pedestrian and wheelchair access from the sidewalk to any of the following:
+(1)  transit stop areas;
+
+(2)  designated disabled parking spaces;
+
+(3)  disabled access ramps; or
+
+(4)  building exits including fire escapes.
+
+h.  Physical attachment to public property.  Portable signs placed in the right-of-way must remain portable and may not be attached or anchored in any way to trees or to public property including utility or light poles, parking meters, the ground or pavement.
+
+i.  Additional placement standards for temporary portable signs.  Temporary portable signs placed in the right-of-way must meet the following additional standards:
+(1)  Where no curb exists, the sign must be placed outside the roadway at least five feet from the edge of the roadway.  Temporary portable signs may not be placed in medians, traffic islands, or other areas within the roadway.
+
+(2)  Temporary portable signs must not be placed in parking spaces, pedestrian pathways, or bicycle paths.
+
+(3)  Where the sidewalk is less than 8 feet in width, temporary portable signs may not be placed on the sidewalk.
+
+4.  Removal of signs.  The City Engineer may require signs extending into the right-of-way to be modified or moved if streets are widened, or other improvements made in the right-of-way, which result in the creation of unsafe conditions.  The modification or moving will be at the owner’s expense.  If a nonconforming sign is moved under this requirement, it may be re-erected on the site without being brought into conformance.
+
+
+
+
+
+View full size image of Top-down view of a corner of a sidewalk with a curb line and property line. A shaded square at the corner of the sidewalk is labeled ‘Portable signs not allowed in this area’.
+
+Figure 13a Placement of Portable Signs in the R-O-W
+
+
+View full size image of Figure 13b: A person has 6 feet of the sidewalk when walking by a portable A-board sign that is within 6” of the curb.
+
+Figure 13b Placement of Portable Signs in the R-O-W
+
+
+
+D.  Changing image sign features.
+1.  Size.  Where allowed under this Title, changing image sign features are limited to a total combined area of 20 square feet per site.  No single sign may have more than 10 square feet of changing image sign features unless those features cover less than 60 percent of the face of the sign. Each area of changing image feature on each sign face is included in the total for the site.  Section 32.24.010 B., Backed Signs, may not be applied to changing image sign features.
+
+2.  Brightness.  Changing image sign features are subject to the glare standards of Chapter 33.262, Off-site impacts.
+
+3.  Signs subject to the standards of the CI1, or CM1 zone.  If the sign is subject to the standards of the CI1, or CM1 zone, changing image sign features are allowed if the sign meets the standards of a. and b., below.  All other changing image sign features are prohibited.
+a.  Location.  The sign must be in, or adjacent to and facing, a sports field.
+
+b.  Duration.  The changing image sign features may be turned on no sooner than one hour before scheduled events and must be turned off no later than one hour after scheduled events.
+
+4.  Modifications or adjustments to the size standard.  Modifications through design review or historic resource review or adjustments to this regulation are prohibited, except as stated in paragraphs 4.b. through 4.d., below:
+a.  Purpose.  The character, scale and special communication needs of bright lights districts, sports fields and Major Event Entertainment uses may support the use of changing image sign features that are larger than 20 square feet.  The scale, multiple use and special communication needs of sites with major event entertainment uses may support the use of changing image sign features that are substantially larger than 20 square feet.
+
+b.  Broadway “bright lights” district.  In the Broadway “bright lights” Unique Sign District of the Downtown Design District, a modification through design review to allow more than 20 square feet of changing image sign features on a site, or more than 10 square feet of changing image sign features on a sign, may be requested.
+
+c.  Major Event Entertainment.  If the sign is on a site that contains a Major Event Entertainment use, an adjustment or a modification through design review to allow more than 20 square feet of changing image sign features on a site, or more than 10 square feet of changing image sign features on a sign, may be requested.
+
+d.  Sports field.  If the sign is in, or adjacent to and facing, a sports field, an adjustment or a modification through design review to allow more than 20 square feet of changing image sign features on a site, or more than 10 square feet of changing image sign features on a sign, may be requested.
+
+E.  Signs attached to buildings or structures.
+1.  Placement.  Signs attached to buildings or structures that are based on the sign rights of a primary building wall may be placed on that primary building wall, on a secondary building wall or on another structure.  They may not be placed on another primary building wall.
+
+2.  Awnings and marquees.  Signs attached to an awning or marquee that extends into the right-of-way must comply with the pedestrian clearance and right-of-way extension standards of Chapter 32.52. Awnings.
+
+3.  Fascia signs.
+a.  Vertical extensions.  Fascia signs may not extend more than 6 inches above the top of the building wall.  Fascia signs attached to other structures may not extend above the top of the structure.
+
+b.  Horizontal extensions.  A fascia sign may not extend more than 18 inches out from the wall or structure to which it is attached.  Fascia signs may not extend beyond the corner of buildings or other structures.
+
+4.  Pitched roof signs.
+a.  Vertical extensions.  The face of pitched roof signs may not extend more than 6 inches above the roofline.
+
+b.  Placement and angle.  Pitched roof signs must be parallel to the building face.  They may not extend beyond the building wall.  See Figure 14.
+
+c.  Support structures.  Support structures must be designed so that there is no visible support structure above the sign.
+
+
+
+View full size image of Four houses with roof signs in various placements to show that pitched roof signs must be parallel to the building face and they may not extend beyond the building wall.
+
+Figure 14 Pitched roof sign placement
+Allowed Placement Prohibited Placement
+
+
+5.  Projecting signs
+a.  Vertical extensions.  The face of a projecting sign may not extend more than 6 inches above the roof line.
+
+b.  Placement.  The edge of the projecting sign may not be more than 1 foot from the building wall.  Projecting signs are not allowed on rooftops or on pitched roofs.  Projecting signs that extend over the right-of-way must meet the placement standards of Subsection 32.32.030 C., Signs extending into the right-of-way.
+
+c.  Support structures.  Support structures must be designed so that there is no visible support structure above the sign face.
+
+F.  Freestanding signs and monument signs.
+1.  Setbacks.  Freestanding signs are regulated as follows:
+a.  R zones.  In R zones and the CR zone, freestanding signs are allowed in required setbacks, however, in required front setbacks they may not be more than 3-1/2 feet tall.
+
+b.  C, CI, E, and I zones.  In C, CI, E, and I zones, freestanding signs are allowed in required setbacks for buildings and parking areas.  However, freestanding signs are prohibited in the setback between a property line abutting a residentially zoned site and the building line or parking area setback line.
+
+2.  Frontages.  Freestanding signs must be placed on arterial street frontages unless there are none.  Freestanding signs that are allowed based on the length of one arterial street frontage may not be placed on another arterial street frontage.  Frontage on a freeway is not considered arterial street frontage.
+
+3.  Undeveloped sites.  Permanent freestanding signs on sites without a primary use are subject to the regulations for Subdivisions shown in Table 1, Standards for Permanent Signs in the IR, OS and RF-RM4 Zones.
+
+4.  Extensions into the right-of-way.  Freestanding signs may not extend into the right-of-way.
+
+G.  Portable signs.
+1.  General standards.  Portable signs that meet the standards of this subsection are allowed in the RX, C, CI, E and I zones and are not counted in the total square footage of permanent signage allowed on the site. Adjustments or modifications to the standards of this subsection are prohibited.
+
+2.  Number.
+a.  General.  One portable sign is allowed per public entrance to buildings.
+
+b.  Commercial parking.  One portable sign is allowed for each vehicle entrance to a commercial parking facility, but in no case more than four portable signs for the facility.
+
+c.  Tenant spaces without public entrances.  Where a ground floor tenant space or portable cart does not have any public entrance and only provides customer service through a window, one portable sign is allowed for each ground floor tenant space or portable cart.
+
+3.  Size.  Portable signs may be up to 12 square feet in area.  Only one side of a portable sign will be counted.  The vertical dimension of the sign including support structure may be no greater than 42 inches.  Portable signs extending into the right of way must comply with the size standards of Subsection 32.32.030 C., Signs extending into the right-of-way.
+
+4.  Features.  Electrical signs and changing image sign features are prohibited.
+
+5.  Placement.  Portable signs must be entirely on private property or they must meet the placement standards of Subsection 32.32.030 B, Signs extending into the right-of-way.
+
+6.  Portable signs that do not meet the standards of this subsection.  Portable signs that do not meet the standards of this subsection must meet the standards for freestanding signs or for temporary signs.
+
+H.  Directional signs.
+1.  General standards.  Directional signs that meet the standards of this subsection are allowed in all zones and are not counted in the total square footage of permanent signage allowed on the site.  Adjustments or modifications to the standards of this subsection are prohibited.
+
+2.  Size.  Freestanding directional signs may be up to 6 square feet in area and 42 inches in height.  Fascia directional signs may be up to 6 square feet in area and 8 feet in height.
+
+3.  Sign features.  Direct or indirect lighting is allowed.  Changing image sign features and extensions into the right-of-way are prohibited.
+
+4.  Directional signs that do not meet the standards of this subsection.  Directional signs that do not meet the standards of this subsection must meet either the standards for signs attached to buildings or the standards for freestanding signs.
+
+I.  Permanent banners.
+1.  General.  Banners used as permanent signs are allowed in all zones and will be included in the total square footage of permanent signage allowed on the site.  Temporary banners are regulated under Subsection K., below.
+
+2.  Standards.  Permanent banners are subject to the standards for either fascia signs or projecting signs depending on how the banner is supported or anchored.
+
+J.  Lawn signs.
+1.  General standards.  Lawn signs that meet the standards of this subsection are allowed in all zones and are not counted in the total square footage of permanent signage allowed on the site.  Adjustments or modifications to the standards of this subsection are prohibited.
+
+2.  Size.  Lawn signs may be up to 3 square feet in area.
+
+3.  Placement.  Lawn signs must be entirely outside the right-of-way.
+
+4.  Sign features.  Illumination, electric signs, and changing image sign features are prohibited.
+
+5.  Lawn signs that do not meet the standards of this subsection.  Lawn signs that do not meet the standards of this subsection must meet the standards for freestanding signs.
+
+K.  Temporary signs.
+1.  Relationship to permanent sign standards.  Signs that meet the standards of this subsection are exempt from the standards for permanent signs and are not counted in the total square footage of signage allowed on the site.  Signs that do not meet the standards of this subsection are subject to the standards for permanent signs.  Adjustments or modifications to this subsection are prohibited.
+
+2.  Sign features.  Temporary signs may not have direct or internal illumination.  Changing image sign features and electronic elements are prohibited.
+
+3.  Temporary banners.  Temporary banners are subject to the following regulations:
+a.  Banners on lots with houses, duplexes, and attached houses.  In all zones, temporary banners are not allowed on sites with houses, duplexes, and attached houses.
+
+b.  OS, R, CR, CM1 and CI1 zones.  In OS, R, CR, CM1 and CI1 zones, up to three banners no larger than 32 square feet in size are allowed per site.  Only one of these banners may be hung on each building wall or on each separate structure.  Additional banners, or banners larger than 32 square feet in size, must meet the standards for permanent signs.
+
+c.  CM2, CI2, CM3, and CX zones.  In the CM2, CI2, CM3, and CX zones, up to three banners no larger than 32 square feet in size are allowed per site.  Only one of these banners may be hung on each building wall or on each separate structure.  Additional banners, or banners larger than 32 square feet in size, must meet the following standards:
+(1)  In no case may a site have more than four temporary banners.
+
+(2)  Up to one temporary banner larger than 32 square feet in size is allowed per site.  This banner may be no larger than 50 square feet in size.
+
+(3)  Banners larger than 32 square feet in size, or in excess of three banners, may be hung for up to 180 days per calendar year.
+
+(4)  Banners that do not meet the regulations of this subparagraph, must meet the standards for permanent signs.
+
+d.  CE, E, and I zones.  In the CE, E, and I zones, up to three banners no larger than 32 square feet in size are allowed per site.  Only one of these banners may be hung on each building wall or on each separate structure.  Additional banners, or banners larger than 32 square feet in size, must meet the following standards:
+(1)  In no case may a site have more than four temporary banners.
+
+(2)  Up to one temporary banner larger than 32 square feet in size is allowed per site.  This banner may be no larger than 100 square feet in size.
+
+(3)  Banners larger than 32 square feet in size, or in excess of three banners may be hung for up to 180 days per calendar year.
+
+(4)  Banners that do not meet the regulations of this subparagraph, must meet the standards for permanent signs.
+
+4.  Balloon signs.  One balloon sign is allowed per site for a maximum of one week per calendar year in the RX, C, CI, E, and I zones.  Temporary balloon signs may be located on a building rooftop. The vertical dimension of the balloon may not exceed 25 feet.
+
+5.  Temporary fascia signs.  One temporary fascia sign is allowed per street frontage in the RX, C, CI, E, and I zones.  Temporary fascia signs may be up to 32 square feet in area.  Temporary fascia signs may not extend above roof lines.  Extensions into the right-of-way are prohibited.  A temporary fascia sign may be hung for two continuous periods of up to 180 days per year.  A temporary fascia sign may be installed for an additional 360 days if it meets the registration requirements of 32.62.010.
+
+6.  Temporary freestanding signs.  One temporary freestanding sign is allowed per site in the RX, C, CI, E, and I zones.  However, larger sites may install one temporary freestanding sign per 300 feet of arterial street frontage.  Temporary freestanding signs may be up to 32 square feet in area.  Temporary freestanding signs may have an additional face up to 32 square feet in size if the angle between the sign faces is less than 90 degrees.  Extensions into the right-of-way are prohibited.  A temporary freestanding sign may be up for two continuous periods of up to 180 days per year.  A temporary freestanding sign may be installed for an additional 360 days if it meets the registration requirements of 32.62.010.
+
+7.  Temporary portable signs.
+a.  Temporary portable signs are allowed in all zones.
+
+b.  Size.  Temporary portable signs may be up to 4 square feet in area.  Only one side of a temporary portable sign will be counted.  The vertical dimension of the sign including support structure may be no greater than 24 inches.
+
+c.  Placement.  Temporary portable signs must be entirely on private property or they must meet the placement standards of Subsection 32.32.030 C., Signs extending into the right-of-way.
+
+d.  Hours of use.  Temporary portable signs are allowed only between the hours of six (6) p.m. Friday and eight (8) p.m. Sunday, and the hours of six (6) a.m. and one (1) p.m. on Tuesdays.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Chapter 32.34 Additional Regulations for Specific Uses, Overlay Zones, and Plan Districts
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+32.34.010 Additional Standards for Specific Uses.
+
+
+
+
+A. Bed and Breakfast facilities. Sites with Bed and Breakfast facilities must meet the sign regulations for Household Living.
+
+B. Short Term Housing. Sites with Short Term Housing or Mass Shelters must meet the sign regulations for Household Living.
+
+C. Temporary Activities. Permanent signs associated with Temporary Activities are prohibited. All signs associated with a Temporary Activity must be removed when the activity ends.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+32.34.020 Additional Standards in Overlay Zones.
+
+
+
+
+(Amended by Ordinances 176469, 178172, 179092, 185915, 188959, 190477 and 190687, effective March 1, 2022.)
+
+Overlay zones are shown on the Official Zoning Maps.
+
+A.  Buffer Overlay Zone
+1.  Where this regulation applies.  The regulation of this subsection applies to signs within the Buffer Overlay Zone.
+
+2.  Regulation.  Signs are prohibited in the Buffer Overlay Zone.
+
+B.  Design Overlay Zone
+1.  Where these regulations apply.  The regulations of this subsection apply to exterior signs in excess of 32 square feet within the Design Overlay Zone, and signs over 3 square feet if they are within 50 feet of the Halprin Open Space Sequence historic district inthe South Auditorium plan district.  However, signs are not required to go through design review if they meet one of the following standards:
+a.  The sign is a portable sign, lawn sign, directional sign or temporary sign; or
+
+b.  The sign is a part of development exempt from design review under Section 33.420.045, Exempt from Design Review.
+
+2.  Awnings.  Awnings within the Design Overlay Zone are subject to Chapter 33.420.  Awnings must also meet the requirements of Chapter 32.52 of this Title.
+
+3.  Regulations.
+a.  Generally.  Signs must either meet the Design Standards in Subparagraph B.3.c., below or go through Design Review, as described in this paragraph.  The Design Standards provide an alternative process to design review for some proposals.  Where a proposal is eligible to use the Design Standards, the applicant may choose to go through the discretionary design review process set out in Chapter 33.825, Design Review, or to meet the objective standards of Subparagraph B.3.c., below.  If the proposal meets the Design Standards, no design review is required.  Proposals that are not eligible to use the Design Standards, that do not meet the Design Standards, or where the applicant prefers more flexibility, must go through the design review process.
+
+b.  When Design Standards may be used.  See Chapter 33.420, Design Overlay Zone.
+
+c.  Design Standard for signs.  In the C, E, and I zones, signs must meet the sign regulations of the RX zone.  Signs with a sign face area of over 32 square feet may not face an abutting regional trafficway or any Environmental Protection Overlay Zone, Environmental Conservation Overlay Zone, or River Natural Greenway Overlay Zone that is within 1,000 feet of the proposed site.
+
+C.  Historic Resource Overlay Zone
+1.  Where these regulations apply.  The regulations of this subsection apply to signs on sites with the historic resource overlay zone.  However, signs are not required to go through historic resource review if they meet one of the following standards:
+a.  The sign is a portable sign, lawn sign, or temporary sign; or
+
+b.  The sign is exempt from historic resource review under Sections 33.445.100.D., Development within a Historic Landmark boundary; 33.445.110.D., Development within a Conservation Landmark boundary; 33.445.120.D., Development within a National Register Landmark boundary; 33.445.200.D,. Development in a Historic District; 33.445.210.D., Development in a Conservation District; or 33.445.220.D., Development in a National Register District.
+
+2.  Regulations.
+a.  Generally.  Signs must either meet the Community Design Standards in Subparagraph C.2.c., below, or go through historic resource review, as described in this paragraph.  The Community Design Standards provide an alternative process to historic resource review for some proposals.  Where a proposal is eligible to use the Community Design Standards, the applicant may choose to go through the discretionary historic resource review process set out in Chapter 33.846, Historic Resource Reviews, or to meet the objective standards of Subparagraph C.2.c.  If the proposal meets the Community Design Standards, no historic resource review is required.  Proposals that are not eligible to use the Community Design Standards, that do not meet the Community Design Standards, or where the applicant prefers more flexibility, must go through the historic resource review process.
+
+b.  When Community Design Standards may be used.  See Chapter 33.445, Historic Resource Overlay Zone.
+
+c.  Community Design Standard for signs.  In the C, E, and I zones, signs must meet the sign regulations of the RX zone.  Signs with a sign face area of over 32 square feet may not face an abutting regional trafficway or any Environmental Protection Overlay Zone, Environmental Conservation Overlay Zone, or River Natural Greenway Overlay Zone that is within 1,000 feet of the proposed site.
+
+D.  Scenic Resource Overlay Zone
+1.  Where these regulations apply.  The regulations of this subsection apply to signs within Scenic Resource Overlay Zone.
+
+2.  Regulations.
+a.  View corridors.  The standards of this subparagraph apply to signs within areas designated as view corridors in the Scenic Resources Protection Plan.  All signs within the designated view corridors are subject to the height limits of the base zone, except when a more restrictive height limit is established for the view corridor by the Scenic Resources Protection Plan.
+
+b.  Scenic corridors.  The standards of this subparagraph apply to signs within areas designated as scenic corridors in the Scenic Resources Protection Plan. The standards of this subparagraph apply within the street setback adjacent to the identified resource or within the first 20 feet from the resource if no setback exists.  The maximum height of a freestanding sign is 15 feet.  The maximum size of a freestanding sign is 100 square feet.  Changing image signs are prohibited. When they are more restrictive, the sign standards of the base zone supersede the regulations of this subparagraph.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+32.34.030 Additional Standards in Plan Districts.
+
+
+
+
+(Amended by Ordinances 176469, 179092, 182072, 188959, 189805, 190477, and 191959, effective March 1, 2025.)
+
+Plan districts are shown on the Official Zoning Maps.
+
+A.  Central City plan district
+1.  Signs in the Open Space Zone
+a. Purpose.  Signs in the Open Space zone are limited in keeping with the low intensity of most uses in the zone.  However, the more intense uses allowed in Central City plan district Open Space zones necessitate more visible signage.  These regulations are tailored to those uses.
+
+b. Sign standards.  The following regulations apply to sites in the Open Space zone.
+(1) The sign regulations of the CX zone apply to sites with allowed Major Event Entertainment and Commercial Outdoor Recreation uses.
+
+(2) The sign regulations of the RX zones apply to sites with allowed Retail Sales and Service uses.
+
+2. Signs in the Rose Quarter Event Sign District
+a. Purpose. The sign regulations for the Rose Quarter Event Sign District support the district’s role in providing opportunities for public outdoor gatherings in the common spaces including when events are taking place inside the venues. The regulations provide flexibility for the number, size and placement of signs, while also protecting motorists on adjacent freeways and streets from the distraction of large and animated signs. The regulations for this sign district recognize the changing use of signs and sign technology as part of major event entertainment uses.
+
+b. Where these regulations apply. The regulations of this paragraph apply to signs within the boundary of the Rose Quarter Event Sign District shown on Map 6.
+
+c. Sign standard. Signs within the Rose Quarter Event Sign District are subject only to the following regulations. If there are no regulations for a particular type of sign, then that sign is allowed. For purposes of this Subsection, freeways are Regional Trafficways that are not also classified as Major City Traffic Streets by the Transportation Element of The Comprehensive Plan. The Regional Trafficways are the I-5, I-84, I-205, I-405 freeways, US Highway 30 between I-405 and NW Nicolai, and US Highway 26 west of the I-405 freeway:
+(1) All signs. All permanent and temporary signs must meet the registration and permit requirements in Chapter 32.62.
+
+(2) Maximum size allocation. The maximum amount of permanent signage in the sign district is limited to 40,000 square feet. The following signs are not included in this total:
+(a) Signs that do not require a sign permit;
+
+(b) Rooftop signs that are parallel to the roof surface; and
+
+(c) Temporary signs meeting Subsection (4) below.
+
+(3) Freestanding signs. The height limit for freestanding signs located within 50 feet of a right-of-way is 35-feet. The height limit applies to the total height of the combined sign face and sign structure.
+
+(4) Temporary signs. Temporary signs that meet the following are allowed for a period of up to 180 days in a calendar year. Signs meeting these standards are not subject to Design Review. Signs that do not meet the standards of this subsection are subject to the standards for permanent signs:
+(a) Temporary sign size limits. The following limits apply to temporary signs:
+(i) Temporary banners are limited to 500 square feet;
+
+(ii) Temporary fascia signs are limited to 100 square feet; and
+
+(iii) All other temporary signs are limited to 32 square feet.
+
+(b) Temporary signs may not have direct or internal illumination, unless the message or image is created by light projected onto a surface. A temporary sign can be illuminated by indirect lighting if the lighting is shielded and directed down to the ground. Changing image sign features and electronic elements are prohibited on temporary signs.
+
+(c) Temporary signs must be located outside the right-of-way.
+
+(d) Temporary balloon signs are prohibited.
+
+(5) Changing image signs.
+(a) Prohibition. Changing image signs are prohibited in the following locations:
+(i) Within 100 feet of a freeway right-of-way unless the entire changing image sign is beneath the level of the surface of the roadway.
+
+(ii) On a rooftop or projecting above the roof.
+
+(b) Standards for changing image elements within freestanding signs. Changing image signs that are part of freestanding signs located within 50 feet of a right-of-way that is not a freeway are limited to a maximum size for the changing image elements of 100 square feet and a maximum number of eight signs with changing image elements. There are no limitations on the size or number of changing image signs that are part of freestanding signs located more than 50 feet from a right-of-way that is not a freeway.
+
+(c) Duration. Changing image signs larger than 100 square feet may not be turned on between the hours of 12:00 am and 6:00 am. For events that end between 11:00 pm and 5:00 am, the changing image sign must be turned off no later than one hour after the event ends.
+
+(d) Brightness. Changing image signs visible to properties outside of the combined boundaries of this sign district and the Veterans Memorial Coliseum historic landmark are subject to the glare standard of Subsection 33.262.080.A.
+
+(6) Signs other than changing image signs adjacent to freeways. Signs that are within 100 feet of a freeway right-of-way and that face the freeway may not exceed 1,000 square feet in area. If the entire sign is beneath the level of the surface of the roadway, it is exempt from this standard.
+
+(7) Lighting. All indirect lighting of signs must be shielded and directed down to the ground.
+
+(8) Unless exempted above, all signs are required to meet the regulations of Portland City Code Chapter 33.420, Design overlay zone.
+
+B.  Columbia South Shore plan district
+1.  Purpose.  Signs in this plan district should not dominate the landscape or compete with views of streetscapes, view corridors and natural resources.  Sign standards are intended to allow for signs to be visible to streets that abut the site, but not to interstate freeways and locations outside the district.  Businesses are encouraged to rely on monument signs to identify and communicate their presence.
+
+2.  Where these regulations apply.  The regulations of this subsection apply to signs in the Columbia South Shore plan district.
+
+3.  Sign standards.
+a.  Signs must conform to the sign standards of the CX zone as modified by the requirements of this subsection.  When they are more restrictive, the regulations of the base zone supersede the regulations of this subsection. Adjustments to this subsection are allowed only for the sign height on sites more than 10 feet below the level of the surface of the adjacent roadway.  All other sign adjustments are prohibited.
+
+b.  The following signs are prohibited:
+(1)  Freestanding signs, except monument signs, temporary freestanding signs, and directional signs;
+
+(2)  Changing image signs; and
+
+(3)  Awning signs with illumination internal to the awning.
+
+c.  Monument signs.  One monument sign is allowed per street frontage.  Monument signs are allowed to a maximum height of 6 feet above the adjacent sidewalk and a maximum of 10 feet in length.  The end width of the monument structure may not exceed 2 1/2 feet.  Signage may be located on two parallel monument faces.
+
+d.  Signs along Marine Drive.  Signs are prohibited within 200 feet of the toe of the levee slope, except for directional signs.  Between 200 and 500 feet from toe of the levee slope, signs that face Marine Drive are limited to 1/2 square foot of sign face area per lineal foot of building wall, with a maximum sign area of 100 square feet.
+
+C.  Hillsdale plan district.
+1.  Where this regulation applies.  The regulation of this subsection applies to signs in the Hillsdale plan district.
+
+2.  Sign standard.  Portable signs are prohibited in the right-of-way in the Hillsdale Plan District.
+
+D.  Macadam plan district
+1.  Where these regulations apply.  The regulations of this subsection apply to signs in the Macadam plan district.
+
+2.  Standards.
+a.  Freestanding signs are limited to 1/2 square foot of sign face area per lineal foot of arterial street frontage.  Signs attached to buildings, marquees, or other structures are limited to 1/2 square foot of sign face area per lineal foot of primary building wall.  Maximum sign face area is 100 square feet.
+
+b.  The maximum height of a freestanding sign is 15 feet.
+
+c.  Changing image sign features are prohibited.
+
+E.  Portland International Raceway plan district
+1.  Where these regulations apply.  The regulations of this subsection apply to signs in the Portland International Raceway (PIR) plan district.
+
+2.  Standard.  Signs must conform to the sign program of an approved PIR Master Plan.  See Chapter 33.564, Portland International Raceway Plan District.
+
+F.  South Auditorium plan district
+1.  Where these regulations apply.  The regulations of this subsection apply to the South Auditorium plan district.
+
+2.  Standards.
+a.  Design review.  Unless exempted under Subparagraphs F.2.f. and g., below, all exterior signs are subject to the regulations of Chapter 33.420, Design Overlay Zone.
+
+b.  Projecting signs.  Projecting signs are prohibited.
+
+c.  Signs for Retail Sales And Service uses.  All signs on sites with Retail Sales And Service uses must be fascia signs.  The total square footage of signs per retail tenant space must not exceed 1 square foot of sign for each lineal foot of primary building wall of tenant space.
+
+d.  Signs for residential-only developments.  Sites developed with only residential uses are limited to one fascia sign not exceeding 10 square feet in total area.
+
+e.  Signs for other uses and developments.  The maximum total sign area allowed per frontage for uses or developments not listed in Subparagraphs F.2.c. and d., above is 1 square foot for each 3 lineal feet of primary building wall.  Only signs attached to buildings are allowed, except in a commercial zone where up to two freestanding signs per arterial street frontage are allowed.  One sign is not allowed to exceed 12 feet in height and 100 square feet in area, and the other sign is not allowed to exceed 5 feet in height and 10 square feet in area.  The regulations of the base zone supersede the regulations of this subparagraph when they are more restrictive.
+
+f.  Temporary signs, portable signs, and lawn signs.  Temporary signs, portable signs, and lawn signs are exempt from the sign regulations of Subparagraph F.2.a. through e., above.  Temporary signs and portable signs are limited to a total combined area of 25 square feet per site.
+
+g.  Directional signs.  Directional signs are exempt from the sign regulations of Subparagraph F.2.c. through e., above.
+
+G.  Cascade Station plan district.
+1.  Where this regulation applies.  The regulation of this subsection applies to signs in Subdistrict A of the Cascade Station plan district.
+
+2.  Sign standard.  When a Cascade Station Sign Program has been approved, signs are exempt from the provisions of Chapter 32.30 through 32.38 of this Code.  Until such time as a Sign Program is approved, signs will be subject to the provisions of Chapters 32.30 through 32.38.
+
+H.  Hollywood plan district.
+1.  Where this regulation applies.  This regulation applies to signs associated with new development on sites with frontage on the Enhanced Pedestrian Streets shown on Map 536-3 in Chapter 33.536, Hollywood Plan District.  Alterations or exterior improvements to existing development are exempt from this regulation.
+
+2.  Freestanding signs are prohibited.
+
+I.  North Interstate plan district.
+1.  Purpose. Encouraging retention of the mid-century signs identified in this subsection will represent Interstate Avenue Corridor’s rich past as US Route 99, which was the West Coast’s major north-south highway before Interstate 5 was built. Because their current locations may preclude desired development, allowing them to move to other locations along the corridor is necessary to ensure preservation.
+
+2.  Where these regulations apply. The regulations of this subsection apply only to signs in the North Interstate plan district listed in Paragraph I.4.
+
+3.  Relocation allowed. The special signs listed in Paragraph I.4., below, may be relocated as follows:
+a.  The sign may be moved to another location on the site where it is currently located, or to another location that meets the requirements of this subsection;
+
+b.  The receiving site must have frontage on North Interstate Avenue between N. Argyle St. and N. Fremont St.;
+
+c.  The receiving site must be zoned either CI1, CI2, CM2 or CM3;
+
+d.  Signs removed from their sites may be stored elsewhere before relocation;
+
+e.  Relocated signs are subject to discretionary Design Review. Design review will consider the location of the sign on the site, the visual relationship of the sign structure to other development on the site, and the visual relationship to North Interstate Avenue; in a content-neutral manner as provided in Section 32.38.010;
+
+f.  Relocated signs that are nonconforming as to size, height, lighting, or area of changing image do not have to come into conformance with the requirements of Chapters 32.30 through 32.38. However, they may not move further out of conformance with the size, height, and lighting regulations unless an adjustment or modification is approved. Increases to the area of changing image on a relocated sign are only allowed as provided in Section 32.32.030;
+
+g.  Relocated signs do not count towards the maximum sign allocation on the receiving site; and
+
+h.  Relocated signs are subject to the other requirements of this Title.
+
+4.  Special signs. The signs below may be relocated as specified in this subsection. The signs are:
+a.  Street address 4333 N. Interstate Avenue, also known as “The Westerner Motel sign.”
+
+b.  Street address 4024 N. Interstate Avenue, also known as “The Alibi sign.”
+
+c.  Street address 5226 N. Interstate Avenue, also known as “The Crown Motel sign.”
+
+d.  Street address 3801 N. Interstate Avenue #4, also known as “The Palms Motel sign.”
+
+e.  Street address 6701 N. Interstate Avenue , also known as “The Viking Motel sign.”
+
+f.  Street address 6423 N. Interstate Avenue, also known as “The Nite Hawk sign.”
+
+g.  Street address 4739 N. Interstate Avenue, also known as “The Budget Motel sign.”
+
+h.  Street address 5205 N. Interstate Avenue, also known as “The Super Value Motel sign.”
+
+i.  Street address 6049 N. Interstate Avenue, also known as “The Central Bowl sign.”
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Chapter 32.36 Nonconforming Signs
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+32.36.010 Purpose.
+
+
+
+
+The intent of these regulations is to protect the character of an area by reducing the negative impacts from nonconforming signs. At the same time, the regulations assure that the signs may continue and that the sign regulations will not cause unnecessary burdens. The intent of these regulations is not to force all signs to be immediately brought into conformance with current regulations; instead, the intent is to gradually bring existing signs into conformance.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+32.36.020 Regulations That Apply to All Nonconforming Signs.
+
+
+
+
+(Amended by Ordinance 176469, effective July 1, 2002.)
+
+A. Nonconforming permanent signs may continue to exist if they comply with the regulations of this chapter. Nonconforming signs that do not meet the regulations of this chapter have no legal right to continue and must be removed.
+
+B.  Signs established during a moratorium.
+1. Generally. Signs established in violation of a moratorium must be brought into compliance with the standards of this Title, except as provided in Paragraph B.2, below.
+
+2. Exception. Painted Wall Signs established during a moratorium, where permits were applied for before the effective date of the moratorium, are considered legal, nonconforming signs, and may remain. The effective date of the moratorium on Painted Wall Signs in the Central City plan district was December 16, 1997. The effective date of the moratorium on Painted Wall Signs outside the Central City plan district was August 12, 1998.
+
+C. Sign maintenance, sign repair, and changing of permanent sign faces is allowed so long as structural alterations are not made and the sign is not increased in size.
+
+D. Permanent signs and sign structures that are moved, replaced, or structurally altered must be brought into conformance with the sign regulations. However, nonconforming signs required to be moved because of public right of way improvements may be re-established. See paragraph 32.32.030 C.4, Removal of signs.
+
+E. Nonconforming temporary signs must be removed.
+
+F. Ownership. The status of a nonconforming sign is not affected by changes in ownership.
+
+G. Change to a conforming sign. A nonconforming sign may be altered to become or be replaced with a conforming sign by right. Once a sign is altered to conform or is replaced with a conforming sign, the nonconforming rights for that sign are lost and a nonconforming sign may not be re-established. Unless prohibited, proposed changes that are not in conformance are subject to the adjustment process.
+
+H. Loss of nonconforming sign status.
+1. Discontinuance. If a there is no sign in place on a sign structure or building wall for 6 continuous months, the nonconforming rights are lost and a nonconforming sign may not be re-established. If the sign structure is unused for less than 6 continuous months, a nonconforming sign may be re-established.
+
+2. Destruction. When a sign or sign structure is removed or intentionally destroyed, replacement signs and sign structures must comply with the current standards. However:
+a. Repair and maintenance. A nonconforming sign or sign structure may be removed temporarily to perform sign maintenance or sign repair. In order to preserve the nonconforming sign status, the person removing the sign must inform the Director, in writing, before the sign is removed. If the responsible party fails to inform the Director, any re-erected sign will be considered a new sign.
+
+b.  Unintentional destruction. When a sign or sign structure that has nonconforming elements is partially or totally damaged by fire or other causes beyond the control of the owner, the sign and sign structure may be rebuilt to the same size and height using the same materials. An adjustment is required to allow the replacement sign to be more out of compliance with the standards than the previous sign.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+32.36.030 Documenting a Nonconforming Sign.
+
+
+
+
+To document legal nonconforming status, the applicant must provide evidence to show that the sign was established prior to November 18, 1998 or allowed when established, and that the sign has been maintained over time. If the applicant provides standard evidence from the lists below, the Director will determine if the evidence is satisfactory. If the applicant provides evidence other than the standard evidence listed below, a Determination of Nonconforming Sign Status Review is required, as specified in Section 32.38.040.
+
+A. Sign established before November 18, 1998. If the sign was established before November 18, 1998, the applicant must provide evidence to show that the sign was established before November 18, 1998. Standard evidence that the sign was established before November 18, 1998 is:
+1. A building, zoning, sign or development permit;
+
+2. A photograph of the sign at its current location from the Official Sign Photo Inventory; or
+
+3. A date-stamped photograph of the sign at its current location.
+
+B. Sign legally established after November 18, 1998. If the sign was established after November 18, 1998, the applicant must provide evidence to show that the sign was allowed when established. Standard evidence that the sign was allowed when established is:
+1. Building, zoning, sign, awning or development permits; or
+
+2. Zoning codes or maps.
+
+C. Sign maintained over time. The applicant must provide evidence to show that the sign has been maintained over time. Standard evidence that the sign has been maintained over time is:
+1. Utility bills;
+
+2. Sign-specific property or income tax records;
+
+3. Business licenses;
+
+4. Listings in telephone, business, or Polk directories;
+
+5. Advertisements in dated publications;
+
+6. Building, sign, land use, or development permits; or
+
+7. Records of sign lease agreements.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Chapter 32.38 Land Use Reviews
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+32.38.010 General.
+
+
+
+
+(Amended by Ordinance 185915, effective May 1, 2013.)
+
+A.  Procedures.  Land use reviews of signs are administered under the provisions of Title 33, Planning and Zoning as modified by this chapter.
+
+B.  Adjustments and Modifications.  Requests for adjustments from the regulations of Chapters 32.30 through 32.38 are reviewed under Section 32.38.030, Adjustments.  Modifications from the regulations of Chapters 32.30 through 32.38 through Design Review or Historic Resource Review are reviewed as specified in Chapters 33.825 and 33.846 of the Zoning Code.  When the provisions of this Title prohibit adjustments, applications for adjustments will not be accepted.
+
+C.  Content-Neutral Administration of Land Use Reviews.  Notwithstanding any other provision of this Title or of related standards referenced in this Title, applications for adjustments, design review, and historic resource review for signs will be reviewed only with respect to sign structure or placement, or with reference to copy only to the extent of color or typeface and excluding any reference to message, category, subject, topic, or viewpoint.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+32.38.020 Design Review and Historic Resource Review.
+
+
+
+
+(Amended by Ordinance 185915, effective May 1, 2013.)
+
+Where design review or historic resource review is required by this Title, the awning or sign will be reviewed in accordance with the provisions of either Zoning Code Chapter 33.825, Design Review or Chapter 33.846, Historic Resource Review.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+32.38.030 Adjustment Review.
+
+
+
+
+A. Purpose. Sign adjustments are intended to allow flexibility to the sign regulations while still fulfilling the purpose of the regulations. The specific approval criteria allow signs that enhance the overall character of an area or allow for mitigation of unusual site conditions.
+
+B. Procedures. The adjustment procedures stated in Chapter 33.805, Adjustments, apply to sign adjustments. However, the approval criteria of this section are used, rather than of those of Chapter 33.805 of the Zoning Code.
+
+C. Approval criteria. Sign adjustments will be approved if the review body finds that the applicant has shown that the criteria of Paragraph C.1. or 2, below are met.
+1. Area enhancement. The applicant must meet criteria C.1.a. and b. and either C.1.c. or d.
+a. The adjustment for the proposed sign will not significantly increase or lead to street level sign clutter, to signs adversely dominating the visual image of the area, or to a sign that will be inconsistent with the objectives of a specific plan district or design district; and
+
+b. The sign will not create a traffic or safety hazard; and
+
+c. The adjustment will allow a unique sign of exceptional design or style that will enhance the area or that will be a visible landmark; or
+
+d. The adjustment will allow a sign that is more consistent with the architecture and development of the site.
+
+2. Site difficulties. If there are unusual site factors that preclude an allowed sign from being visible to the street immediately in front of the site, an adjustment will be granted to achieve the visibility standards of Subparagraph d below. This adjustment is not intended to be used to make signs visible to other streets and rights of ways or to freeways. Site difficulties may include the sign face being blocked due to topography of the site, existing development or landscaping on the site, or from abutting development or landscaping. This set of adjustment criteria is generally intended for freestanding and projecting signs and allows greater flexibility in placement of the sign. The adjustment will be approved if all of the following criteria are found to be met:
+a. There is no reasonable place on the site for an allowed sign without an adjustment to achieve the visibility standards of Subparagraph d below;
+
+b. If the proposed sign extends into the right-of-way, the sign will not create a traffic or safety hazard;
+
+c. Of potential adjustments to meet the visibility standard of Subparagraph d., the request is the most consistent with the surrounding development and sign patterns; and
+
+d. The adjustment is the minimum needed for a sign to meet the following visibility standards:
+
+Posted Road SpeedVisibility To Travel Lanes On The Street In Front Of The Site
+
+35 mph or less200 feet
+
+40-50 mph300 feet
+
+55 mph or more400 feet
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+32.38.040 Determination of Nonconforming Sign Status Review.
+
+
+
+
+A.  Purpose. This review determines if a sign has legal nonconforming sign status.
+
+B. When this review is required. A Determination of Nonconforming Sign Status Review is required where a land use review or permit for a sign is requested, and the applicant does not provide standard evidence or the Director does not find the evidence to be satisfactory. This review also may be requested by an applicant when it is not required.
+
+C. Procedure. Determination of Nonconforming Sign Status Reviews are processed through a Type II procedure. See Zoning Code Chapter 33.730, Quasi-Judicial Procedures.
+
+D. Approval criteria. The legal nonconforming status of a sign will be certified if the review body finds that the applicant has shown that the following approval criteria have been met. The applicant must show that the sign meets criteria D.1. and either criteria D.2 or D.3:
+1. The sign has not been moved, structurally altered, or increased in size since November 17, 1998; and
+
+2. The sign existed before November 18, 1998; or
+
+3. The sign would have been allowed when established.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Chapter 32.40 General
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+32.40.010 General.
+
+
+
+
+The regulations in Chapters 32.40 through 32.44 are construction regulations which work in combination with Title 24, Building Regulations, and Title 26, Electrical Regulations. These standards are not land use regulations. The standards in Chapter 32.42 require signs to be compatible with the structural and electrical standards of the State Building Code. These standards apply to all signs at all locations.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Chapter 32.42 Structural and Electrical Regulations
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+32.42.010 Construction and Structural Requirements.
+
+
+
+
+A.  Structural standards.
+1. Signs, sign structures, sign foundations and methods to attach and anchor signs must be designed and constructed in accordance with applicable provisions of the Building Code. All signs and their foundations and attachments must be designed for the appropriate dead and seismic loads. Exterior signs must also be designed to support appropriate snow and wind loads.
+
+2. Signs erected within 5 feet of an exterior wall opening must be constructed of noncombustible or other approved materials.
+
+3. The supports and foundations used in construction for all signs and sign structures must be located outside of any rights-of-way. Portable signs may be located in the right of way if they meet the standards of Subsection 32.32.030 B, Signs extending into the right-of-way.
+
+4. Welds of sign structures must be welded in accordance with the Building Code. Welding must be done by approved welders as provided in the Building Code.
+
+B. Engineering standards. Signs, sign structures, sign foundations and anchorages to a building must be individually designed in accordance with the Building Code and the provisions of this Title.
+
+Exceptions:
+1. Pre-Approved sign designs. The Director may approve structural sign designs which can be used for more than one sign at more than one site. Subsequent permit applications can reference pre-approved sign designs. Requests for pre-approved sign designs must include appropriate plans and calculations prepared and stamped by an Oregon licensed engineer. The following types of sign designs may be pre-approved:
+a. Freestanding signs that are symmetrically balanced on the sign structure and sign foundation, that have a maximum of 200 square feet of sign area, and that have a maximum height from the lowest ground level below the sign to the top of sign of 25 feet.
+
+b. Freestanding signs that are asymmetrically balanced on a sign structure and foundation, that have a maximum of 200 square feet of sign area, and that have a maximum height from the lowest level of ground below the sign to the top of the sign of 25 feet.
+
+c. Projecting wall mounted signs that have a maximum of 200 square feet of sign area and that provide at least 8 feet below the sign to the highest ground level. Pre-approved sign designs for projecting signs will be limited to the attachment methods and materials and the wall materials specified in the request and approved by the Director.
+
+2. Flush mounted signs. Signs that are mounted flush to a wall if the sign does not weigh more than 7 pounds per square foot or, in total, weigh more than 400pounds.
+
+3. Temporary banners. Temporary banners less than 50 square feet in area, must be attached to a structure at least at the four corners of the banner. Temporary banners 50 square feet in area or larger must be attached the structure at least at the 4 corners and at the midpoints of the two longest sides. Temporary banners may be attached as prescribed in this paragraph along the top edge and weighted at the bottom edge.
+
+4. Permanent banners. Permanent banners must be attached to a structure in one of the following manners:
+a. Continuously along two sides of the banner for the full dimension of the banner; or
+
+b. At each corner of the banner and at intervals no greater than 18 inches along the perimeter of the banner.
+
+C. Clearances.
+1. Vision clearance areas.
+a. Vision clearance areas. Vision clearance areas are triangular-shaped areas located at the intersection of any combination of rights-of-way, alleys or driveways. The sides of the triangle extend 15 feet from the intersection of the vehicle travel areas. See Figure 15a and b. The height of the vision clearance area is from 42 inches above the ground to 10 feet above the ground immediately below the sign or awning. See Figure 15c.
+
+b. Signs in vision clearance areas. Signs may not be located within a vision clearance area as defined in this paragraph. Support structures for a sign may only be located in a vision clearance area if the combined total width is 12 inches or less and the combined total depth is 12 inches or less.
+
+2. Vehicle area clearances. In areas outside of rights-of-way, when a sign or awning extends over where vehicles travel or are parked, the bottom of the structure must be at least 14 feet above the ground. Vehicle areas include driveways, alleys, parking areas, and loading and maneuvering areas.
+
+3. Pedestrian area clearances. When a sign or awning extends over a sidewalk, walkway or other space used by pedestrians, the bottom of the structure must be at least 8 feet above the ground. Free-hanging valances made of fabric or other non-rigid material hung on signs, awnings, and marquees must be at least 7 feet above of a sidewalk, walkway or other space used by pedestrians.
+
+4. Clearances from fire escapes, means of egress or standpipes. Signs, sign structures and awnings are prohibited from being erected in any manner that interfere in any way with the free use of any fire escape, means of egress or standpipe. Attaching signs, sign structures or awnings to a fire escape is prohibited.
+
+5. Obstruction of windows and ventilation. Signs, sign structures and awnings are prohibited from being installed in any way that obstructs any building openings to such an extent that light, ventilation or exhaust are reduced to a level below that required by either the Building Code; Title 25, Plumbing Regulations; Title 27, Heating and Ventilating Regulations or Title 29 Housing and Maintenance Regulations.
+
+6. Access to signs. Access clear of all obstructions must be provided to all signs. The access path must be at least 3 feet wide and 4 feet high. In the case of an roof sign, the access must be provided above the roof and set back from any parapet.
+
+View full size image of Vision clearance area as described in Section 32.42.010 Construction and Structural Requirements.
+
+View full size image of Vision clearance area for driveways and vision clearance area height as described in Section 32.42.010 Construction and Structural Requirements.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+32.42.020 Electrical Requirements.
+
+
+
+
+A. Electrical components of signs and of lighting projected on a sign or to create a sign must comply with the requirements of the Electrical Code.
+
+B. Horizontal and vertical clearances between power conductors and signs and sign structures must be as specified in the Electrical Code.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+32.42.030 Maintenance Requirements.
+
+
+
+
+A. General. Signs, sign structures and awnings, together with their supports, braces, guys, anchors and electrical components must be maintained in a proper state of repair. The Director may order the removal of any sign, sign structure or awning that is not maintained in accordance to this Title.
+
+B. Dangerous structures and equipment.
+1. Signs, sign structures or awnings that are dangerous must be taken down and removed or made safe as the Director deems necessary. Signs may be deemed dangerous for one or more of the following reasons:
+a. Whenever a sign structure or its foundation, a sign’s attachments to a building, or a building to which a sign is attached is damaged by fire, earthquake, wind, flood or by any other cause, to such an extent that the structural strength or stability is materially less than it was before the catastrophe and is less than the minimum requirements of the Buildings Code;
+
+b. Whenever any portion or member of a sign, sign structure or awning is likely to fail, or become detached or dislodged, or to collapse and thereby injure persons or property;
+
+c. Whenever any portion or member of a sign, sign structure or awning is likely to partially or completely collapse as a result of any cause, including, dilapidation, deterioration, or decay; faulty construction or wiring; or removal, movement or instability of any portion of the ground or building necessary for supporting such structure; or
+
+d. Whenever a sign, sign structure or awning is structurally or electrically unsafe or otherwise hazardous to human life or safety by reason of inadequate maintenance, dilapidation, obsolescence, fire hazard, disaster, damage or abandonment.
+
+2. All signs, sign structures and awnings determined after inspection by the Director to be dangerous must be abated by repair, rehabilitation, demolition or removal according to the procedures specified in Title 29, Housing and Maintenance Regulations.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Chapter 32.44 Alternative Methods of Constructions
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+32.44.010 Review of Alternative Methods of Construction.
+
+
+
+
+Alternative methods of construction may be approved by the Director for signs, sign structures and awnings as prescribed in this Chapter.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+32.44.020 Alternative Building Construction Methods.
+
+
+
+
+The Director may approve alternative materials, designs or methods of construction other than those prescribed in the Chapters 32.42, Structural and Electrical Regulations and 32.52, Awnings. Alternative methods of construction for Section 32.42.010, Construction and Structural Requirements and 32.52.010, Structural Standards must be reviewed and approved under procedures established in the Building Code. The Director must find that the proposed design is satisfactory and complies with the intended purpose of the non-land use provisions of this Title and are at least the equivalent of that prescribed in this Title in suitability, strength, effectiveness, fire resistance, durability and safety.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+32.44.030 Alternative Electrical Construction Methods.
+
+
+
+
+Where there are practical difficulties in meeting the provisions of Section 32.42.020, Electrical Requirements or Section 32.52.050, Electrical Requirements, the Director may approve alternative materials, designs, or methods of construction other than those prescribed in this Title. Alternative methods of construction for Sections 32.42.020 and 32.52.050 must be reviewed and approved under procedures established in the Electrical Code. The Director must find that the proposed design is satisfactory and complies with the intended purpose of the non-land use provisions of this Title and are at least the equivalent of that prescribed in this Title in suitability and do not lessen the safety of the electrical installation.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Chapter 32.50 Purpose
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+32.50.010 Purpose.
+
+
+
+
+The regulations in Chapters 32.50 through 32.54 are construction regulations which work in combination with Title 24, Building Regulations, and Title 26, Electrical Regulations to provide structurally and electrically safe awning installations. These standards are not land use regulations. The standards in Chapter 32.52 require awnings to be compatible with the structural and electrical standards of the State Building Code. These standards apply all awnings at all locations. Chapter 32.54 prohibits the installation of strobe lights.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Chapter 32.52 Awnings
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+32.52.010 Structural Standards.
+
+
+
+
+A. Exterior awnings, including those not located over a public right-of-way and interior awnings located within malls and atriums, must comply with the provisions of Chapter 32 of the Building Code and this Title. Awnings may be fixed or retractable.
+
+B. Exterior awnings must be designed to support appropriate snow and wind loads, including drifting.
+
+C. Awnings and methods to attach and anchor awnings to buildings must be designed and constructed in accordance with applicable provisions of the Building Code. All awnings and attachments must be designed for the appropriate dead and seismic loads. The awning framework must be capable of supporting not less than 15 pounds per square foot of uniform load over the entire horizontal projection without consideration of snow drifting.
+
+D. The supports for all awnings must be located outside of any right-of-way.
+
+E. Welds of awning frames must be welded in accordance with the Building Code. Welding must be done by approved welders as provided in the Building Code.
+
+F. Awning structures and anchorages to a building must be individually designed in accordance with the Building Code and the provisions of this Title, except as provided in Section 32.52.020, Pre-Approved Designs.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+32.52.020 Pre-Approved Designs.
+
+
+
+
+(Amended by Ordinance 178172, effective March 5, 2004.)
+
+The Director may approve structural awning designs which can be used for more than one awning at more than one site. Subsequent permit applications can reference pre-approved awning designs. Requests for pre-approved awning designs must include appropriate plans and calculations prepared and stamped by an Oregon licensed engineer. Pre-approved awning designs will be subject to the following limitations:
+
+A. Pre-approved designs are limited to awnings that are no more than 40 feet from the lowest ground level to the maximum height of the awning; and such awnings must comply with the pedestrian clearance requirements of Subsection 32.42.010 C, Clearances.
+
+B. Pre-approved designs for awnings will be limited to the attachment methods and materials and the wall materials specified in the request and approved by the Director.
+
+C. In the Design Overlay Zone, awnings using pre-approved designs are subject to Chapter 33.420, Design Review.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+32.52.030 Clearances.
+
+
+
+
+Awnings must be installed in accordance to the clearances specified in Subsection 32.42.010 C., Clearances.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+32.52.040 Awnings and Signs on Awnings.
+
+
+
+
+(Amended by Ordinance 178172, effective March 5, 2004.)
+
+Awnings and signs attached to or incorporated into awnings must comply with all applicable standards of Chapters 32.30 through 32.38.3
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+32.52.050 Electrical Requirements.
+
+
+
+
+A. Electrical components of awnings must comply with the requirements of the Electrical Code.
+
+B. Horizontal and vertical clearances between power conductors and any awning must be as required in the Electrical Code.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+32.52.060 Maintenance.
+
+
+
+
+Awnings must be maintained according to Section 32.42.030, Maintenance.  The Director may determine an awning is dangerous according to Subsection 32.42.030 B, Dangerous structures and equipment.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Chapter 32.54 Strobe Lights
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+32.54.010 Strobe Lights Prohibited.
+
+
+
+
+Strobe lights that are visible beyond the property line are prohibited. Existing strobe lights visible beyond the property line must be removed.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Chapter 32.60 General
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+32.60.010 Interpretations and Clarifications.
+
+
+
+
+A. The Director may issue interpretations on the meaning and intent of all chapters of this Title except Chapters 32.10 through 32.38. Such interpretations will conform to the purposes of this Title.
+
+B. Where language in Chapters 32.10 through 32.38 is ambiguous or unclear, the Director may issue a statement of clarification as set out in Subsection 33.700.070 B. of the Zoning Code.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+32.60.020 Rulemaking.
+
+
+
+
+(Amended by Ordinance 189078, effective July 18, 2018.)
+
+A.  The Director has the authority to adopt administrative rules and supplemental regulations related to the provisions of Chapters 32.40 through 32.68 of this Title.  The rules and regulations must be in conformance with the intent and purpose of this Title.  The Director has the authority to administer such rules and regulations.  Rules will be adopted according to the procedures in this section.
+
+B.  Permanent rules.
+1.  Prior to the adoption of a permanent rule, the Director will:
+a.  Publish a notice in a newspaper of general circulation in the City.  The notice must be published not less than thirty days before the hearing.   The notice must identify the place, time and purpose for the hearing; a brief description of the subjects covered by the proposed rule; the final date for acceptance of written comments; the location to submit comments and the location where copies of the full set of the proposed rules may be obtained.  A copy of the notice will be provided to the Office of Community & Civic Life at least thirty days before the hearing.
+
+b.  At the hearing, a designee of the Director will hear testimony and receive written comments regarding the proposed rules.  The designee will provide a recommendation to the Director.  The recommendation will take into consideration the comments received.
+
+c.  The Director will review the recommendation of the designee and may either adopt the proposed rule, modify or reject it.
+
+d.  If a substantial modification is made to the proposed rule, the Director may adopt the modification as an Interim Rule or provide additional public review prior to adoption.
+
+2.  Unless otherwise stated, all rules will be effective two weeks after adoption by the Director.
+
+C.  Interim rules.
+1.  An interim rule may be adopted by the Director without prior notice upon a finding that a failure to act promptly will result in a serious threat of injury or hazard to the public health or public or private property.  The rule will include specific reasons for the finding.
+
+2.  Interim rules will be effective for a period of not longer than 180 days.
+
+3.  Not more than 30 days after adoption of an interim rule, public notice of interim rules must be given by publication in a newspaper of general circulation and notice sent to the Office of Community & Civic Life.  Such notice must also identify the location at which copies of the full set of the interim rules may be obtained.
+
+D.  All final and interim rules must be filed in the offices of the Director.  All final and interim rules will be available to the public at the Development Services Center.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Chapter 32.62 Permits and Registration
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+32.62.010 Permit or Registration Required.
+
+
+
+
+(Amended by Ordinances 176469 and 191959, effective March 1, 2025.)
+
+A. General. No person, firm or corporation can erect, mount, install, construct, enlarge, structurally alter, move, display or electrify or connect a sign or awning, or cause the same to be done without first obtaining an awning permit, a sign permit or sign registration as provided in this section. Certain installations are exempt from permit or registration. Exemption from permit or registration does not grant authorization for any sign, sign structure or awning to be erected or structurally altered in violation of the provisions of this Title. Permanent signs that were not erected prior to November 18, 1998 nor were erected subject to a valid permit subsequent to that date, must be removed March 31, 2001, or the owner of such sign must obtain a valid permit.
+
+The following are exempt from permit and registration:
+1. Lawn signs;
+
+2.  Non-electrified directional signs;
+
+3. Temporary banners meeting the following standards:
+a. Up to three banners are allowed per lot in all zones;
+
+b. Each banner may be no larger than 32 square feet in area; and
+
+c. No more than one banner can be hung on each building wall or on each separate structure.
+
+4. Temporary fascia signs that are installed for 360 or fewer days;
+
+5. Temporary freestanding signs that are installed for 360 or fewer days;
+
+6. Temporary portable signs; and
+
+7. Signs that are being re-erected following sign repair and sign maintenance. When a sign is removed for repair and maintenance, the person removing the sign must inform the Director, in writing, before the sign is removed, otherwise the re-erected sign will be considered a new sign.
+
+B. Sign Permits. A sign permit must be obtained for all permanent signs other than signs on awnings. Indirect lighting for a sign requires a separate electrical permit. A sign permit must be one of the types listed below:
+1. Permanent sign;
+
+2. Permanent sign with internal or direct lighting or with other electrical component;
+
+3. Structural alteration to a sign; or
+
+4. Structural alteration to a sign including internal or direct lighting or other electrical components.
+
+C. Awning Permits. An awning permit must be obtained for all awnings and awning signs. Lighting for an awning requires a separate electrical permit. An awning permit must be one of the types listed below:
+1. Awning only;
+
+2. Awning with sign; or
+
+3. Sign addition to existing awning.
+
+D. Registration. Temporary banners, balloon signs and portable signs must be registered in accordance with this section. Signs that have been registered under this subsection are exempt from the permit requirements of Subsection B, above.
+1. Temporary banners and balloon signs.
+a. Registration requirements and time periods. The following temporary signs must be registered. Registration is limited to the time periods specified.
+(1) Balloon signs. Maximum registration period is one week per calendar year.
+
+(2) Temporary banners. The registration period for temporary banners is 30 days. The number of banners registered on a site may not exceed one for any registration period, except in the Rose Quarter Entertainment Sign District, shown on Map 6, where up to six banners may be registered during a registration period. Temporary banner registrations on a site may not exceed six registration periods in any calendar year. An individual banner may be registered for up to 6 registration periods. The following temporary banners must be registered:
+(a) Banners larger than 32 square feet in area;
+
+(b) Banners not larger than 32 square feet in area, but in excess of 3 on a single site; or
+
+(c) Banners not larger than 32 square feet in area, but in excess of one hung on the same wall or hung on the same structure.
+
+(d) Exception in the Rose Quarter Entertainment Sign District: In the Rose Quarter Entertainment Sign District, registration is not required for temporary banners that are not larger than 32 square feet in area.
+
+b. Temporary banners and balloon signs existing as March 1, 2001 must be registered by April 30, 2001. Banners that are not registered must either be allowed without registration under this code, be permitted as a permanent sign, or be removed. Temporary balloon signs that are not registered must be removed.
+
+2. Portable signs.
+a. All portable signs must be registered as provided in this section. Portable signs must be registered for either one or two years. Portable signs may be re-registered. Owners of the sign may choose either registration period for initial registration or each renewal. A Portable Sign registration is valid for the size and address for which the sign was specifically registered. Changes to the size or address of the portable sign require a new registration.
+
+b. Portable signs existing on March 1, 2001 must be registered by September 1, 2001. Portable signs that are not registered must be removed.
+
+3. Temporary fascia and temporary freestanding signs. Temporary fascia and temporary freestanding signs erected for more than 360 days must be registered. The maximum registration period is 360 days.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+32.62.020 Application Requirements.
+
+
+
+
+(Amended by Ordinance 176469, effective July 1, 2002.)
+
+A. General. The applicant must submit an application for a sign permit, awning permit or sign registration to the Director for review. The applicant may not commence any sign or awning installation before the Director has approved the requested permit or registration. A separate application is required for each sign or awning.
+
+B. Who may apply.
+1. The owner of a site on which a sign, sign structure or awning is to be placed must be the applicant for a permit or registration. The owner may authorize another responsible party to obtain a permit or registration. The Director may require written documentation of such authorization.
+
+2. Signs with electrical components. When a sign includes electrical components the applicant must either be a licensed State of Oregon electrical contractor or the owner of the property. Permits issued to property owners must comply with Paragraph 32.62.030 B.3.
+
+C. General application requirements. Applications for sign and awning permits and registrations must be made in writing upon forms furnished by the Director. The Director will determine the number of copies of each document and plan required for application. The application must contain the general information specified in Paragraphs C.1 through C.6., below and the additional information specified in Subsections D. through E., below, as appropriate to the application type.
+1. Address of the site on which the sign or awning is to be located;
+
+2. Property owner’s name and address;
+
+3. Sign owner’s name and address, when different than property owner;
+
+4. Authorization of property owner to apply for and erect sign;
+
+5. Contractor’s Registration number or numbers; and
+
+6. Applicant’s name, address and telephone number.
+
+D. Additional application requirements for permanent signs. In addition to the application requirements contained in Subsection C, applications for permits for permanent signs must include the following information:
+1. Method of attachment to building, foundation and other construction requirements specified in the plan standards of Subsection 32.62.020 H;
+
+2. Electrical component specifications;
+
+3. Sign dimensions and area;
+
+4. Height of sign and height of clearances above pedestrian areas or for vision clearances;
+
+5. For fascia signs, the weight of the sign;
+
+6. Sign type;
+
+7. Location on the property, building or structure;
+
+8. A listing of existing signs on the property including type, location and size;
+
+9. Calculations needed to show allowed, existing and proposed sign area;
+
+10. A site plan, drawn to scale, showing:
+a. Site address;
+
+b. Property lines and lengths of street frontages;
+
+c. Building footprint;
+
+d. Length of building walls that:
+(1) face a street and have a public entrance; and
+
+(2) for tenant spaces without street frontage, walls with a public entrance and face a parking area;
+
+e. Public entrance to each building and ground level tenant space;
+
+f. Names of abutting street(s);
+
+g. Vision clearance areas; and
+
+h. North arrow;
+
+11. Sign elevation drawing, drawn to scale, that includes:
+a. All details and dimensions of the sign;
+
+b. Type of material and all dimensions of supports and footings;
+
+c. Clearances above ground;
+
+d. Height above ground;
+
+e. Distance of any projecting sign extension into a right of way;
+
+f. Where a sign is attached to a building, the building roof line for the wall on which the sign will be mounted; and
+
+g. Type of lighting (if any).
+
+E. Additional application requirements for awnings. In addition to the application requirements contained in Subsection C., above, applications for permits for awnings, awnings with signs and awnings with electrical elements must include the following information:
+1. Method of attachment to building and other construction requirements specified in the plan standards of Subsection 32.62.020 H;
+
+2. Location of installation on wall;
+
+3. Clearances above ground or pedestrian walking surface;
+
+4. Height above ground;
+
+5. Distance of any extension into a right of way and relationship to curb;
+
+6. Type of lighting (if any); and
+
+7. For those awnings including signs, additional information as specified in Subsection D., above.
+
+F. Registration application for temporary banners and temporary balloon signs. Applications for registration of temporary banners and temporary balloon signs must be made in writing upon forms furnished by the Director. The application must contain the following information:
+1. Address of the site on which the banner or balloon sign is to be located;
+
+2. Property owner’s name and address;
+
+3. Applicant’s name, address and telephone number;
+
+4. Size of the banner or balloon;
+
+5. Building wall/location to mounted;
+
+6. Attachment/mounting method
+
+7. The number and size of other banners currently hung on the building and site; and
+
+8. Dates the banner or balloon is to be erected and removed.
+
+G. Registration application for portable signs. Applications for registration of portable signs must be made in writing upon forms furnished by the Director. The application for a portable sign must contain the information specified below:
+1. Portable sign owner’s name, address and telephone number;
+
+2. Applicant’s name, address and telephone number;
+
+3. Size, height and area of the portable sign; and
+
+4. For a portable sign registered to a specific site, the application must contain the following additional information:
+a. Address of the site on which the portable sign is to be located or the address of the site adjoining the portion of the right-of-way where the sign is to be located;
+
+b. Property owner’s name and address; and
+
+c. Number of public entrances to the building on the site.
+
+H. Registration application for temporary fascia and temporary freestanding signs. Applications for registration of temporary fascia and temporary freestanding signs must be made in writing upon forms furnished by the Director. The application must contain the information specified below:
+1. Property owner’s name and address;
+
+2. Applicant’s name, address, and telephone number;
+
+3. Size of temporary fascia or temporary freestanding sign;
+
+4. Location of installation on wall (for fascia signs) or on property (for freestanding signs); and
+
+5. Dates the temporary sign is to be erected and removed.
+
+I. Information on plans and drawings. All plans and drawings must be complete and drawn to scale. Line quality and contrast must be easily read and result in a readable document after photocopying, microfilming, scanning or similar reproduction. All plans and calculations must be on substantial paper. The plans must provide the appropriate wind, seismic, dead load and load combinations for each sign and awning. The plans must show the dimensions, materials, connections and attachments. If the sign or awning is to be attached to a building, the plans must contain information specifying the attachment methodology and information justifying the adequacy of building members to support the loads imposed by the sign, sign structure or awning. The plans for the foundation and attachment of permanent signs and awnings must be prepared and sealed by a State of Oregon registered engineer.
+
+J. Expiration of application. An application for a permit or registration for any proposed sign or awning will be deemed to have been abandoned 180 days after the date of filing, unless such application has been pursued in good faith or a permit or registration has been issued. The Director may grant one extension for a time not to exceed 180 days. The extension must be requested by the applicant in writing.
+
+K. Delegation of Registration. The Director is authorized to establish a program that delegates registration of signs through third parties. The Director must establish the program in accordance with the procedures established in Section 32.60.020, Rulemaking.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+32.62.030 Review of Applications and Issuance of Permits.
+
+
+
+
+(Amended by Ordinances 176469, 176955 and 191736, effective July 1, 2024.)
+
+A. Review of applications.
+1. General. Applications for sign permits and registrations will be reviewed for compliance with the requirements of this Title. Proposals for signs and awnings that are allowed without other reviews are reviewed for compliance with the requirements of this Title. The review is a nondiscretionary administrative review. Decisions on application are made by the Director and are final. The review will be done according to general operating procedures of the Portland Permitting & Development and the City.
+
+2. Actions of the Director. Where the Director finds that a proposed sign or awning does not comply with this Title, the Director must either require revisions to the proposal, require additional reviews or deny the application.
+
+3. Additional reviews required. Applications for permits or registration for signs that require additional reviews, or that do not comply with the provisions of this Title, may require additional review according to procedures described in Chapters 32.38 and 32.44.
+
+B. Issuance of permits and registrations.
+1. General. No sign permit or registration will be issued until the application is approved by the Director.
+
+2. Electrical sign contractor. Permits for signs containing electrical components will be issued only to an appropriately licensed State of Oregon electrical contractor or the owner of the property. Lighting for awnings or indirect lighting for signs require a separate electrical permit.
+
+3. Permits issued to property owners. Permits for signs or awnings containing electrical components will be issued to a property owner only where all work done under the permit will be performed by the owner or by a member of the immediate family of the owner and when the owner does not intend to sell, exchange, lease or rent the property within 6 months of final approval of the permitted work.
+
+4. Access consent required. As a condition of permit or registration issuance, the responsible party must agree to allow access to the site for all inspections to be conducted.
+
+5. Posting of sign permit and sticker and registration sticker.
+a. Sign permits and stickers. A sign permit for permanent signs attached to buildings and freestanding signs must be prominently posted in a location visible from the outside of the building located closest to the location of the sign installation until such time that the sign has received final inspection and has been approved.
+
+Permanent signs must be permanently identified with a sign sticker provided by the Director.
+
+b. Temporary banners, balloons, temporary fascia, temporary freestanding, and portable signs. Temporary banner, temporary balloon, temporary fascia, temporary freestanding, and portable sign registration must be identified with a registration sticker for each registration period. Stickers must be affixed to the approved banner, balloon, fascia or freestanding sign, or approved portable sign in a location that is visible from the right-of- way. Registration stickers must remain affixed and visible for the entire registration period during which the sign is visible from the right-of-way.
+
+6. Identification. The installer of a permanent sign or permanent banner must display on the sign or banner the installer’s name and date of installation.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+32.62.040 Life of Permit and Registration Limited.
+
+
+
+
+(Amended by Ordinances 176469, 188647, 190350 and 191736, effective July 1, 2024.)
+
+A.  Sign and awning permits.
+1.  Permit applications.
+a.  Initial permit application. A permit application that is inactive for a period of 180 days will be deemed abandoned. If an abandoned permit application is not reactivated within 180 days of abandonment, the permit application will be void. If a permit application is void, a new permit application is required for the subject work.
+
+b.  Extensions. The Director may extend a permit application for up to 180 days with justifiable cause, as determined in the Director’s sole discretion. Extension requests must be in writing and received by the Portland Permitting & Development before the scheduled permit abandonment date. If the permit is not issued or extended within the extended date, the permit will be deemed abandoned.
+
+c.  Reactivations. The Director may reactivate a permit application that has been abandoned for less than 180 days, with justifiable cause as determined in the Director’s sole discretion. Reactivation requests must be in writing and received by the Portland Permitting & Development within 180 days after the permit abandonment date. If no activity occurs within 180 days after a permit application is reactivated, the permit application will be deemed abandoned. A permit application may be reactivated only once.
+
+2.  Issued permits.
+a.  Initial issued permit. If no inspection is approved within 180 days after permit issuance, the permit will expire. If an expired permit is not reactivated within 180 days of expiration, the permit will be void. If a permit is void, a new permit is required for the subject work.
+
+b.  Extensions. Each time an inspection is approved, the permit will automatically be extended for 180 days. The Director may also extend a permit for a period of up to 180 days with justifiable cause, as determined in the Director’s sole discretion. Extension requests must be in writing and received by the Portland Permitting & Development before the scheduled permit expiration date. If no inspection or extension is approved within the extended time period, the permit will expire.
+
+c.  Reactivations. The Director may reactivate a permit that has been expired for less than 180 days, provided no changes have been made to the scope of work, and with justifiable cause as determined in the Director’s sole discretion. A void permit may be reactivated provided there have been no changes to the scope of work and only the final inspection remains unapproved. Reactivation requests must be in writing and received by the Portland Permitting & Development within 180 days after permit expiration. If no inspection is approved within 180 days of reactivation, the permit will expire. A permit may be reactivated only once.
+
+3.  Fees. When a new permit is required, a new permit application must be submitted and new fees must be paid based on the current adopted Portland Permitting & Development fee schedule. The Portland Permitting & Development will adopt policies for fee refunds or credits of previously submitted permits. Fees for permit extensions and reactivations may also be charged as adopted in the Portland Permitting & Development fee schedule.
+
+B.  Registration.
+1.  Temporary banners. Each registration for a temporary banner is valid for a maximum of 30 days.  A banner may be registered for a maximum of 6 times in a calendar year.
+
+2.  Balloon signs. Registration for temporary balloons is valid for a maximum of one week.  Balloon registrations may not be extended or renewed.
+
+3.  Portable signs. Registration for portable signs is valid for either 1 or 2 years as requested by the applicant.  At the end of each registration period, portable sign registration must be renewed or the sign must be removed from display.  There is no limit to the number of renewals for a portable sign registration.
+
+4.  Temporary fascia or temporary freestanding signs. Registration for temporary fascia and temporary freestanding signs is valid for a maximum of 360 days.  Registrations may not be extended or renewed.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+32.62.050 Suspension or Revocation.
+
+
+
+
+The Director may suspend or revoke a permit or registration issued under the provisions of this Title. The Director will inform the permit holder of the suspension or revocation in writing. Permits and registrations may be suspended or revoked when:
+
+A. The permit or registration is issued in error;
+
+B. The permit or registration is issued on the basis of incorrect information supplied by the applicant; or
+
+C. The permit or registration is issued in violation of any of the provisions of this Title.
+
+D. A registered portable sign has been the subject of multiple citations.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Chapter 32.64 Inspection
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+32.64.010 General.
+
+
+
+
+A. The Director may conduct inspections whenever it is necessary to enforce any provision of this Title, to determine compliance with this Title or whenever the Director has reasonable cause to believe there exists any violation of this Title.
+
+B. Inspections will occur at reasonable times of the day. If the responsible party is at the site when the inspection is occurring, the Director or authorized representative will first present proper credentials to the responsible party and request entry. If such entry is refused, the Director will have recourse to any remedy provided by law to obtain entry, including obtaining an administrative search warrant.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+32.64.020 Inspections.
+
+
+
+
+A. Signs and awnings with permits. The Director will conduct the following inspections on signs and awnings for which a permit has been issued. The permit holder must notify the Director at the appropriate inspection phases that the work is ready for inspection. Inspections are required at the following stages of construction:
+1.  Foundation, anchorage, attachments and other structural support of the sign, sign structure and awning.
+
+2. Electrical connections of the sign, sign lighting or awning lighting. No person may make connections of a sign, sign lighting or awning lighting to a power source until all electrical components and connections have been approved.
+
+3. Final sign installation to determine compliance with the approved plans.
+
+B. Registered signs. The Director will conduct random inspections to determine compliance of registered banners, balloons, temporary fascia, temporary freestanding, and portable signs with the provisions of this Title.
+
+C. Other inspections. The Director may conduct other inspections not specifically addressed above to determine compliance with this Title.
+
+D. Re-inspections. The Director may conduct re-inspections whenever a sign or awning is found not to be in compliance with this Title or with the issued permit or registration.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+32.64.030 Refusal of Entry.
+
+
+
+
+No person may refuse entry or access to a site of a permitted or registered sign or awning to any authorized representative of the Director who provides proper credentials and requires entry for the purpose of conducting an inspection.  In addition, no person may obstruct, hamper or interfere with representatives of the Director while in the process of carrying out their official duties.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Chapter 32.66 Enforcement
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+32.66.010 Violations.
+
+
+
+
+A. The following constitute violations of this Title:
+1. Any failure, refusal or neglect to comply with any provision of this Title;
+
+2. Allowing or causing a condition that threatens to injure the public health or safety, or threatens to damage public or private property; or
+
+3. Any failure, refusal or neglect to correct or remove any sign, awning, strobe light, banner or balloon that does not comply with the provisions of this Title, after being required to do so by the Director.
+
+B. Each specific incident and each day of non-compliance will be considered a separate violation of this Title.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+32.66.020 Civil Penalties and Fees.
+
+
+
+
+(Amended by Ordinances 176469, 183793 and 189413, effective March 6, 2019.)
+
+A violation of this Title may result in assessment of civil penalties or enforcement fees, as provided below:
+
+A.  Civil penalties.
+1.  For each separate violation, a civil penalty of up to $1,000 may be assessed.
+
+2.  In determining the amount of any civil penalty to be assessed, the Director will consider the following:
+a.  The nature and extent of the responsible party’s involvement in the violation;
+
+b.  The benefits, economic, financial or otherwise, accruing or likely to accrue as a result of the violation;
+
+c.  Whether the violation was isolated and temporary, or repeated and continuing;
+
+d.  The magnitude and seriousness of the violation;
+
+e.  The City’s cost of investigation and remedying the violation;
+
+f.  Any other applicable facts bearing on the nature and seriousness of the violation.
+
+B.  Administrative enforcement fees.
+1.  In addition to other penalties and fines, the Director may charge a penalty in the form of a monthly enforcement fee or penalty for any violation that meets the following conditions:
+a.  Either a citation, as described in Section 32.66.030, Citations, or a stop work order, as described in Section 32.66.040, Stop Work Orders, has been issued; and
+
+b.  A response period of at least 30 days has passed since the citation or stop work order became final; and
+
+c.  The violation, as described in the initial citation of violation or stop work order or any subsequent citation or stop work order, has not been corrected, inspected and approved.
+
+2.  The amount of the monthly enforcement fee or penalty shall be charged as set forth in the Enforcement and Penalty Fee Schedule as approved by City Council.  If the responsible party does not have all violations corrected, inspected and approved within three months from the date of the initial notice of citation or stop work order, then monthly enforcement fees or penalties will subsequently be twice the amount stated in the Enforcement Fee and Penalty Schedule as approved by City Council.
+
+3.  Once the monthly enforcement fees or penalties begin, they will continue until all violations identified in the initial citation or stop work order, or any subsequent citations or stop work orders, have been corrected, inspected and approved.
+
+4.  The responsible party must notify the Director when the responsible party believes that all violations listed in the initial citation or stop work order, or any subsequent citations or stop work orders, have been corrected.  Upon confirmed receipt of such notice, the Director will promptly schedule an inspection of the violation and will notify the responsible party if any violations remain uncorrected.
+
+5.  When a violation meets the conditions for charging an enforcement fee or penalty as described in this Section, the Director will file a statement with the Revenue Division that identifies the property, the amount of the monthly fee or penalty, the amount of citations fines, and the date from which the charges are to begin.  The Revenue Division will then:
+a.  Notify the responsible party of fines and enforcement fees and penalties;
+
+b.  Record a property lien in the Docket of City Liens;
+
+c.  Bill the responsible party monthly for the full amount of the accumulated fines and enforcement fee or penalty owing, plus additional 10 percent charges to cover the administrative costs of the Revenue Division; and
+
+d.  Maintain lien records until:
+(1)  The lien and all associated interest, fines, penalties, charges, and costs are paid in full; and
+
+(2)  The Director certifies that all violations listed in the initial and any subsequent citations or stop work orders have been corrected, inspected and approved.
+
+C.  Portable sign penalties.  In addition to other penalties and fees established in this section, where a registered or temporary portable sign has been the subject of multiple citations, the Director may either impound the sign, or revoke the registration of a sign or prohibit future portable sign registrations to the owner of the sign, or any combination of these actions.  The Director may charge, in addition to any other fine, the administrative costs of impounding a portable sign.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+32.66.030 Citations.
+
+
+
+
+A.  If the Director has reasonable belief that a violation has occurred, the Director may issue a citation. The citation may be personally delivered to the responsible party, or may be delivered by Registered or Certified Mail to the responsible party. The citation will include:
+1. A reference to the particular section or sections of this Title that have been or are being violated;
+
+2. A short and plain statement of the matters asserted or charged;
+
+3. A statement of the amount of the applicable penalties; and
+
+4. A reference to the process by which the responsible party may request review by the Director.
+
+B. The responsible party cited as violating this Title must, within 15 days of receiving the citation, pay to the City the stated penalty or request review by the Director. If, after review by the Director, the Director upholds the civil penalty, payment of the penalty must be received by the City or postmarked no later than 15 days after the review determination becomes final.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+32.66.040 Stop Work Orders.
+
+
+
+
+A. When any work is being in violation of this Title, the Director may issue a stop work order requiring that all work, except work directly related to elimination of the violation, be immediately and completely stopped. If the Director issues a stop work order, the responsible party may not resume work until such time as the Director gives specific approval in writing. The stop work order will be in writing and will include:
+1. The date that the order is issued;
+
+2. The permit or registration number, where applicable;
+
+3. The site address, legal description or project location that is subject to the order;
+
+4. A description of the violations that have been observed; and
+
+5. The conditions under which the work may resume.
+
+B. The stop work order will be posted by the Director at a conspicuous location at the site. In addition, a copy of the order will either be personally delivered to the responsible party, or delivered by Registered or Certified Mail to the responsible party. If the responsible party is not the property owner, a copy of the stop work order will also be sent to the property owner.
+
+C. It is unlawful for any person to remove, obscure, mutilate or otherwise damage a stop work order.
+
+D. A stop work order is effective upon posting.
+
+E. When an emergency condition exists, the Director may issue a stop work order orally. The Director will then issue a written order as provided under Subsection A., above, within one working day.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+32.66.050 Review by the Director.
+
+
+
+
+A. If a responsible party has received a written citation or stop work order as described in this Chapter and the responsible party believes the citation or order has been issued in error, the responsible party may request that the citation or order be reviewed by the Director. The responsible party must submit a written request to the Director within 15 days of the date of the citation or order. The written request shall be submitted together with all evidence that supports the responsible party’s request. Work subject to a stop work order may not be resumed until approved according to Section 32.66.040, Stop Work Orders. Following review, the Director will issue a written determination. The Director’s determination will be served on the responsible party by regular mail.
+
+B. A responsible party may appeal the Director’s written determination to the Code Hearings Officer in accordance with Chapter 22.10 of Portland City Code.
+
+C.  Nothing in this Chapter limits the authority of the Director to initiate a code enforcement proceeding under Title 22, Hearings Officer for any violations of this Title.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Chapter 32.68 Fees
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+32.68.010 General.
+
+
+
+
+Before any permit or registration required by this Title may be issued, the applicant must pay a permit or registration fee to the City as specified in this Title.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+32.68.020 Sign Permit Fees.
+
+
+
+
+All required fees are stated in the Fee Schedule adopted by City Council.  Fees will be updated annually or on an as needed basis.  The approved Fee Schedule will be available at the Development Services Center.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+32.68.030 Fee Refunds.
+
+
+
+
+Fee refunds may occur according to this section.  Exceptions to the requirements of this section may be made by the Director.
+
+A. Permit, registration and plan check fees will, as a general rule, be refunded when the services covered by the fee have not commenced, or the permit, registration or plan review fees were paid incorrectly due to an error on the part of the City. When a permit applicant requests a refund, but the City was not at fault in accepting payment, fees will be retained to cover the cost of plan review or inspections actually performed and 20 percent of the amount remaining.
+
+B. State surcharge fees are only refundable when a permit was issued in error.
+
+C. Requests for refunds must be made within six months of payment, permit issuance or registration issuance, whichever occurred last.
+
+D. Refunds are to be made to the same person or firm who paid the fee.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+How to Use This Document (Title 32)
+
+
+
+
+Organization of Title 32
+
+General layout. The sign code is organized as a reference document. It is not intended to be read from cover to cover. Instead, it is organized so you may look up only the parts you need. The list of chapters in the table of contents is, therefore, very important, as are the section listings at the beginning of each chapter. A later portion of this introduction explains how to use the code for commonly asked questions. There are many other ways to use this code, depending on your objectives.
+
+Land Use vs. Structural and Permitting Regulations
+
+This code contains both land use and structural regulations relating to signs. In general, land use processes cannot be applied to structural regulations and structural processes cannot be applied to land use regulations:
+
+"Land use" regulations
+
+implement the livability and design-related goals of Portland’s Comprehensive Plan. Adoption or amendment of land use regulations must follow a special legislative specified by state law. In addition, discretionary decisions made under these regulations must go through special quasi-judicial review processes. Chapters 32.30 through 32.38 of this code contain land use regulations. Chapters 32.10 through 32.24 contain additional information, including definitions, that is needed to apply the land use regulations. In most cases land use reviews are found in Title 33, Planning and Zoning.
+
+Structural regulations provide standards to safeguard life, health, property and public welfare. Adoption, amendment, and interpretation of structural regulations must go through a process that is different than that required of land use regulations. Chapters 32.40 through 32.54 contain structural regulations. In most cases, structural review processes are found in Title 24, Building Regulations and Title 26, Electrical Regulations.
+
+Permitting and enforcement regulations describe the administrative procedures that will be used to review sign proposals against the objective land use and structural standards of the code. Chapters 32.60 through 32.68 contain information about sign permitting and enforcement.
+
+References to other Codes
+
+This code is to be used in conjunction with other City Titles, especially Title 33, Planning and Zoning; Title 24, Building Regulations; and Title 26, Electrical Regulations. The Sign Code contains references to regulations, definitions, and review processes in these and other titles that also apply to signs.
+
+10s - Introduction.
+
+Chapters 32.10 and 32.12 contain information about the purpose of this code, what is regulated by this code, what is prohibited under the code, what is exempt from regulation, and who has the authority to administer the code.
+
+20s – Measurements and Terms.
+
+Chapters 32.20, 32.22, and 32.24 describe methods of measurement for signs and lists definitions and terminology needed to understand the regulatory portion of the code.
+
+30s - Land Use Regulations.
+
+Chapters 32.30 through 32.38 contain land use regulations affecting the size, placement, location, and materials of signs by zone, land use, and special district.
+
+40s - Structural Regulations.
+
+Chapters 32.40 through 32.44 contain structural and safety-related standards for all signs.
+
+50s - Special Regulations.
+
+Chapters 32.50 through 32.54 contain regulations for development features that are not signs, but that are related to the sign regulations. These include awnings and strobe lights.
+
+60s - Administration.
+
+Chapters 32.60 through 32.68 contain permitting and enforcement procedures, including application requirements and fees.
+
+Determining the Sign Regulations for a Specific Site
+
+Answering the questions below will help you figure out what regulations apply to your sign.
+
+Is the sign regulated by Title 32? Is the sign prohibited?
+
+Look at Chapter 32.12 to determine whether the sign code applies to the location and type of sign to be installed, and whether the sign type would be prohibited.
+
+What land use standards will apply to the sign?
+
+Step 1:
+
+Look at the Official Zoning Maps to determine the zone, overlay zone, and any plan districts that cover the site where the sign will be installed. Look at the street classification maps of the Transportation Element of the Comprehensive Plan to determine whether the site is within a pedestrian district, and to determine the classifications of streets adjacent to the site.
+
+Step 2:
+
+Determine the use of the site. If the use has not already been determined as part of a land use review, refer to the descriptions of use categories in Chapter 33.920 of the Zoning Code. In the Open Space and Residential zones, as well as in certain plan districts, sign standards are tied to the land use of the site. In addition, some uses must meet special sign standards regardless of the location of the site.
+
+Step 3:
+
+Look at Chapter 32.32 to determine whether the sign is allowed in the zone and what standards will apply based on the type of sign and the base zone of the site.
+
+Step 4:
+
+Check Chapter 32.34 to determine whether there are any special standards that will apply to the sign based on the use or development of the site, or because the site is covered by an overlay zone or plan district.
+
+What construction standards must be meet?
+
+Look at Chapters 32.42 through 32.44 to determine what construction standards must be met. In many cases, construction standards are included through reference to the State Building Code.
+
+Will I need a permit or registration with the Office of Planning and Development Review?
+
+Check Chapter 32.62 to determine whether you will need to apply for a permit or register the sign you are proposing.
+
+Will I need to go through any special reviews before I can receive a permit for my sign?
+
+Chapters 32.30 through 32.38 indicate whether design review or historic design review will be required. In addition, you may request an adjustment to one or more of the land use standards.
+
+Chapters 32.40 through 32.44 indicate whether special structural or electrical review will be required. In addition, you may apply for an alternative methods review in order to install a sign that will differ from one or more of the construction standards.
+
+Format of Title 32
+
+Outline.
+
+The format of Title 32 follows the layout of all revised Titles in the City Code. The chapter and section numbers use an expandable decimal numbering system adopted by the City in 1969. Major divisions within the Title are called chapters. Major divisions within chapters are called sections. The format of the divisions in the Title are shown below.
+
+32.XX
+
+NAME OF CHAPTER
+
+32.XX.XXX
+
+Section
+
+A. Subsection
+
+1. Paragraph
+
+a. Subparagraph
+
+(1) Subsubparagraph
+
+Referencing.
+
+Within Title 32, references are made as follows:
+
+Outside of the same section.
+
+When a reference is to text outside of the same section, the reference number starts with the Title number (i.e. 32), and continues to the appropriate level for the reference. For example, 32.30.010 A. refers to Subsection A. of Section 010, of Chapter 30, of Title 32. The names "Title" and "Chapter" are used if the reference is to an entire Title or Chapter.
+
+Within the same section.
+
+When a reference is to text within the same section, the name of the division level is used (i.e. Subsection, Paragraph, Subparagraph, etc.), and the reference "number" starts with the appropriate subsection letter. For example, "See Paragraph D.2., below" refers to Paragraph 2., of Subsection D., of the same section.
+
+Terms
+
+The code has been written in a "plain English" style and the meaning is intended to be clear as read. However, because it is also a legal document and because of the need for terms with specific meanings, the code also provides guidance on how specific terms are used. Chapters 32.20, Applying the Code Language and 32.22, Definitions, define words and phrases that have a specific meaning in this code.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Maps (Title 32)
+
+
+
+
+## Map 1 Portland International Airport Sign Exception
+
+View full size image of Map 1 Portland International Airport Sign Exception
+
+Map 1 Portland International Airport Sign Exception
+
+## Map 2 Portland International Airport Sign Exception
+
+View full size image of Map 2 Portland International Airport Sign Exception
+
+Map 2 Portland International Airport Sign Exception
+
+## Map 3 Portland International Airport Sign Exception
+
+View full size image of Map 3 Portland International Airport Sign Exception
+
+Map 3 Portland International Airport Sign Exception
+
+## Map 4 Portland International Airport Sign Exception
+
+View full size image of Map 4 Portland International Airport Sign Exception
+
+Map 4 Portland International Airport Sign Exception
+
+## Map 5 Portland International Airport Sign Exception
+
+View full size image of Map 5 Portland International Airport Sign Exception
+
+Map 5 Portland International Airport Sign Exception
+
+## Map 6 Rose Quarter Entertainment Sign District
+
+View full size image of Rose Quarter Entertainment Sign District map
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+See something we could improve on this page? Give website feedback.

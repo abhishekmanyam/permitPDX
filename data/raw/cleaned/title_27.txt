@@ -1,0 +1,1844 @@
+Portland City Code - Title 27
+
+# Title 27 Heating and Ventilating Regulations
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Chapter 27.01 Title and Scope
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+27.01.010 Title.
+
+
+
+
+(Amended by Ordinances 187432 and 191988, effective January 3, 2025.)
+
+This title is known as Title 27, Heating and Ventilating Regulations, and will be referred to in this title as “this Title.”
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+27.01.020 Purpose.
+
+
+
+
+(Amended by Ordinance 187432, effective December 4, 2015.)
+
+The purpose of this Title is to provide minimum standards to safeguard life or limb, health, property, and public welfare by regulating and controlling the design, construction, installation, quality of materials, location, operation, and maintenance of heating, ventilating, comfort cooling, refrigeration systems, incinerators, and other miscellaneous heat producing appliances.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+27.01.030 Scope.
+
+
+
+
+(Amended by Ordinances 150873, 158654, 162693, 166110, 166438, 169905, 174891, 176956, 177414, 178745, 181359, 184140, 186932, 187432, 189806, 191148, 191988, and 192117, effective November 21, 2025.)
+
+A.  Except as otherwise provided in this code, the Oregon Mechanical Specialty Code(OMSC) as adopted by OAR 918-440-0010 and amended by OAR 918-440-0012 is adopted by this reference. Unless specifically provided for in other Chapters of this Title, where requirements of this Title do not provide for or are not fully detailed with regard to processes, methods, specifications, equipment testing and maintenance standards of design performance and installation, and other pertinent criteria, applicable standards and recommendations of the National Fire Protection Association (NFPA) as set forth in its National Fire Codes, applies.
+In the following Chapters references may have been made to equipment not governed by this Title, in which case other Code or Codes apply.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+27.01.040 Existing Equipment.
+
+
+
+
+(Amended by Ordinances 187432, 188647, and 191988, effective January 3, 2025.)
+
+Heating, ventilating, comfort cooling or refrigeration systems, incinerators or other miscellaneous heat producing appliances lawfully installed prior to the effective date of this Title may have their existing use, maintenance or repair continued if the use, maintenance or repair is in accordance with the original design and location and is not a hazard to life, health, or property.
+
+All heating, ventilating, comfort cooling, or refrigeration systems, incinerators or other miscellaneous heat producing appliances, both existing and new, and all parts thereof, must be maintained in a safe and sanitary condition. All devices or safeguards that are required by this Title in heating, ventilating, comfort cooling, or refrigeration systems, incinerators or other miscellaneous heat producing appliances when installed, altered, or repaired, must be maintained in good working order. The owner or the owner’s designated agent must be responsible for the maintenance of heating, ventilating, comfort cooling, refrigeration systems, incinerators, or other miscellaneous heat producing appliances.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Chapter 27.02 Organization and Enforcement
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+27.02.010 General.
+
+
+
+
+(Amended by Ordinances 150873, 176955, 187432, 191736, and 191988, effective January 3, 2025.)
+
+The City Administrator is authorized and directed to enforce all the provisions of this Title except to the extent the Building Code, as that term is defined in Section 24.10.075 A.1., empowers and requires the Building Official, as that term is defined in Section 24.15.055, to act.
+
+A.  Appointees. The City Administrator may appoint officers, inspectors, assistants, and other employees to perform any duty imposed by this Title.
+
+B.  Right of entry. Whenever necessary to make an inspection to enforce any of the provisions of this Title, or whenever the City Administrator has reasonable cause to believe that there exists in any building or upon any premises any condition or Code violation that makes such building or premises unsafe, dangerous, or hazardous, or upon presentation of a lawfully issued warrant, the City Administrator may enter such building or premises at all reasonable times to inspect the same or to perform any duty imposed upon the City Administrator by this Title. If such building or premises is occupied, the City Administrator will first present proper credentials and request entry; and if such building or premises is unoccupied, the City Administrator will first make a reasonable effort to locate the owner or other persons having charge or control of the building or premises and request entry. If such entry is refused, the City Administrator will have recourse to every remedy provided by law to secure entry. When the City Administrator has first obtained a lawfully issued warrant or other remedy provided by law to secure entry, no owner or occupant or any other persons having charge, care, or control of any building or premises may fail or neglect, after proper request is made, to promptly allow the City Administrator to enter the building or premises for the purpose of inspection and examination pursuant to this Title.
+
+C.  Stop work orders.  When it is necessary to obtain compliance with this Title, the City Administrator may issue a stop work order requiring that all work, except work directly related to elimination of the violation, be immediately and completely stopped. If the City Administrator issues a stop work order, activity subject to the order may not be resumed until such time as the City Administrator or Building  gives specific approval in writing. The stop work order will be in writing, except when an emergency condition exists, the City Administrator may issue a stop work order orally. All stop work orders will conform to the requirements of City Code Section 3.30.080. Any person subject to a stop work order may seek review of the order by the City Administrator and may appeal the  determination in accordance with City Code Section 3.30.080.
+
+D.  Authority to condemn equipment. Whenever the City Administrator learns or ascertains that any equipment, as defined in this Title, has become hazardous to life, health, or property, a written order will be issued requiring that such equipment be restored to a condition of safety or be dismantled or removed from its present location. The written notice will fix a time limit for compliance with such order. No person may use or maintain the defective equipment after receiving such notice.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+27.02.020 Violations and Penalties.
+
+
+
+
+(Amended by Ordinances 171797, 187432, and 191988, effective January 3, 2025.)
+
+It is unlawful for any person, firm, or corporation to erect, install, alter, repair, relocate, add to, replace, use, or maintain heating, ventilating, comfort cooling, or refrigeration equipment in the City, or cause the same to be done contrary to or in violation of any of the provisions of this Title. Maintenance of equipment that was unlawful at the time it was installed, and that would be unlawful under this Title if installed after the effective date of this Title, constitutes a continuing violation of this Title.
+In the event the property owner, permit holder or agent fails or neglects to carry out any requirement, or fails to correct any noted violation of this Title, the City Administrator may gain compliance by any of the remedies outlined in Chapter 3.30 of this Code.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+27.02.025 Severability Clause.
+
+
+
+
+(Added by Ordinances 191582and 191988, effective January 3, 2025.)
+
+If any provision of this Title, or its application to any person or circumstance, is held invalid by any court, the remainder of this Title and its application to other persons and circumstances, other than that which has been held invalid, will not be affected by such invalidity, and to that extent the provisions of this Title are declared to be severable.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+27.02.030 Portland Permitting & Development Services Administrative Appeal Board.
+
+
+
+
+(Replaced by Ordinance 187432; Amended by Ordinances 191582, 191736, and 191988, effective January 3, 2025.)
+
+A. Appointment of Administrative Appeal Board. The Portland Permitting & Development Services Administrative Appeal Board consists of the Building Official and Portland Permitting & Development staff members appointed by the City Administrator. In appointing staff members, the City Administrator will consider the issues presented by the appeal, and what particular expertise will be helpful in addressing those issues. The staff will act in an advisory capacity to the Building Official. The Administrative Appeal Board may:
+1. review appeals of Portland Permitting & Development’s application and interpretation of the State of Oregon specialty codes adopted in this Title (collectively referred to as the “Mechanical Code”);
+
+2. review requests for modifications to the strict application of the Mechanical Code; and
+
+3. review requests to use alternative materials, design or methods of construction and equipment.
+
+B.  Appeals to the Administrative Appeal Board and final decisions. Any person aggrieved by a decision of Portland Permitting & Development related to the application and interpretation of the Mechanical Code or who wants to request a modification to the strict interpretation of the Mechanical Code or consideration of an alternative material, design or method of construction or equipment may file an appeal with the Administrative Appeal Board. Such an appeal must be filed within 180 days of the Portland Permitting & Development decision being appealed; provided, however, the Mechanical Code in effect at the time the Portland Permitting & Development decision was made will be applied to the administrative appeal. The Administrative Appeal Board may:
+1. grant an appeal if the Administrative Appeal Board finds that the Mechanical Code was not correctly interpreted or applied;
+
+2. grant a modification to the application of the Mechanical Code where special individual reasons make application of the strict letter of the Mechanical Code impractical, the modification is in compliance with the intent and purpose of the Mechanical Code, and such modification does not lessen health, accessibility, life and fire safety or structural requirements of the structure; or
+
+3. approve an alternative material, design or method of construction and equipment if the Administrative Appeal Board finds that any such alternative complies with the intent of the Mechanical Code that the material, method or work offered is, for the purpose intended, at least the equivalent of that prescribed in the Mechanical Code in quality, strength, effectiveness, fire resistance, durability, accessibility and safety.  The Administrative Appeal Board may not waive the requirements of the Mechanical Code. The Administrative Appeal Board review will culminate in a final decision by the Building Official. The Administrative Appeal Board meeting is not open to attendance by the appellant or the public. Portland Permitting & Development will provide final decisions to the appellant by publication of the decision on Portland Permitting & Development’s website within 10 calendar days of the hearing, provided Portland Permitting & Development has received all required information from the applicant.
+
+C. Reconsideration of final decisions and appeals to the Mechanical Code Board of Appeal. Any person aggrieved by a final decision of the Building Official made under Subsection B. above may either file a reconsideration of that decision within 180 days of the decision based on new or revised information or appeal the decision to the Mechanical Code Board of Appeal in accordance with Section 27.02.031 within 90 days of the final decision being appealed. The appeals package may not be altered from the administrative hearing. There is no additional fee for the first reconsideration of an Administrative Appeal Board decision or for an appeal to the Mechanical Code Board of Appeal. The Mechanical Code in effect at the time of the final decision being reconsidered or appealed will be applied to the reconsideration or subsequent appeal to the Mechanical Code Board of Appeal.
+
+D. Fees for appeals. The fees for administrative appeals will be as stated in the Fee Schedule adopted by the City Council. The current approved Fee Schedule is available at the Development Services Center and on Portland Permitting & Development’s website.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+27.02.031 Mechanical Code Board of Appeals.
+
+
+
+
+(Replaced by Ordinance 187432; Amended by Ordinances 191582and 191988, effective January 3, 2025.)
+
+A. Appointment of Mechanical Code Appeal Board. In order to hear appeals of final decisions of the Building Official made under Section 27.02.030, there is a Mechanical Code Board of Appeal, consisting of three members and one alternate appointed by the Mayor and approved by the City Council.
+1. Each member and alternate member must be qualified by experience and training to make decisions pertaining to the Mechanical Code and the safety of installations and apparatus regulated by this Title, including the design and installation of heating, ventilating, comfort cooling, refrigeration systems, incinerators and other miscellaneous heat-producing appliances.
+
+2. Mechanical Code Board of Appeal appointments are for three-year terms.  Appeal Board members may serve no more than two three-year terms.  However, board members may serve a third term if their board has not convened in the board member’s first two terms, or unless the City Administrator recommends approval of a longer term, and the Mayor and City Council approve the extended appointment.  Vacancies occurring prior to the end of a term for whatever cause may be filled by qualified persons through appointment by the Mayor for the remainder of the term. If a board member does not convene in one of their first two terms, they are automatically rolled into a third term. Board members may opt out of the third term at their discretion.
+
+3.  Any member may be removed by the Mayor for incompetence, dereliction of duty, incapacity or other sufficient cause.
+
+4.  Members of the Mechanical Code Appeal Board must comply with the State ethics laws applicable to public officials.
+
+5.  Members of the Mechanical Code Appeal Board must serve in a voluntary capacity and without pay.
+
+B.  Appeals to the Mechanical Code Board of Appeal. The Mechanical Code Board of Appeal may review Administrative Appeal Board decisions or any other final decision of the Building Official related to the application and interpretation of the Mechanical Code. The Mechanical Code appeal will be limited to the facts and record reviewed by the Administrative Appeal Board and the Building Official related to the decision being appealed. A hearing will be held within 45 days after an interested party submits a written appeal to the Mechanical Code Board of Appeal. A panel of three Mechanical Code Appeal Board members will hear each appeal. The Board may, by a majority vote, affirm, annul, or modify the decision.
+
+C.  Powers and limitations of authority of the Mechanical Code Board of Appeal. The Mechanical Code Board of Appeal may provide reasonable interpretations of the requirements of the Mechanical Code and may grant an appeal if the Board finds one of the following:
+1.  the Building Official did not correctly apply or interpret the Mechanical Code;
+
+2.  special individual reasons make application of the strict letter of the Mechanical Code impractical, the modification is in compliance with the intent and purpose of the Mechanical Code, and such modification does not lessen health, accessibility, life and fire safety or structural requirements of the structure; or
+
+3.  any alternative material, design or method of construction and equipment complies with the intent of the Mechanical Code and the material, method or work offered is, for the purpose intended, at least the equivalent of that prescribed in the Mechanical Code in quality, strength, effectiveness, fire resistance, durability, accessibility and safety. The Mechanical Code Board of Appeal may not waive the requirements of the Mechanical Code.
+
+Any person aggrieved by a final decision of the Mechanical Code Board of Appeal may, within 30 days after the date of the decision, appeal to the appropriate advisory board of the State of Oregon Department of Consumer and Business Services.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Chapter 27.03 Permits and Inspection
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+27.03.010 Permits Required.
+
+
+
+
+(Amended by Ordinances 162103, 171774, 172489, 187432, and 191988, effective January 3, 2025.)
+
+No person may install, alter, replace, or repair any heating, ventilating, comfort cooling, or refrigeration equipment unless a permit, or where appropriate a minor mechanical label as outlined in Section 27.03.035, therefor has been obtained from Portland Permitting & Development except as otherwise provided in this Title. A permit, or where appropriate a minor mechanical label, must be obtained for all heating, ventilating, comfort cooling, or refrigeration equipment, moved with, or installed in, any relocated building. A separate permit, or where appropriate a minor mechanical label, must be obtained for the equipment installed in each separate building, structure, dwelling unit, guest room, office, or suite of offices. No permits are required for the following:
+
+A.  Any portable heating appliance.
+
+B.  Any portable ventilating equipment.
+
+C.  Any portable comfort cooling unit.
+
+D.  Any steam, hot, or chilled water piping within any comfort heating or cooling equipment regulated by this Title.
+
+E.  Replacement of any component part or assembly of an appliance that does not alter its original approval and complies with other applicable requirements of this Title.
+
+F.  Any portable evaporative cooler.
+
+G.  Any refrigerating equipment that is a part of the equipment for which a permit has been issued pursuant to the requirements of this Title.
+
+H.  Any unit refrigerating system.
+
+I.  Replacement of an “in kind” water heater (gas to gas) in the same location when reconnected to an approved, existing chimney or vent system, not requiring the installation of a chimney liner.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+27.03.020 Permits.
+
+
+
+
+(Amended by Ordinances 150873, 176955, 187432, 191736, and 191988, effective January 3, 2025.)
+
+A.  Permit application. To obtain a permit, the applicant must file an application on forms furnished for that purpose.  The application must contain all information necessary to the lawful enforcement of the provisions of this Title. All applications for permits must be signed by the owner of the property, by the contractor engaged to do the work, or by an authorized representative of such owner or contractor. Electric Heating Applications. The applicant for a permit to install an electrical heating system must furnish on the application, information covering the following:
+1.  The total area of the dwelling or apartment;
+
+2.  The ceiling height and area of each room, or space regarded as living quarters;
+
+3.  The location, as to what floor each room or space is located;
+
+4.  The net areas each of exposed walls and exposed openings in each room or space regarded as living quarters;
+
+5.  The type and amount of insulation used;
+
+6.  The U factors for ceilings, floors, exposed walls, partitions, windows, and doors;
+
+7.  The amount of wattage required to offset the heat loss for each room as required by Section 27.05.021 of this Title;
+
+8.  The total heating requirements for the dwelling.
+
+B.  Plans and specifications. When required by the City Administrator for the enforcement of any provisions of this Title for the installation of comfort heating systems, comfort cooling systems, absorption systems, ventilation systems, hoods, and any installation within construction required to be fire resistive or of one hour construction, three sets of plans or specifications must accompany the permit application and be approved before the issuance of the permit. After approval, one set of plans will be retained by the City Administrator, one set on permanent file with Portland Permitting & Development and the other set will be returned to the applicant, which set will be kept on such building or work site at all times during which the work authorized is in progress. When the plans and specifications do not comply with provisions of this Title, the necessary changes or revisions must be made to it.  Every plan must be a print or other type of plan approved by the City Administrator. The information contained on the plans must be clearly legible and specifically indicated.  No plan may be of a scale smaller than 1/8 inch per foot. Specifications, legibly and definitely stated, must be included either on the plan or on separate sheets. The approval of any plans or specifications will not be construed to sanction any violation of this Title. No person may deviate materially from any approved plans or specifications or fail, neglect, or refuse to comply therewith unless permission to do so has been obtained from the City Administrator. The plans or specifications must show the following:
+1.  Layout for each floor with dimensions of all working spaces and a legend of all symbols used.
+
+2.  Location, size, and material of all piping.
+
+3.  Location, size, and materials of all air ducts, air inlets, and air outlets.
+
+4.  Location of all fans, warm air furnaces, boilers, absorption units, refrigerant compressors and condensers and the weight of all pieces of such equipment weighing 200 pounds or more.
+
+5.  Rated capacity or horsepower of all boilers, warm air furnaces, heat exchangers, blower fans, refrigerant compressors and absorption units.
+
+6.  Location, size, and material of all combustion products, vents, and chimneys.
+
+7.  Location and area of all ventilation and combustion air openings and ducts.
+
+8.  Location of all air dampers and fire shutters.
+
+9.  First sheet of each set of plans and specifications must show the address of the proposed work and the name and address of the owner or lessee of the premises.
+
+10.  Plans and specifications must be of sufficient clarity to show that the proposed installation will conform to the provisions of this Title and of all applicable laws, ordinances, rules, regulations, and orders.
+
+C.  Issuance. When the City Administrator determines that the information on the application is in conformance with this Title, a permit will be issued upon receipt of the total fees.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+27.03.030 Validity and Length of Permit.
+
+
+
+
+(Amended by Ordinances 150873, 162103, 174880, 187432, 188647, 190350, 191736, and 191988, effective January 3, 2025.)
+
+A.  Validity. The issuance or granting of a permit or approval of plans and specifications will not be construed to be a permit for, or an approval of, any violation of any of the provisions of this Title. No permit presuming to give authority to violate or cancel the provisions of this Title will be valid, except insofar as the work or use that it authorizes is lawful.
+
+The issuance of a permit based upon plans and specifications will not prevent the City Administrator from requiring the correction of errors in the plans and specifications after permit issuance or from preventing construction being carried on under the permit when in violation of this Title or of any other ordinance.
+
+B.  Life of permit limited.
+1.  Permit applications.
+a.  Initial permit application. A permit application that is inactive for a period of 180 days will be deemed abandoned. If an abandoned permit application is not reactivated within 180 days of abandonment, the permit application will be void. If a permit application is void, a new permit application is required for the subject work.
+
+b.  Extensions. The City Administrator may extend a permit application for up to 180 days, with justifiable cause, as determined in the City Administrator’s sole discretion. Extension requests must be in writing and received by Portland Permitting & Development before the scheduled permit abandonment date.
+
+c.  Reactivations. The City Administrator may reactivate a permit application that has been abandoned for less than 180 days, with justifiable cause as determined in the City Administrator’s sole discretion. Reactivation requests must be in writing and received by  Portland Permitting & Development within 180 days after permit abandonment date. If no activity occurs within 180 days after a permit application is reactivated, the permit application will be deemed abandoned. A permit application may be reactivated only once.
+
+2.  Issued permits.
+a.  Initial issued permit. If no inspection is approved within 180 days after permit issuance, the permit will expire. If an expired permit is not reactivated within 180 days of expiration, the permit will be void. If a permit is void, a new permit is required for the subject work.
+
+b.  Extensions. Each time an inspection is approved, the permit will automatically be extended for 180 days. The City Administrator may also extend a permit for a period of up to 180 days with justifiable cause, as determined in the City Administrator’s sole discretion. Extension requests must be in writing and received by  Portland Permitting & Development before the scheduled permit expiration date. If no inspection is approved within the extended time period, the permit will expire.
+
+c.  Reactivations. The City Administrator may reactivate a permit that has been expired for less than 180 days, provided no changes have been made to the scope of work, and with justifiable cause as determined in the City Administrator’s sole discretion. A void permit may be reactivated provided there have been no changes to the scope of work and only the final inspection remains unapproved. Reactivation requests must be in writing and received by  Portland Permitting & Development within 180 days after permit expiration. If no inspection is approved within 180 days of reactivation, the permit will expire. A permit may be reactivated only once.
+
+3.  Fees. When a new permit is required, a new permit application must be submitted and new fees must be paid based on the current adopted Portland Permitting & Development fee schedule.  Portland Permitting & Development will adopt policies for fee refunds or credits of previously submitted permits. Fees for permit extensions and reactivations may also be charged as adopted in the Portland Permitting & Development fee schedule.
+
+C.  Suspension or revocation. The City Administrator may, in writing, suspend or revoke a permit issued under provisions of this Title whenever the permit is issued in error or on the basis of incorrect information supplied, or in violation of any ordinance or regulation or any of the provisions of this Title.
+
+D.  Investigation fees: work without a permit.
+1.  Investigation. Whenever any work for which a permit is required by this Title has been commenced without first obtaining said permit, an investigation will be made before a permit may be issued for such work.
+
+2.  An investigation fee, in addition to the permit fee, will be collected whether or not a permit is then or subsequently issued.  Portland Permitting & Development may charge an investigation fee equal to the average or actual additional cost incurred by the City of ensuring that the work done without benefit of a permit is in conformance with the Mechanical Code and this Title. The payment of such investigation fee will not exempt any person from compliance with all other provisions of this Title nor from any penalty prescribed by law.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+27.03.031 Master Permit/Facility Permit Program.
+
+
+
+
+(Added by Ordinance 172431; amended by Ordinances 173976 and 187432, effective December 4, 2015.)
+
+The Master Permit/Facility Permit program is a special inspection program authorized under Oregon Revised Statute 455.154.  This program is available to commercial/industrial building owners and building management companies to streamline the approval of maintenance/repair and tenant improvement work on their private facilities.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+27.03.035 Minor Mechanical Labels.
+
+
+
+
+(Added by Ordinance 171774; amended by Ordinances 187432 and 191988, effective January 3, 2025.)
+
+A.  General.  Oregon Revised Statutes Chapters 455.154 and 455.155 establishes special alternative inspections programs for other than new construction. One of these programs is the Minor Label Program. Implementation rules are found in Oregon Administrative Rules 918-100-0000 through 918-100-0600. Portland Permitting & Development will operate the Minor Mechanical Label Program in accordance with the Oregon Administrative Rules. The Minor Mechanical Label Program utilizes minor labels in lieu of regular building permits.  Random inspections are made to ensure compliance of minor work.
+
+B.  Requirements.  Minor Mechanical Labels may be used in all occupancies.  Labels are sold in groups of ten.  No more than one minor mechanical label may be used on any single project.  A single project is defined as not more than one minor label used per calendar month for each address, suite or tenant space.
+
+C.  Work allowed.  The following work may be done under a Minor Mechanical Label:
+1.  Moving or replacing duct work not involving fire dampers or penetrations of fire walls, fire assemblies or floors;
+
+2.  Moving grills in duct work;
+
+3.  Replacing existing heating, cooling and ventilation equipment (minor alteration of gas piping and venting permitted to allow for unit configuration);
+
+4.  Adding a central air conditioning unit to existing ductwork in one- and two-family dwellings; or
+
+5.  Installing a mechanical exhaust fan for radon mitigation systems in one- and two-family dwellings.
+
+D.  Violations. It is unlawful to violate the requirements of this section. The City Administrator may enforce the requirements of this Chapter by any of the remedies in Portland City Code Chapter 3.30.
+
+E.  Expiration.  Minor mechanical labels expire six months from the date of purchase, and are not refundable or transferable.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+27.03.040 Heating and Ventilating Fees.
+
+
+
+
+(Replaced by Ordinances 174902 and 191988, effective January 3, 2025.)
+
+A.  All required fees are stated in the Fee Schedule adopted by City Council.  Fees will be updated annually or on an as needed basis.  The approved Fee Schedule will be available at the Development Services Center.
+
+B.  Permit and plan check fees will, as a general rule, be refunded when the services covered by the fee have not commenced, and the permit or plan review fees were paid incorrectly due to an error on the part of the City. When a permit applicant requests a refund, but the City was not at fault in accepting payment, fees will be retained to cover the cost of plan review or inspections actually performed and 20 percent of the amount remaining. State surcharge fees are only refundable when a permit was issued in error. Requests for refunds must be made within six months of payment or permit issuance, whichever is later. Refunds are to be made to the same person or firm who paid the fee within three months of the request.  Exceptions to the above requirements may be made by the City Administrator or designee.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+27.03.050 Inspection.
+
+
+
+
+(Amended by Ordinances 187432 and 191988, effective January 3, 2025.)
+
+All equipment for which a permit is obtained under this Title will be inspected by the City Administrator. No portion of any equipment intended to be concealed by any permanent portion of the building may be concealed until inspected and approved. When the installation of any equipment is complete, a second or final inspection will be made. Equipment regulated by this Title may not be connected to the fuel or power supply until authorized by the City Administrator.
+Exception: The requirements of this Section will not be considered to prohibit the operation of any heating equipment installed to replace existing heating equipment serving an occupied portion of a building, in the event a request for inspection of such heating equipment has been filed with Portland Permitting & Development not more than 48 hours after such replacement work is completed, and before any portion of such equipment is concealed by any permanent portion of the building. A final inspection approval may, upon notice, be revoked by the City Administrator if the heating, ventilating, comfort cooling, or refrigeration equipment fails in any respect to comply with the requirements of this Title, or if the installation is unsafe, dangerous, or a hazard to life or property.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+27.03.060 Request for Inspection.
+
+
+
+
+(Amended by Ordinances 187432 and 191988, effective January 3, 2025.)
+
+The City Administrator may require that every request for inspection be filed at least one day before such inspection is desired. Such request may be in writing or by telephone at the option of the City Administrator. It is the duty of the person requesting inspection of any equipment regulated by this Title to provide access to and means for proper inspection of such equipment. The City  is not liable for any expense entailed in the removal or replacement of any material required to allow the inspection.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Chapter 27.05 Equipment - General
+
+
+
+
+(Chapter amended by Ordinances 144249 and 150873, effective January 17, 1981.)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+27.05.021 Capacity.
+
+
+
+
+(Amended by Ordinances 187432 and 191988, effective January 3, 2025.)
+
+Every dwelling unit and guest room must be provided with heating facilities capable of maintaining a room temperature of 68 degrees Fahrenheit, or 20 degrees Celsius, at a point three feet, or 91.44 centimeters, above the floor in all habitable rooms in Portland. The version of the Oregon Energy Efficiency Specialty Code adopted by the City in Section 24.10.040 will regulate the design and construction of the exterior envelopes and selection of heating, ventilating and air conditioning systems and equipment.
+
+A.  The annual degree days is 4,792 for heating and is 300 for cooling.  The design temperature is 23 degrees Fahrenheit for winter and 85 degrees Fahrenheit for summer.
+
+B.  Indoor design temperature must be 68 degrees Fahrenheit for heating and 78 degrees Fahrenheit for cooling.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Chapter 27.19 Electric Heating Systems
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+27.19.050 Serving Utility Requirements.
+
+
+
+
+(Amended by Ordinance 191988, effective January 3, 2025.)
+
+Evidence must be submitted that adequate electrical service will be available and provided by the local utility company. The labeled voltage of the equipment must be within five percent of the service voltage provided.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+27.19.051 Requirements for Converting Electrical Energy to Thermal (Heat) Energy.
+
+
+
+
+(Amended by Ordinance 191988, effective January 3, 2025.)
+
+A.  The total rating (or adjusted rating) of heat emission devices in each room or space to be heated must equal or exceed the calculated B.T.U. heat loss of such room or space, except that in bedrooms to be heated, a tolerance of not more than 20 percent less than the calculated B.T.U. required to offset the B.T.U. heat loss from such room will be allowed providing such deficiency is made up in other areas regarded as living area when computing the total calculated B.T.U. required for the dwelling.
+
+B.  The total rating (or adjusted rating) of the heat emission devices must equal or exceed the calculated B.T.U. aggregate heat loss of all the rooms or spaces heated where used as living quarters.
+
+C.  The output in B.T.U. of each heat generating and emission unit must be computed at the location where the electrical energy is converted to thermal (heat) energy. The conversion of electrical energy to thermal (heat) energy will be considered at an efficiency of 100 percent providing the labeled voltage of the equipment is within five percent of the service voltage. Where the labeled voltage of a heat generating or emission unit is greater or less than five percent of the service voltage, an adjusted rating of the heat generating or emission unit will be used in determining the B.T.U. output.
+
+The adjusted B.T.U. rating =
+3413 X (Service voltage)2
+(Label voltage) 2 X KW name plate rating
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+27.19.053 Electric Floor Furnaces.
+
+
+
+
+(Amended by Ordinance 191988, effective January 3, 2025.)
+
+For self contained heating units in the form of electric floor furnaces that are intended to heat spaces other than the room or space in which the device is located, the following requirements apply:
+
+A.  The distance between the heater outlet and the center of any space to be heated by it, may not exceed 18 feet (20 feet for kitchens) measured through the center of the intervening openings;
+
+B.  There may not be more than one doorway and one archway between the heater outlet and any space or room to be heated by it;
+
+C.  A return inlet may not be located in the bathroom, in a space used for storage purposes or in any other confined space;
+
+D.  A separate manual disconnect must be provided for each heating device;
+
+E.  Thermostatic control must be provided within the heated space, except that no thermostatic control may switch any combination of heater elements totaling more than seven kilowatts simultaneously;
+
+F.  Heating units of any type located in halls where openings are provided with doors, or in other limited areas that may confine the heat output of the device, must be provided with thermostatic control or other air temperature limiting device, located within a hall or other limited area, to control the air temperature of the hall or other limited area in which the heating unit is located.
+(This may be a thermostat located in the hall or other limited area containing the heating device, arranged to operate in series with other thermostatic controls located elsewhere.)
+
+G.  An unobstructed passageway, not less than two feet in width, must be provided on at least one side of a flat register type floor furnace, to permit passage without stepping over or on the register.
+
+H.  Flat register floor furnaces may not be placed closer than six inches to any wall. Wall register floor furnaces may not be placed closer than six inches to a wall corner. Floor furnaces must be placed so that a door in the open position, or draperies and similar combustible materials, cannot be closer than 12 inches to the register.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+27.19.054 Electric Central Heating Systems.
+
+
+
+
+(Amended by Ordinances 187432 and 191988, effective January 3, 2025.)
+
+A.  Central heating systems of the forced air type must conform to the general installation requirements of this Title. The equivalent kilowatt capacity of such a system must equal the calculated heat loss of the living quarters of the dwelling in B.T.U. per hour, at design conditions, plus not less than 10 percent greater than the total building heat loss in size, when it is the only source of heating. The total output of such a system in B.T.U. must be computed at the location where the thermal (heat) energy is converted and/or transferred to the circulated air.
+
+B.  For resistance electric heating elements, the conversion of electric energy to thermal (heat) energy must be considered at an efficiency of 100 percent.
+
+C.  For electrically operated heat pump equipment, acceptable evidence of equipment heating performance characteristics must be provided and the equivalent kilowatt capacity determined from it.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+27.19.055 Electric Heating - Resistance Cable Type.
+
+
+
+
+(Amended by Ordinance 191988, effective January 3, 2025.)
+
+A.  Resistance cable may not be installed in walls.
+
+B.  Cables may be installed in ceilings or poured masonry floors. Cables may not extend beyond the room in which they originate.  Cables may not be installed in closets, over cabinets that extend to the ceiling, under walls or partitions, or over walls or partitions that extend to the ceiling, except that single runs of cable may pass over partitions where embedded. This requirement does not prohibit low-temperature heat sources in closets to control relative humidity.
+
+C.  Cables must be separated at least eight inches from lighting fixtures, outlets and junction boxes, and two inches from ventilating openings and other such openings in room surfaces, or sufficient area must be provided to assure that no heating cables will be covered by surface mounted lighting units.
+
+D.  A separate manual disconnect must be provided for each space heated.
+
+E.  Thermostatic control must be provided in each heated space, except that no individual thermostatic control may switch any combination of heaters totaling more than seven kilowatts.
+
+F.  Thermostatic controls may not be installed on cable until the wattage has been inspected by a City Administrator and approval posted on the job.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+27.19.056 Electric Panel - Prefabricated Conductive Materials.
+
+
+
+
+(Amended by Ordinance 191988, effective January 3, 2025.)
+
+A.  Prefabricated conductive panels may not extend beyond the room in which they originate.
+
+B.  Panels may not be installed on walls.
+
+C.  Panels may be mounted on ceilings.
+
+D.  Panels must be separated at least eight inches from lighting fixtures, outlets, and junction boxes, and two inches from ventilating openings and other such openings in room surfaces, or sufficient area must be provided to assure that no heating panels will be covered by surface mounted lighting units.
+
+E.  A separate manual disconnect must be provided for each space heated.
+
+F.  Thermostatic control must be provided in each heated space, except that no individual thermostatic control may switch any combination of heaters totaling more than seven kilowatts.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+27.19.057 Resistance Heating Units.
+
+
+
+
+(Amended by Ordinance 191988, effective January 3, 2025.)
+
+A.  All resistance heating units installed must comply with the following:
+1.  In accordance with their individual listings.
+
+2.  No part of heater or heaters will be covered or blanketed by a door, draperies, curtains or other combustibles in such a manner as to raise the normal operating surface temperature of the unit.
+
+3.  A separate manual disconnect must be provided for each space heated.
+
+4.  Thermostatic control must be provided in each heated space, except that no individual control may switch any combination of heaters totaling more than seven kilowatts.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+27.19.058 Other Permanently Placed Electric Heaters.
+
+
+
+
+(Amended by Ordinance 191988, effective January 3, 2025.)
+
+Nothing in the regulations contained in this Chapter prohibit the installation of other types of permanently placed electrical heat generating and emission units not presently covered in this Chapter when such units are approved by the Underwriters’ Laboratories, Inc., and installed in a manner approved by such Laboratories providing they meet the general provisions of this Chapter and further that a separate disconnect must be provided in each heated space, except that no individual thermostatic control may switch any combination of heaters totaling more than seven kilowatts.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+27.19.059 Installation of Resistance Heaters in Air Ducts.
+
+
+
+
+(Amended by Ordinance 191988, effective January 3, 2025.)
+
+Installation of resistance heaters in air ducts is permitted, subject to the following requirements:
+
+A.  A heater that is to be installed in an air duct or plenum must be approved for the purpose and must be installed in the manner approved for the equipment;
+
+B.  Each such heater installation must be provided with approved controls, consisting of an airflow switch or pressure differential switch, that will disconnect the power supply to the heaters in the case of failure of a normal air flow across the heaters for any reason, such as blocked filters, motor failure, broken belts, shafts, or other driving equipment, etc., and must be provided with an approved temperature-limiting control. In addition, a supplementary independent control must also be provided in each duct heater to prevent overheating. This device must be manually resettable or replaceable;
+
+C.  They may not be located outdoors, unless specifically approved;
+
+D.  They may not be installed in downflow systems;
+
+E.  Except for approved heater assemblies used in conjunction with a heat pump or central air conditioner, the heater may not be located closer than four feet to the flange of the heat pump or air conditioner unit;
+
+F.  Two or more duct heaters may be installed in a group in duct work when specifically approved for this purpose and under such restrictions as may be necessary to ensure safe operation;
+
+G.  Duct heaters must be approved for zero clearance from combustible materials, except that the terminal and/or control box of a duct heater must have a minimum access clearance of 24 inches to permit servicing and adjustment to the controls;
+
+H.  An inspection panel with an area of not less than 140 square inches and a minimum dimension of five inches must be provided in the duct immediately adjacent to, and on the upstream side of, each electric duct heater. The panel must provide access for cleaning dust and debris from the heater and means for checking concealed heat limiters. The panel must be marked, “Disconnect heater before removing this panel.”
+
+1.  Exception: An access panel will not be required for electric duct heaters of the slide out type if they are supplied by flexible conduit and
+a.  Are readily removable.
+
+b.  Weigh less than 50 pounds.
+
+c.  Have a maximum dimension of three feet for that portion that extends into the duct,
+
+2.  A separate access panel will not be required where the electric duct heater is located within one foot of a removable room grill and the heater is removable through the grill opening;
+
+I.  Duct and plenum heater controller equipment must be accessible with the disconnecting means installed at or within sight of the controller.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+See something we could improve on this page? Give website feedback.

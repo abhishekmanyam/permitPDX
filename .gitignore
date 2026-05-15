@@ -1,0 +1,20 @@
+# Heavy raw source files — keep local, not in git.
+# The extracted text in data/raw/cleaned/ is the committed corpus.
+data/raw/city-code/
+data/raw/scraped/
+data/raw/code-guides/
+data/raw/sewer-stormwater/
+data/raw/transportation-rules/
+
+# OS / editor
+.DS_Store
+*.swp
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Env
+.env
+.env.local

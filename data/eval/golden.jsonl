@@ -1,0 +1,14 @@
+{"id": 1, "question": "Can I build a tiny house on my lot? My property address is 4567 SE Division St. What are the requirements?", "expected_risk_level": "low", "requires_property_lookup": true}
+{"id": 2, "question": "What about an ADU? What are the setback requirements?", "expected_risk_level": "low", "requires_property_lookup": false}
+{"id": 3, "question": "What is the maximum fence height allowed on my property, for the front, back and side yard. Is there a setback requirement?", "expected_risk_level": "low", "requires_property_lookup": false}
+{"id": 4, "question": "How do I request building records for a property?", "expected_risk_level": "low", "requires_property_lookup": false}
+{"id": 5, "question": "Can I put up a pergola? What are the requirements?", "expected_risk_level": "low", "requires_property_lookup": false}
+{"id": 6, "question": "Can I extend my front porch?", "expected_risk_level": "low", "requires_property_lookup": false}
+{"id": 7, "question": "I want to build a workshop/small pole barn on my property in city limits. With a 40' span what is the maximum spacing between trusses?", "expected_risk_level": "high", "requires_property_lookup": false, "expected_triggers": ["structural_safety"]}
+{"id": 8, "question": "Can my lot be divided and developed into condos?", "expected_risk_level": "medium", "requires_property_lookup": true, "expected_triggers": ["land_division"]}
+{"id": 9, "question": "If my cesspool fails, do I need to be connected to City sewer?", "expected_risk_level": "high", "requires_property_lookup": false, "expected_triggers": ["environmental_health"]}
+{"id": 10, "question": "Can I add a second driveway to my property?", "expected_risk_level": "low", "requires_property_lookup": true}
+{"id": 11, "question": "Do I need a permit to replace the roof at my property?", "expected_risk_level": "low", "requires_property_lookup": false}
+{"id": 12, "question": "What are the permit requirements for finishing my basement?", "expected_risk_level": "low", "requires_property_lookup": false}
+{"id": 13, "question": "Can I put an 'A' board outside of my business?", "expected_risk_level": "low", "requires_property_lookup": false}
+{"id": 14, "question": "Can I remove a tree in my front yard?", "expected_risk_level": "low", "requires_property_lookup": false}

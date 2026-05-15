@@ -1,0 +1,2849 @@
+Portland City Code - Title 31
+
+# Title 31 Fire Regulations
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(Title replaced by Ordinance 191944, effective January 1, 2025.)
+
+
+
+
+
+
+
+
+
+
+
+
+
+Chapter 31.10 Administration
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+31.10.010 Title.
+
+
+
+
+The authority established in this Title is known as the “Fire Regulations” and may be so cited and pleaded and is referred to as “this Title.”
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+31.10.020 Purpose and Scope.
+
+
+
+
+A.  This Title is deemed an exercise of the police powers of the City for the preservation and protection of the public health, peace, safety and welfare, and all of its provisions must be liberally construed for that purpose.
+
+B.  This Title establishes regulations affecting or relating to structures, premises, processes, and safeguards regarding:
+1.   The hazard of fire and explosion arising from the storage, handling or use of structures, materials or devices;
+
+2.   Conditions hazardous to life, property or public welfare in the occupancy of structures or premises;
+
+3.   Fire hazards in the structure or on the premises from occupancy or operations;
+
+4.   Matters related to the construction, extension, repair, alteration or removal of fire suppression, fire alarm systems and hazardous material storage, dispensing and use.
+
+C.  The provisions of this Title apply equally to both public and private property, and are binding upon public officers and employees and all other persons except as may be otherwise specifically provided herein.
+
+D.  This Title is applicable in addition to the measures of fire prevention as set forth in the laws and regulations of the State of Oregon and the United States. The provisions of this Title, insofar as they are substantially the same as existing titles or ordinances relating to the same subject matter, must be construed as restatements and continuations and not as new enactments.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+31.10.030 Definitions.
+
+
+
+
+A.  Aerial luminary device (commonly known as a sky lantern) is any device that has an open flame and that can be sent airborne or adrift.
+
+B.  Building is any structure used or intended for supporting or sheltering any use or occupancy.
+
+C.  Certificate of Fitness means a written statement issued by the Fire Marshal certifying that the person to whom the certificate is issued has passed an examination as to their qualifications to perform the specifically identified work and that they have authority to perform such work during the term specified.
+
+D.  Commercial building means any structure, tank or yard that is subject to regulation under applicable fire codes.  It includes any temporary structure or vehicle that is used for commercial purposes and is not moved for 60 days.  It includes occupancies on public and private property as well as on all other types of ownership. It does not include one- and two-family residential structures.
+
+E.  Entity includes a corporation, foreign corporation, nonprofit corporation, profit and nonprofit unincorporated association, business trust, estate, partnership, trust, sole proprietorship, individual, two or more persons having a joint or common economic interest, any state, the United States and any foreign government.
+
+F.   Fee schedule means a listing of fees, penalties, discounts, and other payments payable to the City for services or other requirements set forth in this Title that is adopted by the Council.
+
+G.  Fire Bureau means Portland Fire & Rescue.
+
+H.  Fire Code means the Oregon Fire Code, 2019 edition, with City of Portland Amendments.
+
+I.    Fire hazard means any thing or act that increases or may cause an increase of the hazard or menace of fire to a greater degree than that customarily recognized as normal by persons in the public service regularly engaged in preventing, suppressing or extinguishing fire; or that may obstruct, delay, hinder or interfere with the operations of the Fire Bureau or the egress of occupants in the event of fire.
+
+J.   Fire regulations means the statutes and administrative rules adopted by the State of Oregon and the Portland City Code adopted by the Council and the policies adopted under the authority granted under this Chapter to the Fire Marshal that are for the purpose of safeguarding life and property from the hazards of fire and explosion arising from the storage, handling and use of hazardous substances, materials and devices, and from conditions hazardous to life or property in the use or occupancy of buildings or premises.
+
+K.  Key box, also known as a “lock box”, is a secure metal box used to hold keys for a specific site, to provide Fire Bureau personnel access to that site.
+
+L.   Occupancy means the activity in a building or on property outside a building where services or housing are provided or commodities are bought, sold, handled, manufactured or stored. A single business entity with multiple uses or activities in a building as defined by the Oregon Structural Specialty Code is considered one occupancy. Any structure, yard or group of tanks outside a building such as tank farms, moorage and outside storage are considered one occupancy. The definition includes individual businesses within a multiple occupancy commercial building but it does not include individual dwelling units within a multiple residential building.  The Oregon Structural Specialty Code defines classification of all buildings and structures as to use and occupancy.
+
+M.  Owner/occupant means the owner, operator, occupant or entity legally responsible for a premise or the delivery of services or housing, or the buying, selling, handling, manufacture or storage of commodities, and/or the condition of the building.
+
+N.  Periodic inspection means an inspection performed periodically by a member of the Fire Bureau for the purpose of determining that the entire occupancy is in compliance with the requirements of fire regulations. A periodic inspection is also known as a regular inspection by the Fire Bureau. It does not include specific requests for inspection.
+
+O.  Permit means a written permission of the Fire Marshal issued pursuant to the provisions of this Title.
+
+P.  Where terms are not defined through the methods authorized by this Section, such terms have their ordinarily accepted meanings as the context implies. Webster’s Third New International Dictionary of the English Language, Unabridged, copyright 1985, may be considered as providing ordinary accepted meanings.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+31.10.040 Organization.
+
+
+
+
+A.  The Fire Bureau, subject to the approval of the City Administrator, administers the provisions of this Title unless otherwise specified in this Title.
+
+B.   The Fire Chief, subject to the approval of the City Administrator, is responsible for all fire prevention efforts in the City and for enforcing the provisions of this Title or any subsequent amendments to the same.
+
+C.  The personnel of the Fire Prevention Division consists of a Fire Marshal and as many Deputy Chief Fire Marshals, Fire Captains, Senior Fire Inspectors, Fire Inspectors and other employees as may be allowed and provided by the Fire Chief and City Administrator. Such personnel may act to enforce provisions of this Title as assigned by the Fire Marshal. The Fire Marshal reports directly to the Fire Chief.
+
+D.  There is, in the Fire Prevention Division of the Fire Bureau, a section designated as the "Fire and Arson Investigation Unit" that is considered a law enforcement unit of the City. Personnel assigned to this unit are designated peace officers, for fire and life safety purposes including determining the cause of fires, for detecting arson, and for enforcing this Code and any other codes, rules or regulations incorporated therein. This unit is charged with the enforcement of the criminal laws of the State of Oregon relating to the crimes of arson, reckless burning, insurance fraud, and other related crimes.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+31.10.050 Authority.
+
+
+
+
+A.  Rules and regulations. The City Administrator may make and enforce such rules, regulations and policies for the prevention and control of fires and fire hazards, as may be necessary to carry out the intent of this Title.
+
+B.  Adoption of Oregon State Statutes. In order to obtain an exempt jurisdiction status from the State Fire Marshal, in accordance with ORS 476.030(3) from the statutes, rules and regulations administered by the State Fire Marshal, the City adopts and incorporates into this title by reference the following provisions of the Oregon Revised Statutes:  162.225, 162.235, 162.375, 162.255, 476.005, 476.010, 476.150 through 476.290, 476.380, 476.715, 479.015 through 479.170, 479.190, 479.195, 479.210 through 479.300, 479.990(6), and all of ORS 480 except 480.350, 480.355, 480.375(2), 480.432 through 480.440.
+
+Where reference is made to the State Fire Marshal in the Oregon Revised Statutes in this Title, the term "City Fire Marshal" will be substituted for it.
+
+C.  Adoption of Oregon State Administrative Rules, Fire Marshal Chapter 837.  In order to obtain an exemption in accordance with ORS 476.030(3) from the statutes, rules and regulations administered by the State Fire Marshal, the City adopts and incorporates into this Title by reference the following administrative rules adopted by the State Fire Marshal:
+1.   OAR 837 - Division 12, Public Display of Fireworks in Oregon
+
+2.   OAR 837 - Division 20, Flammable and Combustible Liquids
+
+3.   OAR 837 - Division 30, Liquefied Petroleum Gas, Sections 837-030-0140 through 837-030-0180 and 837-030-0230
+
+4.   OAR 837 – Division 40, Adoption of the Oregon Structural Specialty Code and Mechanical Special Code, Section 837-040-0140
+
+5.   OAR 837 - Division 41, Fire Protection Regulations Relating to Existing Non-Conforming High Hazard Facilities - Exitway Protection
+
+6.   OAR 837 - Division 45, Smoke Detectors
+
+Where reference is made in this Title to the State Fire Marshal in the Oregon State Fire Marshal Administrative Rules, the term "City Fire Marshal" will be substituted for it.
+
+D.  Oregon Residential Specialty Code. In order to allow alternative methods of fire protection for the development of one- and two-family dwellings, the City adopts and incorporates into this Title by reference Oregon Administrative Rule 918-480-0100.
+
+E.  Adoption of Oregon Fire Code, 2019 Edition. In addition to the provisions of this Title, and as a supplement to it, in order to regulate those conditions hazardous to life and property from fire or explosion that are not specifically addressed by this Title, the City adopts the 2019 Edition of the Oregon Fire Code with amendments.
+
+F.   Standards of the National Fire Protection Association. When requested by a building owner, the Fire Marshal may use criteria from an edition of a National Fire Protection Association Standard that is more current than adopted by Chapter 45 of the 2019 Oregon Fire Code.
+
+G.  When the Oregon State Fire Marshal adopts amended National Fire Protection Association (NFPA) Standards, the Fire Marshal is authorized to enforce the amended standard.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+31.10.060 Authority to Require Address Change.
+
+
+
+
+The Fire Marshal is authorized to require a property address change when, in the opinion of the Fire Marshal, the existing address may delay emergency response by emergency service providers.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+31.10.070 Citations.
+
+
+
+
+A.  Authority established. If, after investigation, the Fire Marshal determines that a violation of this Title has occurred, and that the person, entity or owner/occupant committing the violation knew or should have known that the action was in violation of this Title, a citation may be issued to the person, entity or owner/occupant committing the violation. Citable violations include, but are not limited to:
+1.    Failure to obtain a permit;
+
+2.    Failure to adhere to permit conditions;
+
+3.    Failure to adhere to assigned occupant load limit in assembly occupancy;
+
+4.    Exit blocked, obstructed;
+
+5.    Exit corridor or aisle obstructed or width reduced;
+
+6.    "Exit" sign missing or not working;
+
+7.    Fire extinguisher missing, discharged or wrong type;
+
+8.    Firefighting appliance blocked, obstructed or otherwise rendered unusable;
+
+9.    Fire alarm device or fire extinguishing system blocked, obstructed or otherwise rendered unusable;
+
+10.  Failure to use, maintain, store or secure propane bottle as required by this Title;
+
+11.  Performing work that requires a Certificate of Fitness without a valid certificate;
+
+12.  Assigning an employee to perform work that requires a Certificate of Fitness without a valid certificate;
+
+13.  Parking on a posted fire access road;
+
+14.  Blocking or obstructing any fire hydrant or fire department connection;
+
+15.  Conducting mobile fueling operation in violation of Fire Code regulations;
+
+16.  Possession or use of illegal fireworks;
+
+17.  Illegal storage of fireworks;
+
+18.  Illegal sale of fireworks;
+
+19.  Illegal commercial fireworks display;
+
+20.  Illegal occupancy in violation of International Building Code;
+
+21.  Burning in violation of Fire Code;
+
+22.  Repetitive false alarms in occupancies equipped with fire, smoke and/or water flow detection systems;
+
+23.  Violations that would constitute or contribute to an immediate and/or imminent hazard to life and property.
+
+B.  Each day a person, owner or occupant violates or fails to comply with a provision of this Chapter may be considered a separate violation for which a citation may be issued.
+
+C.  Fines authorized. Citations may result in monetary fines as set forth in fee schedule adopted by the Council. Fines may escalate for two or more occurrences of the same or similar violations by the same person, owner or occupant within a four-year period. Fines may escalate for failure to pay within 30 days of issuance. The Fire Marshal may suspend one-half of any citation fine, providing the person, owner or occupant cited agrees in writing to immediately cease and/or abate the violation. If the person, owner or occupant is found to be in violation of the same or similar violation within a four-year period, the original fine may be reinstated and will be in addition to any other fine authorized by this title.
+
+D.  Citation process. A citation will be delivered as would reasonably be expected to provide notice, including in person, by certified mail or posted conspicuously on property. A citation will include:
+1.   Name and address of person, owner or occupant being cited;
+
+2.   A description of the property where the violation occurred;
+
+3.   Date(s) of the violation;
+
+4.   Reference to the particular code(s) violated;
+
+5.   A statement explaining actions required of person, owner or occupant being cited;
+
+6.   A statement of applicable monetary penalty; and
+
+7.   A statement of the right to appeal the citation
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+31.10.080 Appeals.
+
+
+
+
+A.  Standing for appeals. The following persons, owners or occupants, herein called appellants, may submit an appeal as described in this Title:
+1.   Any person, owner or occupant who has been ordered by the Fire Marshal to incur any expense under any provision of this Title;
+
+2.   Any person, owner or occupant who has been cited by the Fire Marshal for violation of any provision of this Title;
+
+3.   Any person, owner or occupant whose application for a permit or approval under this Title has been refused by the Fire Marshal;
+
+4.   Any person, owner or occupant whose special case is not specifically covered by this Title.
+
+B.  Board of Appeals. The Fire Code Board of Appeals, having been established, is continued.
+1.   The Board consists of three members, and an alternate for each member. Each member and alternate will serve a term of three years. The Mayor will appoint and the Council will confirm members, and the Mayor may remove any member or alternate from the Board at any time.
+
+2.   Board members and alternates must by experience and training in building construction, building operations or fire protection systems, be qualified to pass on the provisions of this Title as they affect the interest of the City as a whole. No two members or alternates may be engaged in the same business, profession or occupation. No member or alternate may be an officer, official or employee of the City.
+
+3.   No member or alternate may hear or act on a matter in which they have any interest, direct or indirect, pecuniary or otherwise. In the event of such an interest, the member’s alternate must hear and determine the matter.
+
+4.   The Board annually will elect a Chairman from among the three members of the Board. Meetings of the Board will be held at the call of the Chairman, who will call meetings at the Fire Marshal’s request.
+
+C.  Appeal procedure.
+1.   An appellant must serve written notice of appeal on the Fire Marshal no more than 10 days after the Fire Marshal’s order or action. The notice of appeal must be in such form as specified by the Fire Marshal and must be accompanied by appeal fee.
+
+2.   The Fire Marshal, subject to the approval of the City Administrator, may approve, approve with conditions or deny the requested relief.  The decision of the Fire Marshal, with a brief statement for its basis, will be transmitted to the appellant in writing.  If the appellant is not satisfied with the decision, the appellant may, within 10 days after notice, serve written notice on the Fire Marshal requesting a hearing before the Fire Code Board of Appeals.
+
+3.   The Fire Marshal will transmit copies of the notice of appeal to the Board of Appeals and to the City Administrator. Not less than 10 days prior to the date of the hearing, the Board will mail notice of the date, time and place of the hearing to the appellant, by certified mail, return receipt requested.
+
+4.   After the hearing, the Board may by a majority vote, affirm, annul or modify the action of the Fire Marshal provided any modification of a strict application of this Title may be made only on condition that a substantially equivalent degree of safety is provided and is generally conforming to national standards concerning fire prevention, fire safety measures and building construction requirements for safety. The decision of the Board interpreting the provisions of this Title may be by a majority vote of the Board. The Board will deliver a certified copy of its decision to the appellant.
+
+5.   Where unquestionably and clearly, practical difficulties, unnecessary hardship or consequences inconsistent with the general purposes of this Title may result from the literal interpretation and enforcement thereof, the Board of Appeals may grant variances from this Title, in a specific case with such conditions and safeguards as the Board may determine, in harmony with the general purpose, intent and spirit of this Title, so that the public safety and welfare may be secured and substantial justice may be done. The grant of a variance will be by unanimous vote of the Board.
+
+6.   The Board of Appeals, in consultation with the City Administrator, will submit to the Council on or before the first day of August of each year a report summarizing its decisions for the preceding fiscal year together with its recommendations for amendments to this Title.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+31.10.090 Remedies.
+
+
+
+
+In enforcing any of the requirements of this Title, and subject to the approval of the City Administrator, the Fire Marshal may gain compliance by:
+
+A.  Instituting a proceeding before the Code Hearings Officer as set out in Title 22 of the Portland City Code; or
+
+B.  Causing appropriate action to be instituted in a court of competent jurisdiction; or
+
+C.  Taking such other action as the Fire Marshal, in the exercise of the Fire Marshal’s discretion, deems appropriate.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+31.10.100 Waivers and Adjustments.
+
+
+
+
+A. The City Administrator is authorized to waive any fees, fines and penalties in this Title based on guidelines established by the City Administrator. The authority to waive fees, fines and penalties based on the established guidelines may be delegated to the Fire Marshal.
+
+B. At the discretion of the supervisor in charge of customer accounts, account balances may be zeroed out if that balance represents only residual unpaid principal, interest or penalties.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+31.10.110 Collections.
+
+
+
+
+A.  The City may bring legal action to collect any fee, fine, penalty or interest provided for in this Title and assessed by a Fire Bureau member.
+
+B.  Accounts with amounts 91 days or more past due will be handled according to the collection policy established by the Fire Bureau; this may include use of a professional collection agency. Fees imposed by collection agency may be added onto the current fee liability of the account. Invoices returned by the U.S. Postal Service as "refused" or payments returned by a financial institution for insufficient funds will be considered delinquent and subject to immediate collection actions.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+31.10.120 Rewards.
+
+
+
+
+A.  Fund authorized. The Fire Chief, in consultation with the City Administrator, is authorized to establish a reward fund to assist with investigations of violations of this Title. Such fund may include up to $1,000 of Bureau budget allocations as well as donations from individuals, businesses and nonprofit organizations.
+
+B.  Reward Fund Disbursements. The Fire Marshal may, in consultation with the Fire Chief and City Administrator:
+1.   Contribute funds to other public agencies or nonprofit organizations to facilitate the investigation of specific arson crimes;
+
+2.   Offer and disburse rewards directly to individuals, except as limited by this Title, who have assisted with the investigation or prosecution of a violation of this Title.
+
+C.  A reward under the provisions of this Code may not be paid to any United States, State, County, or municipal officer or employee. Bounty hunters are not entitled to rewards under this Chapter.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+31.10.130 Request for Records.
+
+
+
+
+A.  Upon written application, under the Public Records Law, accompanied by the fee adopted by the Council, the Fire Marshal may furnish copies of fire incident reports, nonconfidential fire investigation reports, fire prevention inspection reports and other bureau-related information. If there is no copy on file, the fee will not be refunded.
+
+B.  Nothing in this Section may be construed as applying to any City, County, State or Federal agency, or subdivision thereof, or any nationally recognized nonprofit agency engaged in the suppression or prevention of fire.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Chapter 31.20 General Requirements
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+31.20.010 Authority at Fires or Other Emergencies.
+
+
+
+
+A.  The Fire Marshal or any of their assistants, the Fire Chief, or any member of the Fire Bureau in charge of firefighting at a fire, or the Chief of Police or any member of the Police Bureau in charge of police officers attending a fire, may immediately, summarily and without being required to give any notice whatsoever
+1.   Cause the use and/or occupancy of all or any portion of a building or structure that is found to be in danger of fire resulting from the spread of an existing fire to be discontinued;
+
+2.   Close said building or structure or part thereof during such period of danger;
+
+3.   Prevent the use and occupancy thereof.
+
+Such officer may use such force as they may find reasonably necessary to protect human life. It is unlawful for any person to refuse to leave such building, structure or portion thereof when ordered to vacate the same under authority of this Section.
+
+B.  The Fire Chief or the Fire Chief’s authorized representatives are in charge of the scene of any emergency involving the saving of life and/or property from fire or other disaster, emergency medical services, hazardous materials incidents, or other emergency aid and will have the power and authority to direct such operation as may be necessary in the reasonable performance of their duty.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+31.20.020 Eliminating Fire Hazard.
+
+
+
+
+Any owner/occupant, using or having charge or control of any premises, or any part of any premises, who creates or maintains a condition or situation that constitutes a fire or life safety hazard, or who fails to promptly comply with the written notice of the Fire Bureau, will be deemed guilty of violating this Title.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+31.20.030 Violator Assumes Costs.
+
+
+
+
+If a violation of this Chapter results in or contributes to any emergency, including a fire, the violator may be civilly liable for the full cost of the emergency response as well as cleanup costs. The City Administrator will fix the amount of such expense. The amounts of all such charges assessed pursuant to this Section must be paid to the City Treasurer, for deposit into the general fund of the City.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+31.20.040 Fire Marshal Authorized to Abate Hazard and Assign Costs.
+
+
+
+
+Where the Fire Marshal or Fire Bureau official in charge of the incident deems conditions exist that are deemed hazardous to life and property, except as limited by this Title, they are authorized to abate summarily such hazardous conditions that are in violation of this Title. Any costs associated with such summary abatement will be charged against the property using the procedure provided for in Portland City Code Title 22. The owner, occupant or other person in charge will be immediately notified of the action taken and ordered by the Fire Marshal to secure the premises in full compliance with this Title.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+31.20.050 Fire Marshal Authorized to Require Building Alterations.
+
+
+
+
+Whenever the Fire Marshal finds that the means of egress from a building or portion thereof, or that the means of preventing the origin or spread of fire or of extinguishing fire in any building or portion thereof, are insufficient or inadequate, the Fire Marshal may direct and require that any such building or portion thereof be rearranged, altered, or repaired to be sufficient and adequate in such respects.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+31.20.060 Unsafe Buildings.
+
+
+
+
+A.  Notwithstanding the mandatory directives to the Fire Marshal contained in this Subsection, the Fire Marshal may, in the exercise of their authority, and in lieu of ordering the vacation of such building or structure, impose alternative interim measures, including, but not limited to, the imposition of a fire watch as established in this Title, when, in the opinion of the Fire Marshal, such interim measures will reduce such hazard so that it is no longer imminently dangerous so that persons may temporarily occupy such building or structure until such hazard has been abated.
+
+B.  The owner, the owner’s agent, or the occupant must reimburse the City for any expenditures used in precautionary measures under this Section; or such expenditures must be included as an additional item and be spread as an assessment against the property.
+
+C.  If a building or structure used for low income multi-family housing is found to be imminently dangerous, as set forth in this Title, the Fire Marshal will not cause the use and/or occupancy of the building or structure to be discontinued immediately but will report the matter to the City Administrator, who will consider rehabilitation and repair by the City, provided that the Fire Marshal, in the exercise of their discretion, finds that interim measures, including but not limited to a fire watch, will reduce the hazard so that it is no longer imminently dangerous.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+31.20.070 Temporary Fire Watch.
+
+
+
+
+A.  In order to avoid relocating persons from, or the vacation of, any structure, place of business or place of habitation that is imminently dangerous, as described in this Title, the Fire Marshal or senior fire officer may determine that a reasonable level of fire and life safety can be obtained, order the owner/occupant to provide either a licensed, bonded security agency or other means approved by the Fire Bureau, to perform as a fire watch, making periodic patrols, as designated by the Fire Bureau, as a condition of allowing continued occupancy. If such patrols are not available or cannot be established as ordered by the Fire Marshal or senior fire officer, or if owner/occupant is unavailable, or if owner/occupant does not comply with such orders of the Fire Bureau, then:
+1.   The Fire Marshal or senior fire officer may order off-duty Fire Bureau personnel back to duty to provide the fire watch patrol, or
+
+2.   The City Administrator may contract with a licensed, bonded security company to provide such service.
+
+B.  The owner /occupant will be responsible for paying all costs incurred by the Fire Bureau to the City Treasurer, who will reimburse the Fire Bureau’s budget for this expense. If such costs are not paid within 30 days of billing, an assessment will be made by ordinance and entered in the docket of City liens. Such entry will constitute a lien upon the property and collected in all respects as provided for in this Title, and will bear interest at the rate of nine percent per year from 10 days after the date of entry into the lien docket.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+31.20.080 Authority to Establish Fire Escape Maintenance and Removal Standards.
+
+
+
+
+The Fire Marshal, subject to the approval of the City Administrator, is authorized to develop and enforce standards for the maintenance and removal of fire escapes in accordance with provisions of the 2019 Oregon Fire Code.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+31.20.090 Authority to Require Key Boxes and Charge Installation Fee.
+
+
+
+
+The Fire Marshal is authorized to require the installation of a key box in or on a building or area when access to or within the building or area may be difficult for firefighting purposes. The Fire Marshal may charge a fee for installation of a key box, regardless of whether the installation is mandatory or voluntary.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+31.20.100 Maintenance of Fire Protection Systems in Five-Story Apartment Buildings.
+
+
+
+
+The owners of five-story apartment buildings of Type V-A construction approved under Chapter 24.95 of this Code are responsible for ensuring that the fire and life-safety systems required by Portland City Code Title 24 are maintained in an operable condition at all times. Approved persons must conduct quarterly tests of such systems; a written record must be maintained and be available to the inspection authority, unless otherwise required by the Fire Chief.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+31.20.110 Certificates of Fitness.
+
+
+
+
+A.  A Certificate of Fitness must first be obtained from the Fire Marshal before doing any of the following:
+1.   Automatic sprinkler system installation, alteration, testing, service or repair;
+
+2.   Fire extinguisher refilling, service or repair;
+
+3.   Fixed fire extinguishing systems installation, alteration, testing, service or repair;
+
+4.   Privately owned fire mains or hydrant systems installation, alteration, testing, service or repair;
+
+5.   Commercial cooking hood and duct system cleaning.
+
+B.  When an applicant has successfully complied with regulations administered by the Fire Marshal, and upon receipt of the first annual fee as specified in the Fee Schedule adopted by the Council, the Fire Marshal will issue a Certificate of Fitness to the applicant. The Fire Marshal will issue subsequent annual Certificates of Fitness on payment of an annual fee, unless the certification has lapsed, been suspended or been revoked.
+
+C.  Each Certificate of Fitness issued will remain valid and in effect for one year from the date of issue unless suspended or revoked for due cause by the Fire Marshal. The certificate is not transferable.
+
+D.  It is unlawful for any person firm or corporation to assign an employee or other person to perform any of the activities regulated by this Chapter unless such employee or person is certified, or working under an on-site supervisor who is certified.
+
+E.  Whenever the Fire Marshal determines after investigation that any person holding a Certificate of Fitness as provided herein has performed work so as to create a hazard to life or property, the Fire Marshal is authorized and empowered to suspend or revoke the Certificate of Fitness. Notice will be given of the suspension or revocation and the reasons for the suspension or revocation will be identified in the notice.
+
+F.   The Fire Marshal may issue a citation to firms or corporations in violation of this Chapter.
+
+G.  Any person, firm or corporation so affected may appeal such suspension, revocation or citation as provided in this Title.
+
+H.  Once a Certificate of Fitness has been revoked, an applicant must reapply, meet the requirements of certification and pay fees for a new Certificate before performing work on equipment requiring a Certificate. The Fire Marshal may delay issuance of new Certificate for up to 90 days following revocation.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+31.20.120 Use of Helicopters.
+
+
+
+
+Notwithstanding any other provisions of this Code, the Fire Bureau may use and land helicopters any place within the City, subject to Federal and State regulations for the purpose of training Fire Bureau personnel and helicopter operators in fire suppression techniques and disaster relief procedures and for the purpose of conducting disaster relief drills subject to the consent of the property owner or in the case of City property, the director of the affected bureau.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Chapter 31.30 Development and Building Requirements
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+31.30.010 Fire Chief Authorized to Establish Access Standards.
+
+
+
+
+The Fire Chief may prescribe standards for streets and roadways that provide access for fire department apparatus. Such standards will apply to every building hereafter constructed. Standards may prescribe minimum unobstructed width, turning radius, load capacity, clearance, grade and other criteria deemed necessary for apparatus access. Application of these standards will include considerations for designing and locating access in a manner that minimizes tree removal and meets the tree protection specifications of Portland City Code Title 11, Trees, to the extent practical. Where practical the adopted standards will be consistent with development standards for public and private streets.
+
+A.  The Fire Chief may require an increase in minimum access widths where such width is not adequate for fire or rescue operations.
+
+B.  Dead-end fire department access roads more than 300 feet in length must include provisions for turning around fire department apparatus within 150 feet of the closed end.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+31.30.020 Removal of On Street Parking.
+
+
+
+
+A.  The Fire Chief may designate any street, whether public or private, or portion of a street as “No Parking” where the street width is less than 32 feet and:
+1.   The Chief determines that site-specific conditions such as roadway alignment impedes access of fire apparatus, or
+
+2.   Actual emergency response experience clearly demonstrates that emergency vehicles cannot reasonably provide service.
+
+B.  When required by the Chief the street must be marked with permanent “No Parking” signs.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+31.30.030 Fire Chief Authorized to Require Water Supply.
+
+
+
+
+The Fire Chief may establish and enforce standards for water supply for fire protection. Where required by the Fire Chief, a minimum of two fire pumps independently driven must be provided and sized for the sprinkler demand or standpipe demand, whichever is greater.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+31.30.040 Permits and Fees Required.
+
+
+
+
+A.  It is unlawful for any person or entity to construct, install, alter, repair, move, demolish or change any fire protection system or equipment, or construct, install, alter, repair, move, demolish or change any equipment, piping or storage container used for flammable or combustible liquids, flammable gases or hazardous materials, for which a permit is required in this Title, without first obtaining such permit from the Fire Marshal. In instances where laws or regulations are enforced by other agencies, joint approval must be obtained.
+
+B.  All permits issued under this Title will be presumed to contain a provision that the applicant or the applicant’s agents carry out the proposed activity in compliance with all the requirements of this Title and any other federal and State laws and City regulations, and other design guidelines as adopted by the City Administrator that apply, whether specified or not, and in complete accordance with the approved plans and specifications.
+
+C.  A permit issued under this Title will continue until revoked or for such a period of time as designated therein at the time of issuance. It is not transferable and any change in use, occupancy, operation or ownership will require a new permit.
+
+D.  Work or activity without a permit. Whenever any work for which a permit is required by this Title has commenced without first obtaining a permit, a special investigation must be made before a permit may be issued for such work. An investigation fee, in addition to the permit fee, will be collected whether or not a permit is then or subsequently issued. The investigation fee will be equal to the amount of the permit fee required. The payment of such investigation fee will not exempt any person from compliance with all other provisions of this Title nor from any penalty prescribed by law.
+
+E.  Work and equipment requiring permits. Except for one- and two-family dwellings, unless otherwise specified, permits and associated fees are required:
+1.   To install, alter, repair or remove,
+a.   Automatic sprinkler systems and standpipes or associated equipment;
+
+b.   Fixed extinguishing systems or related equipment;
+
+c.   Fire alarm systems or associated equipment;
+
+d.   Pre-manufactured paint spray booths or related equipment;
+
+e.   Private fire hydrants or related piping or devices;
+
+f.    Liquefied natural gases (LNG), liquefied petroleum gases (LPG) or compressed natural gas (CNG) of 100-gallon water capacity or more.
+
+2.   To install containers, piping and related equipment for the manufacture, storage, handling or use of compressed gases.
+
+3.   To install, alter or remove tanks and related equipment used for storage, handling, transport or use of flammable or combustible liquids or hazardous materials as defined in the Fire Code.
+a.   Exception: Fuel supply for portable generators outside of buildings, limited to 60 days on a single premises during a 12-month period.
+
+4.   To install, alter, remove, abandon, place temporarily out of service or otherwise dispose of any equipment or piping in connection with the manufacture, storage, handling, use or sale of flammable or combustible liquids or hazardous materials.
+
+5.   To change the type of contents stored in tanks containing flammable or combustible liquids or hazardous materials to a material other than that for which the tank was designed and constructed.
+
+6.   Heating oil tank decommissioning. When requested by an owner for the purposes of documenting the decommissioning of a commercial or a one or two-family residential underground heating oil storage tank, a permit may be issued and an inspection made after payment of a fee in the amount specified in adopted Fee Schedule.
+
+7.   To install, alter, remove, abandon, place temporarily out of service or otherwise dispose of any stationary tank, equipment or piping containing liquefied petroleum gas (LPG) in one- and two-family dwellings.
+
+F.   Permit applications.
+1.   Applications for permits must be made by the owner or authorized agent to the Fire Prevention Division in such form and detail as prescribed by the Fire Bureau. The application must be accompanied by:
+a.   Sufficient plans, specifications, and engineering data to verify that the proposed activity or design complies with applicable codes, standards and regulations. When the applicant fails to provide adequate specifications and plan detail, the Fire Marshal may require additional information including all submittals to be prepared by an architect or engineer registered in the State of Oregon.
+
+b.   Payment as set forth in Fee Schedule adopted by the Council.
+
+c.   Exception: When the installation of a fire protection system is not required but is voluntarily installed, but not as an alternative to another requirement, the fees specified in the Fee Schedule may be reduced by 50 percent.
+
+2.   Any permit issued under this Title will be personal to the party for whom it has been issued.
+
+G.  Voiding, revocation or suspension of permit.
+1.   Any permit that purports to sanction a violation of this Title or any applicable law or regulations will be void and any approval of plans and specifications in the issuance of such permit will likewise be void.
+
+2.   After an administrative hearing by the Fire Marshal, any such permit may be suspended or revoked under the following conditions:
+a.   It is transferred or assigned to a party other than the party to whom the permit was issued;
+
+b.   It is used for a location other than that for which it was issued;
+
+c.   Approved plans, conditions or limitations set forth in the permit have been violated;
+
+d.   The permittee fails, refuses, or neglects to comply with any order or notice duly served under the provisions of this Title;
+
+e.   The permitted work was initiated without the owner's or other governmental agency's consent;
+
+f.    Work has not begun within 180 days of permit issuance;
+
+g.   Work, once commenced, has not progressed for a period of 90 days;
+
+h.   Payment for the permit has been returned or refused by the paying agent.
+
+3.   Any permit may be suspended for up to three business days without a hearing if the Fire Marshal finds that a fire hazard exists or there has been any false statement, misrepresentation or omission as to a material fact, or change in condition from those stipulated in the application or plans upon which the permit was based. The permittee will be given notice of the precise violations.
+
+4.   A permittee whose permit has been revoked or suspended may appeal the action as provided in this Title. The permit will remain valid, pending the decision of the Board of Appeals.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+31.30.050 Additional Permit Requirements.
+
+
+
+
+A.  Plan review. Plans for construction, alteration, repair, or other work involving or affecting the fire and life safety features of any building regulated by the Fire Marshal must be reviewed by representatives of the Fire Prevention Division prior to issuance of the building permit.
+
+B.  Inspection of permitted work. All construction, work, or activity for which a permit is required is subject to inspection by the Fire Marshal. It is the duty of the permit applicant to cause the work to be accessible and exposed for inspection purposes. Neither the Fire Marshal nor the City will be liable for expense entailed in the removal or replacement of any material required to allow inspection.
+
+C.  Inspection requests. It is the duty of the person doing the work authorized by a permit to notify the Fire Marshal that such work is ready for inspection. The Fire Marshal may require that every request for inspection be filed at least one working day before such inspection is desired. Such request may be in writing, by telephone, or by other means at the option of the Fire Marshal. Upon inspection the fire Marshal may require corrections. It is the duty of the permit applicant requesting an inspection to promptly comply with the written notice of corrections required by the Fire Marshal as a condition of the permit. A fee may be charged for re-inspections when the work is not ready for the requested inspection.
+
+D.  Inspection record card. Work requiring a permit may not be commenced until the permit holder or their agent posts an inspection record card in a conspicuous place on the premises that allows the Fire Marshal to conveniently make the required entries regarding the work. This card must be maintained as described until final approval of permitted work has been granted by the Fire Marshal.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+31.30.060 Special Inspections.
+
+
+
+
+When inspections are requested or required outside of normal working hours to verify compliance with approved plans or permits, an hourly fee must be paid as set forth in fee schedule adopted by the Council, with a minimum charge of four hours.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+31.30.070 Expiration of Plan Review.
+
+
+
+
+Applications will expire by limitation when no permit is issued within 180 days following the date of application due to incomplete information or failure to provide requested corrections. In such cases plans and other data submitted for review may thereafter be returned to the applicant or destroyed by the Fire Marshal. The Fire Marshal may extend the time for action by the applicant for a period not exceeding 180 days upon request by the applicant showing that circumstances beyond the control of the applicant have prevented action from being taken. No application may be extended more than once. In order to renew action on an application after expiration, the applicant must resubmit plans and pay a new plan review fee.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Chapter 31.40 Special Use Permits
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+31.40.010 Permits and Fees Required.
+
+
+
+
+It is unlawful for any person or entity to use a building or premises or to engage in any activities for which a permit is required in this Title without first obtaining such permit from the Fire Marshal. In instances where laws or regulations are enforced by other agencies, joint approval must be obtained.
+
+All permits issued under this Title will be presumed to contain the provision that the applicant or the applicant’s agents will carry out the proposed activity in compliance with all the requirements of this Title and any other federal and state laws and City regulations, and other design guidelines as adopted by the City Administrator that apply, whether specified or not, and in complete accordance with the approved plans and specifications.
+
+A permit issued under this Title will continue until revoked or for such a period of time as designated therein at the time of issuance. It is not transferable and any change in use, occupancy or operation will require a new permit.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+31.40.020 Activities Requiring Temporary Permits.
+
+
+
+
+A.  Temporary permits and associated fees are required for:
+1.   Festivals, celebrations and special events of a temporary nature where occupant load of 500 or more people as calculated by the Fire Marshal, in an assembly building without fixed seating;
+
+2.   Gatherings of 50 or more people for civic, social, recreational or religious functions in structures not approved for assembly use;
+
+3.   Use of tents or membrane structures with sides and/or fencing on greater than 75 percent of the perimeter with a calculated occupant load of 50 or more;
+
+4.   Gatherings of 50 or more people that are fenced on four sides;
+
+5.   Trade shows with gatherings of fewer than 500 people when, in the opinion of the Fire Marshal, conditions warrant additional safety precautions;
+
+6.   Display of four or more motorized vehicles in a building when not associated with a permitted event;
+
+7.   Fire performance and theatrical firearms, including but not limited to use of blanks or use of open flame associated with a live performance;
+
+8.   Storage or use of liquid propane (LP) gas in excess of 17 ounces;
+
+9.   Temporary use of LP gas within buildings in excess of the amounts allowed by this Title;
+
+10. Storage or use of LP gas in outdoor markets with gatherings of 50 or more people;
+
+11. Use of lasers that require a Federal variance;
+
+12. Pyrotechnic special effects, other than fireworks;
+
+13. Public fireworks display;
+
+14. Retail sales of fireworks;
+
+15. Blasting;
+
+16. Transportation of explosives;
+
+17. When cutting or welding is performed in restricted areas, including:
+a.   Where the sprinkler system is impaired;
+
+b.   Where there exists the potential of an explosive atmosphere, such as locations where flammable gasses, liquids or vapors are present;
+
+c.   Areas with readily ignitable materials, such as storage of large quantities of bulk sulfur, baled paper, cotton, lint, dust or loose combustible materials;
+
+d.   On board ships at dock or ships under construction or repair;
+
+e.   At other locations as specified by the Fire Marshal.
+
+18. To place and use roofing kettles on any surface above grade;
+
+19. To conduct a spraying or dipping operation using flammable or combustible liquids or the application of combustible powders regulated by the Fire Code outside of a permitted spray booth or room.
+
+B.  Annual permits.
+1.   An annual permit and associated fee is required for permanent installation of 90 days or more of LP gas containers greater than 25 gallons WC or 100 lbs.
+
+2.   Any commercial occupancy that allows fire performance art must obtain an annual permit.
+
+3.   Any assembly occupancy with an occupant load of 500 or greater and a maximum floor space of 20,000 square feet may apply for an annual permit for up to four pre-approved floor plans. The floor plan(s) must include detailed information regarding exiting, stage set-up and set-up of fixtures and furnishings. If approved, the annual permit may substitute for individual permits providing there is no deviation from the approved plan.
+
+Exceptions:
+a.   Any exiting, stage or floor plan that deviates from a pre-approved plan requires an individual permit with associated fee.
+
+b.   Any plan that includes booths or vendors requires an individual permit with associated fee.
+
+c.   Any annual permit may, at the discretion of the Fire Marshal, be revoked for cause.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+31.40.030 Applications.
+
+
+
+
+A.  Applications for permits must be made to the Fire Prevention Division in such form and detail as prescribed by the Fire Bureau. The application must be accompanied by payment as set forth in the Fee Schedule adopted by the Council. Applications for the permit and required plans must be submitted for approval not less than two weeks prior to the event or the commencement of advance ticket sales, whichever occurs first. Applications submitted less than one week prior to the event will be charged double the permit fee set forth in the Fee Schedule.
+
+B.  The application for the permit must state the name, address and telephone number of the owner or party legally occupying the building or premises on which the activity will be conducted. The application must be accompanied by the written permission of the owner or legal occupant, signed by a person with authority to do so, authorizing the applicant to carry on the activity described in the application, in the building or on the premises described.
+
+C.  When required by the Fire Marshal, sufficient plans, specifications, and engineering data must be submitted for the purpose of verifying that the proposed activity or design complies with applicable codes, standards and regulations. When the applicant fails to provide adequate specifications and plan detail, the Fire Marshal may require additional information including all submittals to be prepared by an architect or engineer registered in the State of Oregon.
+
+D.  The Fire Marshal may refuse to issue a permit if the applicant has unpaid fees for prior permits or unpaid citations.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+31.40.040 Inspection of Permitted Work.
+
+
+
+
+All activity for which a permit is required is subject to inspection by the Fire Marshal. An approved set of plans and the permit must be kept at the event site. It is the duty of the permit applicant to cause the work to be accessible and exposed for inspection purposes. Neither the Fire Marshal nor the City will be liable for expense entailed in the removal or replacement of any material required to allow inspection.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+31.40.050 Revocation and Suspension of Permits.
+
+
+
+
+A.  Any permit that sanctions a violation of this Title or any applicable law or regulations is void and any approval of plans and specifications in the issuance of such permit are likewise void.
+
+B.  Any permit issued under this Title may, after an administrative review by the Fire Marshal, be suspended or revoked under the following conditions:
+1.   It is used by a person other than the person to whom the permit was issued;
+
+2.   It is used for a location other than that for which it was issued;
+
+3.   Approved plans, conditions or limitations set forth in the permit have been violated;
+
+4.   The permittee fails, refuses, or neglects to comply with any order or notice duly served under the provisions of this Title;
+
+5.   The permitted work was initiated without the owner's or other governmental agency's consent;
+
+6.   The Fire Marshal finds that a hazard other than that anticipated in the permit approval exists, or there has been a false statement, misrepresentation or omission as to a material fact, or a change in condition from that stipulated in the application or plans upon which the permit was based.
+
+7.   Payment for the permit has been returned or refused by the paying agent.
+
+C.  The Fire Marshal may, as an alternative remedy, suspend the permit:
+1.   For the first offense in any two-year period, revoke the permit for one day and/or performance, or until the condition is corrected;
+
+2.   For the second offense in any two-year period, revoke the permit for three days and/or performances, or until the condition is corrected;
+
+3.   For the third offense in any two-year period, revoke the permit for 15 days and/or performances;
+
+4.   For the fourth and subsequent offenses in any two-year period, revoke the permit for 30 days and/or performances.
+
+D.  The City is not responsible for any losses arising from the permit suspension or revocation.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+31.40.060 General Requirements for Explosives, Pyrotechnics, Blasting Agents and Fireworks.
+
+
+
+
+A.  The applicant must follow all federal, state, county and city laws and regulations applicable to obtaining, owning, transporting, storing, handling and using explosive materials in addition to obtaining all blasting permits required and issued by the City. The Fire Marshal may adopt policies and procedures consistent with these regulations for the purpose of protecting the public, providing safety to life and property and to ensure consistent practices in enforcement and administration of these requirements.
+
+B.  Shipments at terminals.
+1.   Carriers must immediately notify the Fire Marshal when explosives, pyrotechnics, blasting agents or fireworks are delivered within the City. Carriers delivering such cargo at a waterfront terminal must also notify the Harbor Master of such delivery.
+
+2.   Carriers of explosives, pyrotechnics, blasting agents or fireworks for delivery within the City must immediately upon arrival at the destination notify the consignee or the consignee's agent of the arrival of the cargo. The consignee or the consignee's agent must, within 24 hours after the arrival of the cargo in the City, move the cargo outside the City or to a storage facility within the City approved by the Fire Marshal. Upon a showing of extreme hardship and minimal risk of danger to life and property, the Fire Marshal may extend the 24-hour period. If, after notification, the consignee or the consignee's agent does not move the cargo as specified above and within the time specified above, the carrier must so notify the Fire Marshal, who will instruct the carrier as to the disposition of the cargo.
+
+3.   No explosives, pyrotechnics, blasting agents or fireworks awaiting further shipment to destinations outside the City must be held at a terminal within the City for more than 24 hours unless under direct order of the Fire Marshal.
+
+C.  Transportation by Water.
+1.   All explosives, blasting agents, fireworks and pyrotechnics transported from land to water or from water to land are subject to regulation under applicable provisions of this Chapter and Portland City Code Title 19, Harbors, and are subject to supervision by the Harbor Master with regard to loading, unloading and handling on any waterfront facility in the City. The Harbor Master will notify the Fire Marshal when any vessel having explosives, blasting agents, pyrotechnics or fireworks on board enters the City limits.
+
+2.   The party with legal custody must provide adequate security of explosives, blasting agents, pyrotechnics and fireworks during the time that they are held at any waterfront facility.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+31.40.070 Additional Requirements for Sale, Use and Possession of Fireworks and Pyrotechnics.
+
+
+
+
+A.  It is unlawful to sell, keep or offer for sale, expose for sale, possess, use, explode or have exploded any fireworks, aerial luminary devices or pyrotechnics within the City, except as specified by ORS 480.120 (1)(a-g). For the purpose of this Chapter, the Fire Marshal of the City is recognized as an ex‑officio Deputy State Fire Marshal as provided by State statute.
+
+B.  All permitted public fireworks displays may be supervised and controlled by the Fire Chief, acting by and through the Fire Marshal.
+
+C.  Violations. The Fire Marshal is authorized to receive for storage or transfer explosives, blasting agents, pyrotechnics or fireworks obtained by law enforcement officers or others. The Fire Marshal may confiscate, remove, or have removed at the owner's expense all stocks of fireworks or other combustibles exposed for sale or held in stock in violation of this Title and may destroy them when the Fire Marshal finds such measures necessary for the preservation of the public safety.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+31.40.080 Additional Requirements for Blasting Activities.
+
+
+
+
+A.  A blasting permit is required for every individual project requiring blasting. It is a violation of this Title for any person or entity to do any of the following without first obtaining a permit from the Fire Marshal:
+1.   be in possession of high explosive materials, as defined by the adopted fire code;
+
+2.   transport explosives;
+
+3.   conduct an operation or activity requiring the use of explosive materials; or
+
+4.   perform, order or supervise the loading and firing of high explosive materials for the purpose of blasting.
+
+B.  Certificate of insurance. The applicant must provide a certificate of liability insurance to include X, C, U coverage in a form to be approved by the City:
+1.   an amount not less than $1 million, or
+
+2.   such additional amount as may be reasonable under all of the circumstances then existing as determined by the Fire Marshal.
+
+The certificate of insurance must state on its face that the underlying liability insurance policy includes coverage for and indemnification of the City, its officers, agents (including any blasting consultant in the employ of the City, and any employees of such blasting agent) as additional insured, against any claims brought by owners of any property for loss or damage that resulted from such blasting and coverage to indemnify, hold harmless and defend the City, its officers, agents, and employees in and from any cost, attorney’s fees or judgments arising in any way from the actions of the permittee as a result in whole or in part from the blasting. The certificate must also state that the insurance company must give the City a minimum of 10 days’ notice of cancellation of the required liability insurance coverage. Notice must include notice to the Fire Marshal.
+
+C.  Additional permissions.
+1.   A valid Certificate of Possession from the Bureau of Alcohol, Tobacco and Firearms must be obtained prior to issuance of a permit.
+
+2.   High explosive materials may not be transported, sold, given, delivered, or transferred to anyone in the City not in possession of a valid blasting permit.
+
+3.   Permits for blasting projects in a public right-of-way or adjacent to a public right-of-way when the blast may affect operation of the right-of-way will not be issued unless approved by other City Bureaus or other public agencies as deemed appropriate by the Fire Marshal.
+
+D.  City assumes no liability. By the passage of the ordinance codified in this Chapter or the issuance of any permit under this Chapter, the City assumes no responsibility for any damage caused by the person or entity blasting within the City.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Chapter 31.50 Building Inspections
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+31.50.010 Purpose and Scope.
+
+
+
+
+The Fire Marshal may establish a program for the periodic inspection of all occupancies of commercial buildings for compliance with the fire regulations. The Fire Marshal may adopt a policy regarding the frequency, priority, and type of inspection of occupancies in commercial buildings subject to the availability of budgeted funds and staff. The Fire Marshal or the Fire Marshal’s designees may, at all reasonable hours, enter into all buildings and upon all premises, except private residences, to conduct an inspection to determine if fire hazards exist.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+31.50.020 Organization.
+
+
+
+
+The Fire Marshal may establish minimum qualifications of individuals performing inspections. Individuals may be members of the Fire Prevention Division, members of other divisions within the Fire Bureau, members of other public agencies operating under an interagency agreement, or employees or individuals working under contract with the City.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+31.50.030 Process.
+
+
+
+
+A.  Prior to a periodic inspection, each owner/occupant will be sent a letter by first class mail giving notice of the inspection and listing commonly found violations of fire regulations. Failure to correct the common violations listed in the letter may result in an additional fee for each class of violation.
+
+B.  When a periodic inspection reveals a violation of fire regulations, the Fire Marshal will so notify the owner/occupant and the owner/occupant will be responsible for immediately abating the violation. Failure to abate the violation as prescribed by the Fire Marshal may result in additional penalties as set forth in a fee schedule adopted by the Council.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+31.50.040 Administrative Warrants.
+
+
+
+
+Where entry for the purpose of periodic inspection or investigation has been sought and refused, or an inspection or investigation may, in the opinion of the Fire Marshal, be jeopardized without an inspection warrant, the Fire Marshal may seek and execute such warrant as allowed under the provision of ORS 476.155 through 476.170.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+31.50.050 Fees Authorized.
+
+
+
+
+A.  The building owner/occupant must pay an inspection fee for all periodic inspections as well as inspections requested by the owner/occupant. The building owner will be billed in situations where the occupant shows the Fire Marshal a lease agreement or some other legal arrangement with the building owner that places the responsibility for fire inspection and the payment of fees on the building owner.
+1.   Exception: Inspections of primary and secondary schools and nonprofit hospitals buildings with an Oregon State Structural Code occupancy designation of I - 2 (Hospitals) are exempt from all fees except illegal occupancy, violation and re-inspection fees.
+
+B.  Fees for periodic inspections, re-inspections, violations and penalties will be set forth in a fee schedule adopted by the Council. All fees must be paid to the City Treasurer within 30 days of the invoice date and will be considered delinquent after that date. A penalty will be assessed if a person fails to pay the fee when due.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+See something we could improve on this page? Give website feedback.
