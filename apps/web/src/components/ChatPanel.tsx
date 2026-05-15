@@ -17,10 +17,12 @@ export default function ChatPanel({ property }: { property: Property | null }) {
   const sessionId = useRef(crypto.randomUUID());
   const scroller = useRef<HTMLDivElement>(null);
 
-  // Smooth streaming: tokens land in `target`, a rAF loop reveals the
-  // displayed text at a steady pace so bursty network delivery looks fluid.
+  // Smooth streaming: tokens land in `target`; a rAF loop reveals the
+  // displayed text at a steady, rate-capped pace so bursty network
+  // delivery always renders as a fluid typewriter, never a batch dump.
   const target = useRef("");
   const raf = useRef<number | null>(null);
+  const lastTs = useRef(0);
 
   useEffect(() => {
     scroller.current?.scrollTo({ top: scroller.current.scrollHeight });
@@ -38,22 +40,30 @@ export default function ChatPanel({ property }: { property: Property | null }) {
 
   function startReveal() {
     if (raf.current != null) return;
-    const tick = () => {
+    lastTs.current = performance.now();
+    const tick = (now: number) => {
+      const dt = Math.min(0.1, (now - lastTs.current) / 1000); // seconds
+      lastTs.current = now;
       let keepGoing = false;
       setMessages((m) => {
         if (!m.length) return m;
         const next = [...m];
         const last = { ...next[next.length - 1] };
         const full = target.current;
-        if (last.text.length < full.length) {
-          // Reveal faster when further behind, so it always catches up.
-          const gap = full.length - last.text.length;
-          const step = Math.max(2, Math.ceil(gap / 5));
-          last.text = full.slice(0, last.text.length + step);
+        const shown = last.text.length;
+        if (shown < full.length) {
+          const gap = full.length - shown;
+          // Steady chars/sec, nudged up by backlog but hard-capped so even a
+          // huge burst reveals over ~1s rather than appearing all at once.
+          const cps = last.streaming
+            ? Math.min(620, Math.max(140, gap * 1.6))
+            : Math.min(1300, Math.max(480, gap * 2.4));
+          const add = Math.max(1, Math.round(cps * dt));
+          last.text = full.slice(0, shown + add);
           next[next.length - 1] = last;
           keepGoing = true;
         } else if (last.streaming) {
-          keepGoing = true; // wait for more tokens
+          keepGoing = true; // caught up — wait for more tokens
         }
         return next;
       });
