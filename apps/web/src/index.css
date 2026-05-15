@@ -23,14 +23,19 @@ body { margin: 0; background: var(--color-cream); }
   padding-left: 0.7em; margin: 0.6em 0; color: #555; font-size: 0.9em;
 }
 .answer strong { font-weight: 700; }
+.answer > :first-child { margin-top: 0; }
+.answer > :last-child { margin-bottom: 0; }
 
-/* Claude-style streaming reveal — each word fades in from a soft blur. */
-@keyframes blurIn {
-  from { opacity: 0; filter: blur(6px); }
-  to   { opacity: 1; filter: blur(0); }
-}
-.blur-word {
+/* Blinking caret trailing the live-streamed markdown. */
+@keyframes caretBlink { 0%, 100% { opacity: 1; } 50% { opacity: 0; } }
+.answer.is-streaming > *:last-child::after {
+  content: "";
   display: inline-block;
-  white-space: pre-wrap;
-  animation: blurIn 0.42s cubic-bezier(0.22, 1, 0.36, 1) both;
+  width: 3px;
+  height: 1.05em;
+  margin-left: 2px;
+  vertical-align: text-bottom;
+  border-radius: 2px;
+  background: var(--color-civic);
+  animation: caretBlink 1s steps(1) infinite;
 }

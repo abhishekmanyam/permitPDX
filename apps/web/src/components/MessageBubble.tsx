@@ -2,7 +2,18 @@ import { useState } from "react";
 import ReactMarkdown from "react-markdown";
 import type { ChatMessage } from "../lib/types";
 import RiskBadge from "./RiskBadge";
-import BlurText from "./BlurText";
+
+/**
+ * While streaming, the text may end mid-markup (e.g. an unclosed `**`).
+ * Trim a dangling marker so it doesn't flash as a literal `**`/`*`/`` ` ``
+ * until its closing pair arrives.
+ */
+function tidyPartial(text: string): string {
+  let t = text;
+  if ((t.match(/\*\*/g)?.length ?? 0) % 2) t = t.replace(/\*\*(?!.*\*\*)/, "");
+  if ((t.match(/`/g)?.length ?? 0) % 2) t = t.replace(/`(?!.*`)/, "");
+  return t;
+}
 
 export default function MessageBubble({ msg }: { msg: ChatMessage }) {
   const [showSources, setShowSources] = useState(false);
@@ -19,6 +30,7 @@ export default function MessageBubble({ msg }: { msg: ChatMessage }) {
 
   const streaming = msg.streaming;
   const empty = !msg.text;
+  const body = streaming ? tidyPartial(msg.text) : msg.text;
 
   return (
     <div className="flex justify-start">
@@ -31,17 +43,12 @@ export default function MessageBubble({ msg }: { msg: ChatMessage }) {
             {msg.status ?? "Thinking…"}
           </span>
         ) : (
-          <div className="answer text-[15px] leading-relaxed text-gray-800">
-            {streaming ? (
-              // While streaming, reveal words with a blur fade-in. Markdown
-              // formatting is applied once the full answer has arrived.
-              <p>
-                <BlurText text={msg.text} />
-                <span className="ml-0.5 inline-block h-4 w-[3px] -translate-y-px animate-pulse rounded-full bg-civic align-middle" />
-              </p>
-            ) : (
-              <ReactMarkdown>{msg.text}</ReactMarkdown>
-            )}
+          <div
+            className={`answer text-[15px] leading-relaxed text-gray-800 ${
+              streaming ? "is-streaming" : ""
+            }`}
+          >
+            <ReactMarkdown>{body}</ReactMarkdown>
           </div>
         )}
 
