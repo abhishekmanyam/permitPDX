@@ -70,7 +70,9 @@ export default function MessageBubble({ msg }: { msg: ChatMessage }) {
 
   const streaming = msg.streaming;
   const empty = !msg.text;
-  const body = streaming ? tidyPartial(msg.text) : msg.text;
+  // Always tidy — a message can also end on an unclosed marker if the
+  // stream was cut short, not just mid-token while streaming.
+  const body = tidyPartial(msg.text);
 
   return (
     <div className="flex justify-start">
