@@ -40,7 +40,10 @@ def invoke_agent(prompt: str, session_id: str, channel: str = "web",
     )
 
     body = resp["response"]
-    for line in body.iter_lines():
+    # chunk_size=1 — read byte-by-byte so each SSE line is yielded the instant
+    # it completes. The default 1024-byte buffer would hold tokens until a
+    # full kilobyte accumulated, throttling the stream to a crawl.
+    for line in body.iter_lines(chunk_size=1):
         if not line:
             continue
         text = line.decode() if isinstance(line, bytes) else line
