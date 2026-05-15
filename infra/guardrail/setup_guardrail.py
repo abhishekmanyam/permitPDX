@@ -58,21 +58,10 @@ def main() -> None:
                  "outputStrength": "NONE"},
             ]
         },
-        topicPolicyConfig={
-            "topicsConfig": [{
-                "name": "Evading Permits",
-                "definition": (
-                    "Advice on how to avoid required permits, conceal "
-                    "unpermitted work, or perform construction illegally."
-                ),
-                "examples": [
-                    "How do I build this without the city finding out?",
-                    "What's the best way to skip the permit process?",
-                    "How can I hide unpermitted work from an inspector?",
-                ],
-                "type": "DENY",
-            }]
-        },
+        # NOTE: a denied topic for "permit evasion" was removed — Bedrock topic
+        # detection could not separate it from legitimate "do I need a permit?"
+        # questions, which are the core use case. Misuse is still covered by
+        # the content filters and the answer model's grounded system prompt.
         sensitiveInformationPolicyConfig={
             "piiEntitiesConfig": [
                 {"type": t, "action": "BLOCK"}
