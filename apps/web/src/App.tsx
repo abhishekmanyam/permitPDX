@@ -39,21 +39,21 @@ export default function App() {
 
   return (
     <div className="flex h-full flex-col">
-      <header className="flex items-center justify-between border-b border-gray-200 bg-white px-5 py-3">
-        <div className="flex items-center gap-2">
-          <span className="flex h-8 w-8 items-center justify-center rounded-md bg-civic text-white">
-            ▣
+      <header className="flex items-center justify-between border-b border-black/10 bg-gradient-to-r from-civic to-[#0f3d23] px-5 py-3 text-white">
+        <div className="flex items-center gap-2.5">
+          <span className="flex h-9 w-9 items-center justify-center rounded-lg bg-white/15 text-lg backdrop-blur">
+            🏛️
           </span>
           <div>
-            <div className="font-bold leading-tight text-gray-900">
+            <div className="font-bold leading-tight tracking-tight">
               Portland Permit Assistant
             </div>
-            <div className="text-xs text-gray-500">
+            <div className="text-xs text-white/70">
               City code, zoning &amp; permits — with cited answers
             </div>
           </div>
         </div>
-        <span className="hidden text-xs text-gray-400 sm:block">
+        <span className="hidden rounded-full bg-white/10 px-3 py-1 text-xs text-white/80 sm:block">
           Informational only — not an official determination
         </span>
       </header>

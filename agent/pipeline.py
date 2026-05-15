@@ -5,6 +5,7 @@ from __future__ import annotations
 
 import json
 import re
+from concurrent.futures import ThreadPoolExecutor
 
 import boto3
 
@@ -76,8 +77,15 @@ def retrieve_multi_corpus(query: str, classification: dict) -> list[dict]:
     else:
         queries.append((query, None))  # broad fallback
 
-    for text, title_n in queries:
-        for r in _retrieve_one(text, config.RESULTS_PER_TITLE):
+    # Run the per-title KB queries concurrently — they are independent.
+    with ThreadPoolExecutor(max_workers=len(queries)) as pool:
+        results = list(pool.map(
+            lambda q: (q[1], _retrieve_one(q[0], config.RESULTS_PER_TITLE)),
+            queries,
+        ))
+
+    for title_n, hits in results:
+        for r in hits:
             uri = r.get("location", {}).get("s3Location", {}).get("uri", "")
             chunk_text = r.get("content", {}).get("text", "")
             score = r.get("score", 0.0)

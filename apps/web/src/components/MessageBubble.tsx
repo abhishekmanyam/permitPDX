@@ -2,6 +2,7 @@ import { useState } from "react";
 import ReactMarkdown from "react-markdown";
 import type { ChatMessage } from "../lib/types";
 import RiskBadge from "./RiskBadge";
+import BlurText from "./BlurText";
 
 export default function MessageBubble({ msg }: { msg: ChatMessage }) {
   const [showSources, setShowSources] = useState(false);
@@ -9,26 +10,40 @@ export default function MessageBubble({ msg }: { msg: ChatMessage }) {
   if (msg.role === "user") {
     return (
       <div className="flex justify-end">
-        <div className="max-w-[85%] rounded-2xl rounded-br-sm bg-civic px-4 py-2 text-white">
+        <div className="max-w-[85%] rounded-2xl rounded-br-md bg-civic px-4 py-2.5 text-[15px] text-white shadow-sm">
           {msg.text}
         </div>
       </div>
     );
   }
 
+  const streaming = msg.streaming;
+  const empty = !msg.text;
+
   return (
     <div className="flex justify-start">
-      <div className="max-w-[92%] rounded-2xl rounded-bl-sm bg-white px-4 py-3 shadow">
-        <div className="answer text-[15px] text-gray-800">
-          {msg.text ? (
-            <ReactMarkdown>{msg.text}</ReactMarkdown>
-          ) : (
-            <span className="flex items-center gap-2 text-gray-400">
-              <span className="inline-block h-2 w-2 animate-pulse rounded-full bg-civic" />
-              {msg.status ?? "Thinking…"}
+      <div className="max-w-[92%] rounded-2xl rounded-bl-md bg-white px-4 py-3 shadow-sm ring-1 ring-gray-100">
+        {empty ? (
+          <span className="flex items-center gap-2 text-sm text-gray-400">
+            <span className="flex gap-1">
+              <Dot /> <Dot delay="0.15s" /> <Dot delay="0.3s" />
             </span>
-          )}
-        </div>
+            {msg.status ?? "Thinking…"}
+          </span>
+        ) : (
+          <div className="answer text-[15px] leading-relaxed text-gray-800">
+            {streaming ? (
+              // While streaming, reveal words with a blur fade-in. Markdown
+              // formatting is applied once the full answer has arrived.
+              <p>
+                <BlurText text={msg.text} />
+                <span className="ml-0.5 inline-block h-4 w-[3px] -translate-y-px animate-pulse rounded-full bg-civic align-middle" />
+              </p>
+            ) : (
+              <ReactMarkdown>{msg.text}</ReactMarkdown>
+            )}
+          </div>
+        )}
 
         {msg.risk && <RiskBadge risk={msg.risk} />}
 
@@ -38,7 +53,7 @@ export default function MessageBubble({ msg }: { msg: ChatMessage }) {
               onClick={() => setShowSources((s) => !s)}
               className="text-xs font-semibold text-civic hover:underline"
             >
-              {showSources ? "Hide" : "Show"} {msg.sources.length} sources
+              {showSources ? "Hide" : "Show"} {msg.sources.length} cited sources
             </button>
             {showSources && (
               <ul className="mt-2 space-y-1">
@@ -54,5 +69,14 @@ export default function MessageBubble({ msg }: { msg: ChatMessage }) {
         )}
       </div>
     </div>
+  );
+}
+
+function Dot({ delay = "0s" }: { delay?: string }) {
+  return (
+    <span
+      className="inline-block h-1.5 w-1.5 animate-bounce rounded-full bg-civic"
+      style={{ animationDelay: delay }}
+    />
   );
 }

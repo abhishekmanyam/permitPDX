@@ -33,6 +33,10 @@ def _build_model(voice: bool) -> BedrockModel:
         cfg["guardrail_id"] = config.GUARDRAIL_ID
         cfg["guardrail_version"] = config.GUARDRAIL_VERSION
         cfg["guardrail_trace"] = "enabled"
+        # "async" lets tokens stream out immediately while the guardrail
+        # evaluates in parallel. The default "sync" mode holds and releases
+        # tokens in batched windows — which looks like a non-streamed answer.
+        cfg["guardrail_stream_processing_mode"] = "async"
     return BedrockModel(**cfg)
 
 
