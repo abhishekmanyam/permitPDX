@@ -61,7 +61,7 @@ export default function MessageBubble({ msg }: { msg: ChatMessage }) {
   if (msg.role === "user") {
     return (
       <div className="flex justify-end">
-        <div className="max-w-[85%] rounded-2xl rounded-br-md bg-civic px-4 py-2.5 text-[15px] text-white shadow-sm">
+        <div className="max-w-[85%] rounded-2xl rounded-br-md bg-civic px-4 py-2.5 text-[15px] text-cream shadow-sm">
           {msg.text}
         </div>
       </div>
@@ -74,11 +74,26 @@ export default function MessageBubble({ msg }: { msg: ChatMessage }) {
   // stream was cut short, not just mid-token while streaming.
   const body = tidyPartial(msg.text);
 
+  // Show only the sources the answer actually cites. The retriever returns
+  // more chunks than the model uses; surfacing all of them is noise. Scan
+  // the answer for [N] markers (incl. grouped forms like [1, 2]) and keep
+  // matching sources, in citation-number order.
+  const cited = new Set<number>();
+  for (const m of body.matchAll(/\[([\d\s,]+)\]/g)) {
+    for (const part of m[1].split(",")) {
+      const n = parseInt(part.trim(), 10);
+      if (!Number.isNaN(n)) cited.add(n);
+    }
+  }
+  const citedSources = (msg.sources ?? [])
+    .filter((s) => cited.has(s.n))
+    .sort((a, b) => a.n - b.n);
+
   return (
     <div className="flex justify-start">
-      <div className="max-w-[92%] rounded-2xl rounded-bl-md bg-white px-4 py-3 shadow-sm ring-1 ring-gray-100">
+      <div className="max-w-[92%] rounded-2xl rounded-bl-md bg-paper px-4 py-3 shadow-sm ring-1 ring-ink/8">
         {empty ? (
-          <span className="flex items-center gap-2 text-sm text-gray-400">
+          <span className="flex items-center gap-2 text-sm text-ink/45">
             <span className="flex gap-1">
               <Dot /> <Dot delay="0.15s" /> <Dot delay="0.3s" />
             </span>
@@ -86,7 +101,7 @@ export default function MessageBubble({ msg }: { msg: ChatMessage }) {
           </span>
         ) : (
           <div
-            className={`answer text-[15px] leading-relaxed text-gray-800 ${
+            className={`answer text-[15px] leading-relaxed text-ink/85 ${
               streaming ? "is-streaming" : ""
             }`}
           >
@@ -98,20 +113,28 @@ export default function MessageBubble({ msg }: { msg: ChatMessage }) {
 
         {msg.risk && <RiskBadge risk={msg.risk} />}
 
-        {msg.sources && msg.sources.length > 0 && (
-          <div className="mt-3 border-t border-gray-100 pt-2">
+        {citedSources.length > 0 && (
+          <div className="mt-3 border-t border-ink/8 pt-2">
             <button
               onClick={() => setShowSources((s) => !s)}
               className="text-xs font-semibold text-civic hover:underline"
             >
-              {showSources ? "Hide" : "Show"} {msg.sources.length} cited sources
+              {showSources ? "Hide" : "Show"} {citedSources.length} cited{" "}
+              {citedSources.length === 1 ? "source" : "sources"}
             </button>
             {showSources && (
-              <ul className="mt-2 space-y-1">
-                {msg.sources.map((s) => (
-                  <li key={s.n} className="flex gap-2 text-xs text-gray-600">
+              <ul className="mt-2 space-y-2">
+                {citedSources.map((s) => (
+                  <li key={s.n} className="flex gap-2 text-xs text-ink/70">
                     <span className="font-bold text-gold">[{s.n}]</span>
-                    <span>{s.title}</span>
+                    <div>
+                      <div className="font-semibold text-ink/75">{s.title}</div>
+                      {s.snippet && (
+                        <p className="mt-0.5 leading-snug text-ink/55">
+                          {s.snippet}
+                        </p>
+                      )}
+                    </div>
                   </li>
                 ))}
               </ul>

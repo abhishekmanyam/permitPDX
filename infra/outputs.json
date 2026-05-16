@@ -8,6 +8,8 @@
   "data_source_id": "R5QDHA16ZZ",
   "agent_runtime_arn": "arn:aws:bedrock-agentcore:us-west-2:890992969813:runtime/permitpdx_agent-FRqyV95VJQ",
   "agent_execution_role": "AmazonBedrockAgentCoreSDKRuntime-us-west-2-2d7a29bb4b",
+  "memory_id": "permitpdx_agent_mem-0vbaOv2Mhs",
+  "memory_arn": "arn:aws:bedrock-agentcore:us-west-2:890992969813:memory/permitpdx_agent_mem-0vbaOv2Mhs",
   "guardrail_id": "1hhciwdq9v9c",
   "guardrail_version": "DRAFT",
   "ecr_repository_url": "890992969813.dkr.ecr.us-west-2.amazonaws.com/permitpdx-backend",

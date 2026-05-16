@@ -23,23 +23,45 @@ export default function MapPanel({ property, busy, onSearch, onPin }: Props) {
 
   useEffect(() => {
     if (!container.current || map.current) return;
-    map.current = new mapboxgl.Map({
+    const m = new mapboxgl.Map({
       container: container.current,
-      style: "mapbox://styles/mapbox/light-v11",
+      style: "mapbox://styles/mapbox/standard",
       center: PORTLAND,
-      zoom: 11,
+      zoom: 12,
+      pitch: 45,
+      bearing: -15,
     });
-    map.current.on("click", (e) => onPin(e.lngLat.lat, e.lngLat.lng));
+    map.current = m;
+    m.on("click", (e) => onPin(e.lngLat.lat, e.lngLat.lng));
+    m.on("style.load", () => {
+      // 3D terrain for the colorful, tilted city view.
+      if (!m.getSource("mapbox-dem")) {
+        m.addSource("mapbox-dem", {
+          type: "raster-dem",
+          url: "mapbox://mapbox.mapbox-terrain-dem-v1",
+          tileSize: 512,
+          maxzoom: 14,
+        });
+      }
+      m.setTerrain({ source: "mapbox-dem", exaggeration: 1.5 });
+    });
+    m.addControl(new mapboxgl.NavigationControl({ visualizePitch: true }), "bottom-right");
   }, [onPin]);
 
   useEffect(() => {
     if (!map.current || !property || property.error) return;
     const lngLat: [number, number] = [property.lon, property.lat];
     if (!marker.current) {
-      marker.current = new mapboxgl.Marker({ color: "#1a5632" });
+      marker.current = new mapboxgl.Marker({ color: "#c14d28" });
     }
     marker.current.setLngLat(lngLat).addTo(map.current);
-    map.current.flyTo({ center: lngLat, zoom: 16, speed: 1.4 });
+    map.current.flyTo({
+      center: lngLat,
+      zoom: 17,
+      pitch: 60,
+      bearing: 30,
+      duration: 2500,
+    });
   }, [property]);
 
   return (
@@ -57,12 +79,12 @@ export default function MapPanel({ property, busy, onSearch, onPin }: Props) {
           value={query}
           onChange={(e) => setQuery(e.target.value)}
           placeholder="Enter a Portland address…"
-          className="flex-1 rounded-lg border border-gray-200 bg-white/95 px-3 py-2 text-sm shadow outline-none focus:border-civic"
+          className="flex-1 rounded-lg border border-ink/10 bg-paper/95 px-3.5 py-2.5 text-sm text-ink shadow-sm outline-none transition placeholder:text-ink/35 focus:border-civic"
         />
         <button
           type="submit"
           disabled={busy}
-          className="rounded-lg bg-civic px-4 py-2 text-sm font-semibold text-white shadow disabled:opacity-50"
+          className="rounded-lg bg-civic px-4 py-2.5 text-sm font-semibold text-cream shadow-sm transition hover:bg-civic-dark disabled:opacity-50"
         >
           {busy ? "…" : "Find"}
         </button>
@@ -74,7 +96,7 @@ export default function MapPanel({ property, busy, onSearch, onPin }: Props) {
         </div>
       )}
       {!property && (
-        <div className="absolute bottom-4 left-4 rounded-md bg-white/90 px-3 py-1.5 text-xs text-gray-500 shadow">
+        <div className="absolute bottom-4 left-4 rounded-full bg-paper/90 px-3.5 py-1.5 text-xs text-ink/50 shadow-sm">
           Click the map or search to set a property
         </div>
       )}

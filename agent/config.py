@@ -12,6 +12,10 @@ KNOWLEDGE_BASE_ID = os.environ.get("KNOWLEDGE_BASE_ID", "61POYN2UXQ")
 ANSWER_MODEL = os.environ.get("ANSWER_MODEL", "us.anthropic.claude-sonnet-4-5-20250929-v1:0")
 CLASSIFIER_MODEL = os.environ.get("CLASSIFIER_MODEL", "us.anthropic.claude-haiku-4-5-20251001-v1:0")
 
+# AgentCore Memory — conversation history. Provisioned by the agentcore
+# toolkit (see `memory:` in .bedrock_agentcore.yaml); STM-only, 30-day expiry.
+MEMORY_ID = os.environ.get("MEMORY_ID", "permitpdx_agent_mem-0vbaOv2Mhs")
+
 # Bedrock Guardrail (see infra/outputs.json)
 GUARDRAIL_ID = os.environ.get("GUARDRAIL_ID", "1hhciwdq9v9c")
 GUARDRAIL_VERSION = os.environ.get("GUARDRAIL_VERSION", "DRAFT")

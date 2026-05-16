@@ -20,10 +20,18 @@ DEFAULT_VOICE = os.environ.get("LIVEAVATAR_VOICE_ID", "c2527536-6d1f-4412-a643-5
 
 _SSL = ssl.create_default_context(cafile=certifi.where())
 
+# api.liveavatar.com is behind Cloudflare, which 403s (error 1010) the default
+# "Python-urllib/x.y" User-Agent as a banned browser signature. Send a normal
+# browser UA so the backend's server-to-server calls get through.
+_USER_AGENT = (
+    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) "
+    "AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+)
+
 
 def _request(method: str, path: str, body: dict | None = None,
              token: str | None = None) -> dict:
-    headers = {"Content-Type": "application/json"}
+    headers = {"Content-Type": "application/json", "User-Agent": _USER_AGENT}
     if token:
         headers["Authorization"] = f"Bearer {token}"
     else:
@@ -69,7 +77,7 @@ def create_session_token(sandbox: bool = True) -> dict:
 def stop_session(token: str) -> dict:
     """End a LiveAvatar session."""
     try:
-        _request("DELETE", "/sessions", token=token)
+        _request("POST", "/sessions/stop", body={}, token=token)
         return {"status": "stopped"}
     except Exception as exc:  # noqa: BLE001
         return {"error": str(exc)}

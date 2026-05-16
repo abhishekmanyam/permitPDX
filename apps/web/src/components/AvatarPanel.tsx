@@ -74,7 +74,7 @@ export default function AvatarPanel() {
   const active = state !== "idle" && state !== "error";
 
   return (
-    <div className="relative flex h-full flex-col bg-gray-900">
+    <div className="relative flex h-full flex-col bg-ink">
       <div className="flex flex-1 items-center justify-center overflow-hidden">
         {active ? (
           <video
@@ -84,11 +84,16 @@ export default function AvatarPanel() {
             className="h-full w-full object-cover"
           />
         ) : (
-          <div className="px-6 text-center">
-            <div className="mx-auto mb-3 text-4xl">🧑‍💼</div>
-            <p className="text-sm text-gray-300">Live Avatar</p>
-            <p className="mt-1 text-xs text-gray-500">
+          <div className="px-8 text-center">
+            <div className="mx-auto mb-5 h-px w-12 bg-cream/20" />
+            <div className="text-[11px] font-semibold uppercase tracking-[0.2em] text-cream/40">
+              Live Avatar
+            </div>
+            <p className="mx-auto mt-3 max-w-xs font-display text-xl font-medium text-cream">
               Talk face-to-face with the Portland Permit Assistant
+            </p>
+            <p className="mt-2 text-xs text-cream/40">
+              Voice in, voice out — answers cited to city code.
             </p>
           </div>
         )}
@@ -99,10 +104,10 @@ export default function AvatarPanel() {
           <span
             className={`h-2 w-2 rounded-full ${
               state === "speaking"
-                ? "bg-green-400"
+                ? "bg-civic"
                 : state === "listening"
-                  ? "bg-blue-400"
-                  : "bg-yellow-400"
+                  ? "bg-gold"
+                  : "bg-cream/60"
             } animate-pulse`}
           />
           {state === "connecting" && "Connecting…"}
@@ -136,8 +141,8 @@ export default function AvatarPanel() {
         <button
           onClick={active ? stop : start}
           disabled={state === "connecting"}
-          className={`rounded-xl px-6 py-2.5 text-sm font-semibold text-white disabled:opacity-50 ${
-            active ? "bg-red-600" : "bg-civic"
+          className={`rounded-full px-7 py-2.5 text-sm font-semibold text-cream transition disabled:opacity-50 ${
+            active ? "bg-red-700 hover:bg-red-800" : "bg-civic hover:bg-civic-dark"
           }`}
         >
           {active ? "End session" : "Start avatar"}

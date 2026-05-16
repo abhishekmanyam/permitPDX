@@ -122,56 +122,85 @@ This product collapses that gap: ask a plain-language question, optionally ancho
 
 ---
 
-## 8. System Architecture (high level)
+## 8. System Architecture
+
+The system is three tiers: a **React web client**, a thin **FastAPI channel backend**, and an **Amazon Bedrock AgentCore Runtime** that holds all agent reasoning. The backend does no reasoning — it adapts each channel (web chat, Twilio voice, HeyGen/LiveAvatar) onto the same runtime and relays the streamed events back.
+
+### 8.1 Request flow
 
 ```
-        USER QUESTION (text · voice · avatar)
-                      │
-                      ▼
-        ┌─────────────────────────────┐
-        │ 1. QUERY CLASSIFIER          │  intent · bureau ·
-        │    (fast LLM)                │  relevant titles ·
-        └──────────────┬───────────────┘  urgency · confidence
-                       │
-         ┌─────────────┴──────────────┐
-         ▼                            ▼
-  ┌──────────────┐            ┌───────────────┐
-  │ 2. ADDRESS   │            │ 3. RISK GATE  │
-  │   RESOLVE    │            │  LOW/MED/HIGH │
-  │  → zoning    │            └───────────────┘
-  └──────┬───────┘
-         │
-         ▼
-  ┌──────────────────────────────────┐
-  │ 4. MULTI-CORPUS RETRIEVAL         │  parallel per-title
-  │    (vector knowledge base)        │  queries · dedupe ·
-  └──────────────┬────────────────────┘  top results
-                 │
-                 ▼
-  ┌──────────────────────────────────┐
-  │ 5. ANSWER AGENT (LLM + tools)     │  grounded answer ·
-  │    retrieve / resolve / risk      │  streamed
-  └──────────────┬────────────────────┘
-                 │
-                 ▼
-  ┌──────────────────────────────────┐
-  │ 6. RESPONSE                       │  answer + citations +
-  │                                    │  risk badge + next steps
-  └──────────────────────────────────┘
+   WEB (React)        PHONE (Twilio)        AVATAR (LiveAvatar kiosk)
+        │                   │                        │
+   SSE /api/chat    TwiML /api/voice/*    OpenAI /v1/chat/completions
+        └───────────────────┼────────────────────────┘
+                             ▼
+              ┌──────────────────────────────┐
+              │  FastAPI BACKEND (ECS Fargate)│  channel adapters · serves
+              │  apps/backend/main.py         │  built React frontend · SSE relay
+              └──────────────┬────────────────┘
+                             │  invoke_agent_runtime (streamed events)
+                             ▼
+        ┌────────────────────────────────────────────┐
+        │  AGENTCORE RUNTIME — agent/agent.py          │
+        │                                              │
+        │  contextualize ─ rewrite follow-ups          │  Haiku 4.5
+        │       │          using session history       │
+        │       ▼                                      │
+        │  1. CLASSIFY ─ intent · bureau · titles ·    │  Haiku 4.5
+        │       │        requires_property · urgency   │  → structured JSON
+        │       ▼                                      │
+        │  2. RETRIEVE ─ parallel per-title KB queries │  Bedrock KB
+        │       │        merge · dedupe · boost · topN │  (S3 Vectors)
+        │       ▼                                      │
+        │  3. RISK GATE ─ regex + classifier urgency   │  LOW/MED/HIGH
+        │       │         → emits `meta` event         │
+        │       ▼                                      │
+        │  4. ANSWER AGENT ─ Strands Agent, streamed   │  Sonnet 4.5
+        │       resolve_property tool · Guardrail      │  + Bedrock Guardrail
+        └────────────────────┬─────────────────────────┘
+                             │  token / phrase / meta / done events
+                             ▼
+            answer + citations + risk badge + next steps
 ```
 
-### 8.1 Core components
-- **Query classifier** — a fast LLM call that returns structured JSON: `intent`, `bureau`, `relevant_titles`, `requires_property`, `urgency`, `confidence`.
-- **Knowledge base** — a vector-indexed corpus of city code titles, code guides, administrative rules, and program guides, with hierarchical chunking.
-- **Retrieval layer** — runs focused per-title queries, merges and de-duplicates results, boosts on-corpus matches, returns the top passages.
-- **Answer agent** — an LLM agent with tools for retrieval, address resolution, and risk assessment; streams its response.
-- **Address resolution** — geocode an address to a point, then look up the parcel's zoning attributes from the city GIS service.
-- **Risk engine** — pattern + classifier-driven risk scoring.
-- **Channel adapters** — web (streaming + map UI), phone (telephony webhook + TTS), avatar (real-time avatar SDK).
-- **Conversation memory** — per-session context so follow-ups work.
+The runtime emits a `status` event before each blocking step, one `meta` event (classification, ranked sources, risk), then `token` events for text channels or `phrase` events (sentence-chunked for TTS) for voice/avatar, and a final `done`.
 
-### 8.2 Data corpus
-The knowledge base ingests Portland City Code titles covering, at minimum: zoning, building regulations, plumbing, electrical, heating/ventilation, fire, trees, signs, noise control, property maintenance, erosion/sediment control, public improvements, floating structures, and original-art murals — plus code guides, sewer/stormwater guidance, and transportation rules. Large documents are split to fit ingestion limits; updates flow through an automated sync.
+### 8.2 Core components
+
+| Component | Implementation |
+|---|---|
+| **Web client** | React 19 + Vite + Tailwind 4; Mapbox GL map; `react-markdown` live render; LiveAvatar Web SDK. Consumes SSE from `/api/chat`. |
+| **Channel backend** | FastAPI on **ECS Fargate** (512 CPU / 1024 MB), behind an ALB and CloudFront. Serves the built React app same-origin and exposes `/api/chat` (SSE), `/api/resolve`, `/api/reverse-geocode`, `/api/voice/*` (TwiML), `/api/avatar/*`, and an OpenAI-shaped `/v1/chat/completions`. |
+| **Agent runtime** | Amazon Bedrock **AgentCore Runtime** (`agent/agent.py`), async generator entrypoint that streams events. |
+| **Contextualizer** | Haiku 4.5 call that rewrites follow-ups ("what about side fences?") into standalone search queries using the last 6 turns. |
+| **Query classifier** | Single Haiku 4.5 `converse` call returning JSON: `intent`, `bureau`, `relevant_titles`, `requires_property`, `urgency`, `confidence`. Fails safe to a broad, unscoped classification. |
+| **Knowledge base** | Bedrock Knowledge Base `61POYN2UXQ` over Portland City Code, backed by an **S3 Vectors** index; embeddings via **Titan Text Embeddings v2** (1024-dim). |
+| **Retrieval layer** | `retrieve_multi_corpus` — up to 3 focused per-title KB queries run concurrently (`ThreadPoolExecutor`), 6 results each; merged, deduped by chunk content, boosted ×1.15 when the source file matches the queried title, top 8 returned. |
+| **Answer agent** | A **Strands** `Agent` on **Claude Sonnet 4.5**, streaming, seeded with session history and the `resolve_property` tool. Text answers cap at 2048 tokens, voice at 600. |
+| **Risk engine** | Regex patterns for structural / environmental / land-division topics plus classifier `urgency`, scored LOW/MED/HIGH. |
+| **Address resolution** | US Census geocoder (address → lat/lon) then PortlandMaps ArcGIS (lat/lon → zone, overlays, comp plan). Both keyless. Reverse geocoding adds Mapbox. Implemented both in the backend (`property.py`) and as the agent's `resolve_property` tool. |
+| **Conversation memory** | Amazon Bedrock **AgentCore Memory** (`memory.py`), short-term only, keyed by `runtimeSessionId`, 30-day expiry; best-effort (a memory outage degrades to a stateless answer). |
+| **Safety guardrail** | A Bedrock **Guardrail** (`1hhciwdq9v9c`) on the answer model in async stream mode; an empty stream is treated as a block and returns a scope message. |
+
+### 8.3 Models
+
+| Role | Model |
+|---|---|
+| Contextualize + classify | Claude Haiku 4.5 (`us.anthropic.claude-haiku-4-5`) |
+| Answer generation | Claude Sonnet 4.5 (`us.anthropic.claude-sonnet-4-5`) |
+| Embeddings | Amazon Titan Text Embeddings v2 (1024-dim) |
+
+### 8.4 Data corpus
+
+The knowledge base ingests Portland City Code titles: 4 Original Art Murals, 10 Erosion & Sediment Control, 11 Trees, 17 Public Improvements, 18 Noise Control, 24 Building Regulations, 25 Plumbing, 26 Electrical, 27 Heating & Ventilating, 28 Floating Structures, 29 Property Maintenance, 31 Fire, 32 Signs, and 33 Zoning Code — cleaned text staged in an S3 source bucket and indexed into the S3 Vectors store. Large documents are split to fit ingestion limits; corpus updates re-run the data-source sync without redeploying the runtime.
+
+### 8.5 Deployment & infrastructure
+
+- **Region:** `us-west-2`. All AWS resources provisioned in `infra/` (Terraform for Fargate; Python scripts for the KB and Guardrail). Provisioned ARNs/IDs recorded in `infra/outputs.json`.
+- **Backend:** a multi-stage Docker image (Node build of the React app → Python 3.12 + FastAPI/uvicorn serving API and static frontend) pushed to ECR, run as an ECS Fargate service in the default VPC behind an Application Load Balancer.
+- **Edge:** CloudFront in front of the ALB for the public HTTPS entry point.
+- **Agent runtime:** deployed separately via the `agentcore` toolkit (`agentcore configure`/`launch`); the backend reaches it through `invoke_agent_runtime` by ARN.
+- **Config:** all service IDs are environment-overridable with the `infra/outputs.json` values as defaults.
 
 ---
 

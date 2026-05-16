@@ -6,28 +6,31 @@ const STEPS = [
 
 export default function CallPanel() {
   return (
-    <div className="flex h-full flex-col items-center justify-center gap-6 p-8 text-center">
+    <div className="flex h-full flex-col items-center justify-center gap-8 p-8 text-center">
       <div>
-        <div className="text-xs font-semibold uppercase tracking-wide text-civic">
+        <div className="text-[11px] font-semibold uppercase tracking-[0.2em] text-civic">
           Call the assistant
         </div>
         <a
           href="tel:+19342215222"
-          className="mt-2 block text-3xl font-bold text-gray-900"
+          className="mt-3 block font-display text-4xl font-semibold tracking-tight text-ink transition hover:text-civic"
         >
           (934) 221-5222
         </a>
-        <p className="mt-1 text-sm text-gray-500">
+        <p className="mt-2 text-sm text-ink/50">
           For residents who'd rather talk than type.
         </p>
       </div>
-      <ol className="max-w-sm space-y-3 text-left">
+
+      <div className="h-px w-16 bg-ink/10" />
+
+      <ol className="max-w-sm space-y-4 text-left">
         {STEPS.map((s, i) => (
-          <li key={i} className="flex gap-3 text-sm text-gray-700">
-            <span className="flex h-6 w-6 shrink-0 items-center justify-center rounded-full bg-civic text-xs font-bold text-white">
+          <li key={i} className="flex gap-3.5 text-sm text-ink/70">
+            <span className="flex h-6 w-6 shrink-0 items-center justify-center rounded-full border border-civic/30 bg-civic/10 font-mono text-xs font-semibold text-civic">
               {i + 1}
             </span>
-            {s}
+            <span className="pt-0.5">{s}</span>
           </li>
         ))}
       </ol>

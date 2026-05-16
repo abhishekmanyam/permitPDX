@@ -2,6 +2,7 @@ import { useEffect, useRef, useState } from "react";
 import { streamChat } from "../lib/api";
 import type { ChatMessage, Property } from "../lib/types";
 import MessageBubble from "./MessageBubble";
+import Logo from "./Logo";
 
 const SUGGESTIONS = [
   "How tall can my backyard fence be?",
@@ -10,7 +11,13 @@ const SUGGESTIONS = [
   "What are the rules for a new sign on my shop?",
 ];
 
-export default function ChatPanel({ property }: { property: Property | null }) {
+export default function ChatPanel({
+  property,
+  initialQuestion,
+}: {
+  property: Property | null;
+  initialQuestion?: string;
+}) {
   const [messages, setMessages] = useState<ChatMessage[]>([]);
   const [input, setInput] = useState("");
   const [busy, setBusy] = useState(false);
@@ -20,7 +27,12 @@ export default function ChatPanel({ property }: { property: Property | null }) {
   // Smooth streaming: tokens land in `target`; a rAF loop reveals the
   // displayed text at a steady, rate-capped pace so bursty network
   // delivery always renders as a fluid typewriter, never a batch dump.
+  // `shown` and `streamingRef` mirror reveal progress / stream state in
+  // refs so the rAF loop can read them synchronously — React state
+  // updaters run too late to decide whether the loop should continue.
   const target = useRef("");
+  const shown = useRef(0);
+  const streamingRef = useRef(false);
   const raf = useRef<number | null>(null);
   const lastTs = useRef(0);
 
@@ -44,30 +56,26 @@ export default function ChatPanel({ property }: { property: Property | null }) {
     const tick = (now: number) => {
       const dt = Math.min(0.1, (now - lastTs.current) / 1000); // seconds
       lastTs.current = now;
-      let keepGoing = false;
-      setMessages((m) => {
-        if (!m.length) return m;
-        const next = [...m];
-        const last = { ...next[next.length - 1] };
-        const full = target.current;
-        const shown = last.text.length;
-        if (shown < full.length) {
-          const gap = full.length - shown;
-          // Steady chars/sec, nudged up by backlog but hard-capped so even a
-          // huge burst reveals over ~1s rather than appearing all at once.
-          const cps = last.streaming
-            ? Math.min(620, Math.max(140, gap * 1.6))
-            : Math.min(1300, Math.max(480, gap * 2.4));
-          const add = Math.max(1, Math.round(cps * dt));
-          last.text = full.slice(0, shown + add);
-          next[next.length - 1] = last;
-          keepGoing = true;
-        } else if (last.streaming) {
-          keepGoing = true; // caught up — wait for more tokens
-        }
-        return next;
-      });
-      raf.current = keepGoing ? requestAnimationFrame(tick) : null;
+      const full = target.current;
+      const have = shown.current;
+      if (have < full.length) {
+        const gap = full.length - have;
+        // Steady chars/sec, nudged up by backlog but hard-capped so even a
+        // huge burst reveals over ~1s rather than appearing all at once.
+        const cps = streamingRef.current
+          ? Math.min(620, Math.max(140, gap * 1.6))
+          : Math.min(1300, Math.max(480, gap * 2.4));
+        const add = Math.max(1, Math.round(cps * dt));
+        shown.current = Math.min(full.length, have + add);
+        patchLast((l) => {
+          l.text = full.slice(0, shown.current);
+        });
+        raf.current = requestAnimationFrame(tick);
+      } else if (streamingRef.current) {
+        raf.current = requestAnimationFrame(tick); // caught up — wait for more
+      } else {
+        raf.current = null; // fully revealed and stream finished
+      }
     };
     raf.current = requestAnimationFrame(tick);
   }
@@ -76,11 +84,22 @@ export default function ChatPanel({ property }: { property: Property | null }) {
     if (raf.current != null) cancelAnimationFrame(raf.current);
   }, []);
 
+  // Auto-send the question the user typed on the landing screen, once.
+  const sentInitial = useRef(false);
+  useEffect(() => {
+    if (sentInitial.current || !initialQuestion?.trim()) return;
+    sentInitial.current = true;
+    send(initialQuestion);
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [initialQuestion]);
+
   async function send(text: string) {
     if (!text.trim() || busy) return;
     setInput("");
     setBusy(true);
     target.current = "";
+    shown.current = 0;
+    streamingRef.current = true;
     setMessages((m) => [
       ...m,
       { role: "user", text },
@@ -112,9 +131,13 @@ export default function ChatPanel({ property }: { property: Property | null }) {
       target.current = `Sorry — connection error: ${String(e)}`;
       startReveal();
     } finally {
+      // Stream is done — let the reveal loop drain the rest of `target`
+      // and stop on its own. Re-kick in case it had already idled out.
+      streamingRef.current = false;
       patchLast((l) => {
         l.streaming = false;
       });
+      startReveal();
       setBusy(false);
     }
   }
@@ -123,24 +146,25 @@ export default function ChatPanel({ property }: { property: Property | null }) {
     <div className="flex h-full flex-col">
       <div ref={scroller} className="flex-1 space-y-4 overflow-y-auto p-4">
         {messages.length === 0 && (
-          <div className="pt-8 text-center">
-            <div className="mx-auto mb-3 flex h-12 w-12 items-center justify-center rounded-2xl bg-civic/10 text-2xl">
-              🏛️
-            </div>
-            <p className="text-sm font-medium text-gray-700">
-              Ask about Portland permits, zoning &amp; building codes
+          <div className="pt-10">
+            <Logo size={44} className="mb-4" />
+            <h2 className="font-display text-xl font-semibold text-ink">
+              Ask about Portland permits, zoning &amp; building code
+            </h2>
+            <p className="mt-1.5 text-sm text-ink/50">
+              Every answer is traced to a Portland City Code section.
             </p>
-            <p className="mt-1 text-xs text-gray-400">
-              Every answer is cited to Portland City Code.
-            </p>
-            <div className="mt-5 flex flex-col gap-2">
+            <div className="mt-6 flex flex-col gap-2">
               {SUGGESTIONS.map((s) => (
                 <button
                   key={s}
                   onClick={() => send(s)}
-                  className="rounded-xl border border-gray-200 bg-white px-3.5 py-2.5 text-left text-sm text-gray-700 transition hover:border-civic hover:bg-civic/5 hover:text-civic"
+                  className="group flex items-center justify-between rounded-xl border border-ink/10 bg-paper px-4 py-3 text-left text-sm text-ink/70 transition hover:border-civic hover:text-civic"
                 >
                   {s}
+                  <span className="text-ink/25 transition group-hover:translate-x-0.5 group-hover:text-civic">
+                    →
+                  </span>
                 </button>
               ))}
             </div>
@@ -156,18 +180,18 @@ export default function ChatPanel({ property }: { property: Property | null }) {
           e.preventDefault();
           send(input);
         }}
-        className="flex gap-2 border-t border-gray-200 bg-white p-3"
+        className="flex gap-2 border-t border-ink/10 bg-paper p-3"
       >
         <input
           value={input}
           onChange={(e) => setInput(e.target.value)}
           placeholder="Ask a question…"
-          className="flex-1 rounded-xl border border-gray-200 px-3.5 py-2.5 text-sm outline-none transition focus:border-civic focus:ring-2 focus:ring-civic/15"
+          className="flex-1 rounded-xl border border-ink/12 bg-cream px-3.5 py-2.5 text-sm text-ink outline-none transition placeholder:text-ink/35 focus:border-civic focus:ring-2 focus:ring-civic/15"
         />
         <button
           type="submit"
           disabled={busy}
-          className="rounded-xl bg-civic px-5 py-2.5 text-sm font-semibold text-white transition hover:bg-civic/90 disabled:opacity-40"
+          className="rounded-xl bg-civic px-5 py-2.5 text-sm font-semibold text-cream transition hover:bg-civic-dark disabled:opacity-40"
         >
           Send
         </button>

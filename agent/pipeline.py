@@ -10,7 +10,7 @@ from concurrent.futures import ThreadPoolExecutor
 import boto3
 
 import config
-from prompts import CLASSIFIER_PROMPT
+from prompts import CLASSIFIER_PROMPT, CONTEXTUALIZE_PROMPT
 
 _bedrock = boto3.client("bedrock-runtime", region_name=config.REGION)
 _kb = boto3.client("bedrock-agent-runtime", region_name=config.REGION)
@@ -45,6 +45,38 @@ def classify_query(query: str) -> dict:
     data.setdefault("requires_property", False)
     data.setdefault("confidence", 0.0)
     return data
+
+
+# ------------------------------------------------------------ contextualize
+
+
+def contextualize_query(query: str, history: list[dict]) -> str:
+    """Rewrite a follow-up question into a standalone search query.
+
+    Uses recent conversation history to resolve pronouns and references so
+    that classification and retrieval work on follow-ups ("what about side
+    fences?"). Returns the original query when there is no history or the
+    rewrite fails.
+    """
+    if not history:
+        return query
+    transcript = "\n".join(
+        f"{m['role']}: {m['text']}" for m in history[-6:]
+    )
+    try:
+        resp = _bedrock.converse(
+            modelId=config.CLASSIFIER_MODEL,
+            system=[{"text": CONTEXTUALIZE_PROMPT}],
+            messages=[{"role": "user", "content": [{"text":
+                f"Conversation so far:\n{transcript}\n\n"
+                f"Latest message: {query}"
+            }]}],
+            inferenceConfig={"maxTokens": 150, "temperature": 0.0},
+        )
+        rewritten = resp["output"]["message"]["content"][0]["text"].strip()
+        return rewritten or query
+    except Exception:  # noqa: BLE001 — fall back to the raw query
+        return query
 
 
 # ----------------------------------------------------------------- retrieval

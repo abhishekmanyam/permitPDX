@@ -3,6 +3,8 @@ import MapPanel from "./components/MapPanel";
 import ChatPanel from "./components/ChatPanel";
 import AvatarPanel from "./components/AvatarPanel";
 import CallPanel from "./components/CallPanel";
+import Landing from "./components/Landing";
+import Logo from "./components/Logo";
 import { resolveAddress, reverseGeocode } from "./lib/api";
 import type { Property } from "./lib/types";
 
@@ -15,6 +17,8 @@ const TABS: { id: Tab; label: string }[] = [
 ];
 
 export default function App() {
+  const [entered, setEntered] = useState(false);
+  const [initialQuestion, setInitialQuestion] = useState<string | undefined>();
   const [property, setProperty] = useState<Property | null>(null);
   const [busy, setBusy] = useState(false);
   const [tab, setTab] = useState<Tab>("chat");
@@ -37,23 +41,35 @@ export default function App() {
     }
   }, []);
 
+  if (!entered) {
+    return (
+      <Landing
+        onEnter={(q) => {
+          setInitialQuestion(q);
+          setEntered(true);
+        }}
+      />
+    );
+  }
+
   return (
     <div className="flex h-full flex-col">
-      <header className="flex items-center justify-between border-b border-black/10 bg-gradient-to-r from-civic to-[#0f3d23] px-5 py-3 text-white">
-        <div className="flex items-center gap-2.5">
-          <span className="flex h-9 w-9 items-center justify-center rounded-lg bg-white/15 text-lg backdrop-blur">
-            🏛️
-          </span>
-          <div>
-            <div className="font-bold leading-tight tracking-tight">
-              Portland Permit Assistant
+      <header className="flex items-center justify-between border-b border-ink/10 bg-paper px-5 py-3">
+        <button
+          onClick={() => setEntered(false)}
+          className="group flex items-center gap-3 text-left"
+        >
+          <Logo size={38} />
+          <div className="leading-tight">
+            <div className="font-semibold tracking-tight text-ink">
+              PermitPDX
             </div>
-            <div className="text-xs text-white/70">
+            <div className="text-xs text-ink/50">
               City code, zoning &amp; permits — with cited answers
             </div>
           </div>
-        </div>
-        <span className="hidden rounded-full bg-white/10 px-3 py-1 text-xs text-white/80 sm:block">
+        </button>
+        <span className="hidden rounded-full border border-ink/12 px-3 py-1 text-xs text-ink/50 sm:block">
           Informational only — not an official determination
         </span>
       </header>
@@ -74,7 +90,7 @@ export default function App() {
               <button
                 key={t.id}
                 onClick={() => setTab(t.id)}
-                className={`border-b-2 px-4 py-2.5 text-sm font-semibold ${
+                className={`border-b-2 px-4 py-2.5 text-sm font-semibold transition ${
                   tab === t.id
                     ? "border-civic text-civic"
                     : "border-transparent text-gray-500 hover:text-gray-800"
@@ -85,7 +101,9 @@ export default function App() {
             ))}
           </nav>
           <div className="min-h-0 flex-1">
-            {tab === "chat" && <ChatPanel property={property} />}
+            {tab === "chat" && (
+              <ChatPanel property={property} initialQuestion={initialQuestion} />
+            )}
             {tab === "avatar" && <AvatarPanel />}
             {tab === "call" && <CallPanel />}
           </div>

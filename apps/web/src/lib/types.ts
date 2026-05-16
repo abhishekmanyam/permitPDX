@@ -3,6 +3,7 @@ export interface Source {
   title: string;
   uri: string;
   score: number;
+  snippet: string;
 }
 
 export interface Classification {
